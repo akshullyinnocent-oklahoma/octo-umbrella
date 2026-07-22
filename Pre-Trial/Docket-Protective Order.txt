@@ -1,0 +1,40 @@
+Here is the cleaned-up and formatted version of the Cleveland County Protective Order case docket from the Oklahoma State Courts Network (OSCN). All overlapping characters, formatting noise, and layout fragments have been removed to present a clear, scannable legal record.
+### **THE DISTRICT COURT IN AND FOR CLEVELAND COUNTY, OKLAHOMA**
+#### **STATE OKLAHOMA COURTS NETWORK (OSCN)**
+> **Notice:** The information on this page is NOT an official record. Verify all information with the official record keeper. Provided in compliance with the Oklahoma Open Records Act, 51 O.S. § 24A.1.
+> 
+### **CASE DETAILS**
+ * **Case No.:** PO-2019-453 (Protective Order)
+ * **Style:** Norton, Tiffaney v. Norton, Dallas C.
+ * **Filed:** 07/15/2019
+ * **Closed:** 07/29/2019
+ * **Presiding Judge:** Jequita H. Napoli
+### **PARTIES**
+ * **Tiffaney Norton:** Plaintiff / Petitioner
+ * **Dallas C. Norton:** Defendant / Respondent
+### **DEFENSE ATTORNEYS**
+ * **Keith J. Nedwick** (Bar #18431)
+   3750 W. Main Street, Suite AA, Norman, OK 73072
+ * **Cory Ortega** (Bar #31676)
+   130 East Eufaula, Norman, OK 73069
+ * **Heather Strohmeyer** (Bar #30745)
+   The Law Offices of Keith J. Nedwick
+   130 East Eufaula, Norman, OK 73069
+### **ISSUES & DISPOSITION**
+ * **Issue #1:** Protective Order (PO)
+   * **Filed By:** Tiffaney Norton on 07/15/2019
+   * **Disposition:** **Protective Order Issued** on 07/29/2019. Granted by the Court, with costs assessed to the Defendant.
+### **CHRONOLOGICAL CASE DOCKET**
+#### **July 2019**
+ * **07-15-2019 [TEXT]** — Protective Order Initial Filing.
+ * **07-15-2019 [PO]** — Emergency Protective Order filed.
+ * **07-15-2019 [TEXT]** — OCIS automatically assigned Judge Jequita H. Napoli to this case.
+ * **07-15-2019 [NOHP$]** — Notice of Hearing issued to the Cleveland County Sheriff's box.
+ * **07-15-2019 [INFORMATION]** — Defendant Information Sheet filed.
+ * **07-15-2019 [FINANCIAL]** — Total initial court fees assessed: **$214.64** *(comprising Petition, Dispute Mediation, Law Library, Courthouse Security, and Oklahoma Court Information System revolving funds)*.
+ * **07-18-2019 [SERV]** — Return of Service filed. Defendant Dallas C. Norton was **personally served** by the Cleveland County Sheriff on July 18, 2019. Cost: $50.00.
+ * **07-29-2019 [CRF]** — Court Reporter Fee filed for trial on the merits. Cost: $20.00.
+ * **07-29-2019 [EAA]** — Entry of Appearance filed by The Law Offices of Keith J. Nedwick P.C. as counsel of record for the Defendant.
+ * **07-29-2019 [DISPPOI]** — **Victim Protective Order Hearing.** Held before Judge Scott Brockman. Both the Plaintiff and Defendant appeared in person. Testimony was taken, and after a full review of the case, the Court **granted** the Protective Order. All court costs were assessed to the Defendant.
+ * **07-29-2019 [FPO]** — **Final Protective Order Issued.** Document executed by the court, ruled **effective until 07-29-2024**. Certified copies distributed to the Petitioner, Defendant, and the Cleveland County Sheriff.
+ * **07-29-2019 [ACCOUNT]** — Receipt #2019-1088299 issued. Payor: Dallas C. Norton. Total amount paid: $20.00 toward Clerk Fees.
