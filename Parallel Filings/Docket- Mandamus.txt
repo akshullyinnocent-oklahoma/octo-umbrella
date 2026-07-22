@@ -1,0 +1,42 @@
+Here is the cleaned-up and formatted version of the Oklahoma State Courts Network (OSCN) docket sheet report. All duplicate text, overlapping characters, and OCR stuttering have been removed to restore a clean, professional court docket format.
+### **THE SUPREME COURT OF THE STATE OF OKLAHOMA**
+#### **STATE OKLAHOMA COURTS NETWORK**
+> The information contained in this report is provided in compliance with the Oklahoma Open Records Act, 51 O.S. § 24A.1. Use of this information is governed by this act, as well as other applicable state and federal laws.
+> 
+### **IN THE COURT OF CRIMINAL APPEALS OF THE STATE OF OKLAHOMA**
+**Case No.:** MA-2026-30
+**Style:** Dallas C. Norton v. State of Oklahoma ([Writ of] Mandamus)
+**Filed:** 01/15/2026
+**Appealed From:** Cleveland County District Court
+### **PARTIES**
+ * **Dallas C. Norton:** Petitioner
+ * **State of Oklahoma:** Respondent
+### **ATTORNEYS**
+ * **Cleveland County District Attorney**
+   116 S. Peters
+   Norman, OK 73069
+   *Representing: State of Oklahoma*
+ * **Dallas C. Norton**
+   #2005998
+   GPCC / E-F-01
+   P.O. Box 7000
+   Hinton, OK 73047
+   *Representing: Pro Se / Petitioner*
+### **LOWER COURT COUNTS AND OTHER INFORMATION**
+ * **County Case Number:** CF-2019-1273
+ * **Judge:** Thad Balkman
+### **DOCKET ENTRIES**
+
+| Date | Code | Description |
+| :--- | :--- | :--- |
+| **01-15-2026** | CASES | [WRIT OF] MANDAMUS INITIAL FILING |
+| **01-15-2026** | PAUP | PAUPER AFFIDAVIT FOR NORTON, DALLAS C. |
+| **01-15-2026** | PAY | RECEIPT # 93554 ON 01/15/2026. <br> PAYOR: DALLAS C. NORTON <br> TOTAL AMOUNT PAID: $ 0.00 <br> LINE ITEMS: <br> $ 0.00 ON [WRIT OF] MANDAMUS INITIAL FILING. |
+| **01-15-2026** | PETFT | PETITION FOR WRIT OF MANDAMUS <br> *Document Available (TIFF / PDF)* |
+| **01-28-2026** | ORDR | **JE: ORDER, LUMPKIN, P.J.;** COPIES TO HON. CLEVELAND DIST. COURT CLERK, AND ATTORNEYS; ORDER DIRECTING RESPONSE. The District Court of Cleveland County shall determine whether Petitioner has filed the above-referenced pleading. If no such request was filed, the District Court shall advise this Court by memorandum. If the District Court has already disposed of Petitioner's request, a certified copy of the disposition order shall be forwarded to this Court and Petitioner. If the request was filed and disposition has not been made, the District Court shall act upon the request within 30 days from the date of this order and forward a certified copy of the disposition order to this Court and Petitioner. <br> *Document Available (TIFF / PDF)* |
+| **02-19-2026** | TEXT | DISTRICT COURT ORDER DENYING PETITIONER'S APPLICATION FOR POST-CONVICTION RELIEF — S/ HON. THAD BALKMAN <br> *Document Available (TIFF / PDF)* |
+| **02-25-2026** | DISN | **JE: ORDER; CONCUR: LUMPKIN, P.J., MUSSEMAN, V.P.J., LEWIS, J., HUDSON, J., ROWLAND, J.;** COPIES TO HON. THAD BALKMAN, DIST. COURT CLERK, AND ATTORNEYS; ORDER DISMISSING REQUEST AS MOOT; District Court fully adjudicated Petitioner's complaints. Writ of Mandamus is moot and dismissed. <br> *Document Available (TIFF / PDF)* |
+
+### **SUMMARY OF ACTION**
+The Petitioner, Dallas C. Norton, filed a Pro Se Petition for a Writ of Mandamus on January 15, 2026, to compel action from the lower court in his underlying criminal case (**CF-2019-1273**).
+The Court of Criminal Appeals issued an order on January 28, 2026, directing the Cleveland County District Court to respond. Following Judge Thad Balkman's subsequent entry of an order denying post-conviction relief on February 19, 2026, the Court of Criminal Appeals officially dismissed the Writ of Mandamus as moot on February 25, 2026, because the requested lower court action had been completed.
