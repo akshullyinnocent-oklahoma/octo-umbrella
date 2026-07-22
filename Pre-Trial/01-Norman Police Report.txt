@@ -1,0 +1,325 @@
+# **NORMAN POLICE DEPARTMENT — ARREST INFORMATION SHEET**
+**201-B West Gray Street, Norman, OK 73069**
+**Charges 00056881-2019**
+### **CHARGES**
+ * **Statute:** 21-1123
+ * **Description:** LEWD OR INDECENT PROPOSALS/ACTS TO CHILD (FORCIBLE FONDLING)
+ * **Counts:** 01
+ * **Attempt/Commit:** 1 Committed
+**Case, Officer:** NORMAN\sjudy
+**Supervisor:** NORMAN\dhopkins
+**Merged By:** NORMAN\emartinez
+### **ARRESTEE DETAILS**
+ * **Arrest Date/Time:** 12/25/2018 18:37
+ * **Location of Arrest:** 1507 W LINDSEY ST, NORMAN, OK
+ * **Arrest Type:** Summoned Warrant Request
+ * **Name (Last, First, Middle, Suffix):** NORTON, DALLAS CHRISTOPHER
+ * **DOB:** 01/03/1986
+ * **Age:** 33
+ * **Race:** White
+ * **Sex:** Male
+ * **DL Number/State:** D080541173/OK
+ * **Address:** 1616 ALAMEDA ST m3 NORMAN, OK 73071
+ * **Height:** 6'5
+ * **Weight:** 350
+ * **Hair:** Brown
+ * **Eye:** Blue
+ * **Arresting Officer:** 110966 Judy
+ * **Reporting Officer:** 110966 Judy
+ * **Date:** 12/25/2018
+ * **Reviewed By:** Hopkins, Derrick Ray
+ * **Date Reviewed:** 10/01/2019
+# **NORMAN POLICE DEPARTMENT — CASE REPORT**
+**201-B West Gray Street, Norman, OK 73069**
+**CASE 2019-00056881**
+### **OFFENSES**
+ * **Statute:** 21-843.5.F
+ * **Description:** SEXUAL ABUSE - CHILD UNDER 12 (FORCIBLE FONDLING)
+ * **Counts:** 01
+ * **Attempt/Commit:** 1 Committed
+ * **Statute:** 21-1123
+ * **Description:** LEWD OR INDECENT PROPOSALS/ACTS TO CHILD (FORCIBLE FONDLING)
+ * **Counts:** 02
+ * **Attempt/Commit:** 1 Committed
+**Case, Officer:** NORMAN\tpierce
+**Supervisor:** NORMAN\bgrippen
+**Merged By:** NORMAN\hhamilton
+### **EVENT**
+ * **Reported Date/Time:** 7/14/2019 21:15
+ * **Occurred Incident Type:** Sexual Assault (Child)
+ * **Occurred From Date/Time:** 11/29/2018 08:00
+ * **Occurred Thru Date/Time:** 12/25/2018 23:00
+ * **Location of Occurrence:** 1500 FAWN RUN CR, Norman, OK
+### **SUBJECTS**
+ * **Jacket Subject Type:** Adult
+ * **Type:** Suspect
+ * **Name (Last, First, Middle, Suffix):** NORTON, DALLAS CHRISTOPHER
+ * **DOB:** 01/03/1986
+ * **Age or Age Range:** 33
+ * **Race:** White
+ * **Sex:** Male
+ * **DL Number/State:** D080541173/OK
+ * **Address:** 1616 ALAMEDA ST M3 NORMAN, OK 73071
+ * **Height Range:** 6'5 - 6'5
+ * **Weight Range:** 350 - 350
+ * **Hair:** Brown
+ * **Eye:** Blue
+ * **Phone:** (405)517-1499
+ * **Jacket Subject Type:** Juvenile
+ * **Type:** Victim
+ * **Name (Last, First, Middle, Suffix):** JACKSON, BRIONNA NICOLE
+ * **DOB:** 10/16/2007
+ * **Age or Age Range:** 11
+ * **Race:** White
+ * **Sex:** Female
+ * **Address:** 1500 FAWN RUN CR NORMAN, OK 73072
+ * **Height Range:** 5'0 - 5'2
+ * **Weight Range:** 130 - 150
+ * **Hair:** Brown
+ * **Eye:** Blue
+ * **Phone:** (405)488-8189
+ * **Jacket Subject Type:** Adult
+ * **Type:** Reporting Person
+ * **Name (Last, First, Middle, Suffix):** JACKSON, JEFFRY CHAD
+ * **DOB:** 08/31/1979
+ * **Age or Age Range:** 39
+ * **Race:** White
+ * **Sex:** Male
+ * **DL Number/State:** D10251409/AZ
+ * **Address:** 16525 N ELKINS RD TUCSON, AZ 85739
+ * **Height or Range:** 6'0 - 6'0
+ * **Weight or Range:** 220 - 220
+ * **Hair:** Brown
+ * **Eye:** Green
+ * **Phone:** (405)549-6409
+ * **Reporting Officer:** 1835 Pierce
+ * **Date:** 7/14/2019
+ * **Reviewed By:** Grippen, Barry
+ * **Date Reviewed:** 07/15/2019
+### **ADDITIONAL SUBJECTS**
+ * **Jacket/Subject Type:** Adult
+ * **Type:** Reporting Person
+ * **Name (Last, First, Middle, Suffix):** NORTON, TIFFANEY MICHELLE
+ * **DOB:** 12/18/1983
+ * **Age or Age Range:** 35
+ * **Race:** White
+ * **Sex:** Female
+ * **DL Number/State:** W081887006/OK
+ * **Address:** 1500 FAWN RUN CR NORMAN, OK 73071
+ * **Height Range:** 5'3 - 5'3
+ * **Weight or Range:** 240 - 240
+ * **Hair:** Blonde
+ * **Eye:** Green
+ * **Phone:** (405)314-9895
+ * **Jacket/Subject Type:** Juvenile
+ * **Type:** Other
+ * **Name (Last, First, Middle, Suffix):** JACKSON, DYLAN CLAYTON
+ * **DOB:** 09/19/2001
+ * **Age or Age Range:** 17
+ * **Race:** White
+ * **Sex:** Male
+ * **DL Number/State:** U083997659/OK
+ * **Address:** 1500 FAWN RUN CR NORMAN, OK 73071
+ * **Height Range:** 5'6 - 5'6
+ * **Weight Range:** 245 - 245
+ * **Hair:** Brown
+ * **Eye:** Green
+ * **Phone:** (405)215-6363
+ * **Jacket/Subject Type:** Juvenile
+ * **Type:** Other
+ * **Name (Last, First, Middle, Suffix):** JACKSON, CONNER LEE
+ * **DOB:** 03/01/2005
+ * **Age or Age Range:** 14
+ * **Race:** White
+ * **Sex:** Male
+ * **Address:** 1500 FAWN RUN CR NORMAN, OK 73071
+ * **Height or Range:** 5'5 - 5'5
+ * **Weight Range:** 100 - 100
+ * **Hair:** Red
+ * **Eye:** Blue
+ * **Phone:** (405)882-5911
+ * **Jacket Subject Type:** Juvenile
+ * **Type:** Other
+ * **Name (Last, First, Middle, Suffix):** JACKSON, SERRA BRAELYN
+ * **DOB:** 09/28/2010
+ * **Age or Age Range:** 8
+ * **Race:** White
+ * **Sex:** Female
+ * **Address:** 16525 N ELKINS RD TUCSON, AZ 85739
+ * **Height or Range:** 4'0 - 4'3
+ * **Weight or Range:** 70 - 70
+ * **Hair:** Brown
+ * **Eye:** Brown
+ * **Jacket Subject Type:** Juvenile
+ * **Type:** Other
+ * **Name (Last, First, Middle, Suffix):** JACKSON, MATTHEW RYAN
+ * **DOB:** 06/07/2013
+ * **Age or Age Range:** 6
+ * **Race:** White
+ * **Sex:** Male
+ * **Address:** 16525 N ELKINS RD TUCSON, AZ 85739
+ * **Height or Range:** 3'8 - 3'8
+ * **Weight or Range:** 50 - 50
+ * **Hair:** Brown
+ * **Eye:** Hazel
+ * **Jacket/Subject Type:** Adult
+ * **Type:** Other
+ * **Name (Last, First, Middle, Suffix):** FERGUSON, BAILEY RENEE
+ * **DOB:** 10/09/2000
+ * **Age or Age Range:** 18
+ * **Race:** White
+ * **Sex:** Female
+ * **DL Number/State:** V083940623/OK
+ * **Address:** 18701 SKYRIDGE RD NEWALLA, OK 74857
+ * **Height or Range:** 5'3 - 5'3
+ * **Weight or Range:** 160 - 160
+ * **Hair:** Brown
+ * **Eye:** Blue
+ * **Phone:** (405)898-4386
+# **CASE NARRATIVE: REPORT BY T. PIERCE #1835**
+**CASE NUMBER: 2019-56881**
+### **Notification:**
+On July 14, 2019 at approximately 2100 hours, I was assigned a possible sexual assault investigation.
+### **Contact with Involved Parties:**
+#### **Biological Father Jeffry Jackson:**
+I contacted the reporting party Jeffry Jackson via telephone. Jeffry stated that he lives in Tucson Arizona. Jeffry stated his ex-wife Tiffaney Norton along with their three children live in Norman Oklahoma at 1500 Fawn Run Crossing. Jeffry stated the three children's names were Brionna, Dylan, and Conner Jackson. Jeffry said Brionna and Conner were in Arizona visiting him for the summer. Jeffry informed me that Brionna had been expressing her desire to stay in Arizona with him and to not return to Oklahoma. Jeffry stated Brionna was very adamant about not returning to Oklahoma.
+Jeffry stated he received a phone call from Tiffaney on July 14, 2019 at approximately 1900 hours Arizona time (Mountain Standard Time). Tiffaney told Jeffry that she had learned that her soon to be ex-husband Dallas Norton had made unwanted sexual advances towards their ex-babysitter. Tiffaney told Jeffry that she was concerned Dallas may have done something inappropriate to Brionna. Tiffaney asked Jeffry if he would speak with Brionna to find out if Dallas had done something to her.
+Jeffry stated his wife, Caitlin Jackson, and he sat Brionna down and asked her if Dallas had done anything inappropriate to her. Jeffry stated Brionna disclosed to the both of them that Dallas had inappropriately touched her. Brionna told Jeffry that sometime between November and December of 2018 she was sitting on the couch in the home in Norman. Brionna said that Dallas had come into the living room in nothing but his underwear and sat on the couch next to her. Brionna stated that Dallas had put his hand under her pantie and started touching her vagina. Brionna then said Dallas tried to get her to touch his penis.
+Jeffry said that Brionna stated she did not touch Dallas' penis. Jeffry was unsure and couldn't ask Brionna if Dallas had penetrated Brionna with his fingers. Jeffry was not able to say how long the molestation happened. Brionna told Jeffry that this only happened once. Brionna told Jeffry the reason she never said anything because she was scared Dallas would harm either Tiffaney or her. Brionna told Jeffry this was the reason she did not want to return to Oklahoma.
+Jeffry said that Brionna did not disclose any further information. I informed Jeffry to not ask Brionna any further questions until speaking with a detective, but to listen and comfort if needed. Jeffry stated he contacted Tiffaney and informed her of what Brionna told him. Jeffry stated that Tiffaney and he are discussing if Brionna staying in Arizona would be best for Brionna. Jeffry stated his two other children and his wife live at his residence in Tucson; Serra Jackson and Matthew Jackson.
+#### **Biological Mother Tiffaney Norton:**
+Jeffry provided me the telephone number for Tiffaney. I contacted Tiffaney via telephone and made arrangements to speak with her at her residence, 1500 Fawn Run Crossing. I arrived at the residence and made contact with Tiffaney.
+Tiffaney stated that she had been in a relationship with Dallas for approximately 2 years. Tiffaney stated that Dallas, Brionna, Dylan, Conner, and her all lived in the residence for approximately the same time. Tiffaney stated she married Dallas shortly after moving into the residence. Tiffaney stated she did not have any children with Dallas.
+Tiffaney stated throughout her relationship Dallas, he was verbally and emotionally abusive to all three children and her. Tiffaney stated that Dallas had never physically harmed any of them. Tiffaney stated she filed for divorce from Dallas around November 2018. Tiffaney stated Dallas moved out of the residence. Tiffaney stated she got back together with Dallas and allowed him to move back into the residence sometime around December of 2018.
+Tiffaney stated she started to notice Brionna becoming distant and depressed sometime January 2019. Tiffaney said she spoke with Brionna but Brionna did not say anything about the incident with Dallas. Tiffaney said that things got started to get worse with Dallas' behavior and she kicked him out of the residence May of 2019. Tiffaney stated that she had divorce papers notarized around June 27, 2019 and served them to Dallas. Tiffaney stated that Dallas has refused to sign the papers.
+Tiffaney stated that she was speaking with a family friend on July 14, 2019, Baylee Ferguson. Tiffaney stated that Baylee used to babysit Dallas' children and her children at the residence. Tiffaney stated that while speaking with Baylee, Baylee disclosed that Dallas had been sending her nude photographs and making unwanted sexual advances towards her. Tiffaney stated Baylee told her that this had been going on for some time, was not able to state how long.
+Tiffaney stated this information scared her and that is when she called Jeffry and asked him to speak with Brionna. Tiffaney stated soon after she spoke with Jeffry, he called her back with what Brionna had disclosed. Tiffaney said that she called Dallas and confronted him about the allegations. Tiffaney said that when she asked Dallas if he had molested Brionna, Dallas took a long pause and finally denied the allegations. Tiffaney said she told Dallas that she would be calling the police.
+Tiffaney stated Dallas is now staying in the Sterling Apartments at 1616 Alameda St apartment M3. Dylan who was sitting in the living room during my interview with Tifffaney stated Dallas is driving a 2015 Marron Nissan Titan with a black tool box in the bed with a "Bikers against Child Abuse" sticker on the back window. Dylan also said that Dallas works for Quick Way a company that delivers for Highland Dairy. Tiffaney gave me Baylee's information and contact number.
+Tiffaney stated that Brionna will be returning to Oklahoma sometime between July 19-31, 2019. Tiffaney stated that Brionna will be returning to Arizona around August 9, 2019 maybe sooner. I informed Tiffaney to not question Brionna about the incident until she is contacted by detectives.
+### **Investigation/Observations:**
+I did not attempt to make contact with Dallas or Baylee. I contacted DHS and got referral number 2013697. I attached all children and adults that live in both homes to this report. Tiffaney told me that Dallas had three children; Austin Norton, Tara Kates, and Rylie Norton. Tiffaney was not able to provide any information for any of these children. Tiffaney stated that they do not live with either Dallas or her.
+### **Officers Audio / Video Recordings:**
+Department issued body worn camera was used during this call for service. The related file was stored in the appropriate digital evidence system in compliance with current department procedures. I have not reviewed my recording.
+# **CASE SUPPLEMENT REPORT: REPORT BY MPO CASPERS #0934**
+**CASE NUMBER: 2019-56881**
+**Reported Date/Time:** 07/15/2019 20:43
+**Location of Occurrence:** 201-b W GRAY ST, NORMAN, OK
+### **Notification and Synopsis**
+ * **7-15-19 2038 Supplement report**
+ * **201-B W. Gray St.**
+ * **Jeffry Jackson - Reporting Party**
+ * **Wanted to add information to this case**
+### **Arrival and Contact with Involved Parties**
+At the above date and time, i contacted Jeffry Jackson (RP) by phone in reference to 2019-56881. Jeffry said that his daughter Brionna Jackson (Victim) approached him today and told him that Dallas Norton (Suspect) had attempted to touch her numerous times over a couple month period.
+### **Officers Audio / Video Recordings**
+Department issued body worn camera (BWC) was not used during this call for service. The related file(s) are stored in the appropriate digital evidence system in compliance with current department procedures. I have not reviewed my recording(s).
+# **CASE SUPPLEMENT REPORT: REPORT BY DETECTIVE SEAN JUDY #0813**
+**CASE NUMBER: 2019-56881**
+**Reported Date/Time:** 09/27/2019 18:15
+**Location of Occurrence:** 1507 W LINDSEY ST, NORMAN, OK
+**Offense:** Lewd Acts with a Child 21 § 1123
+### **SUMMARY OF INITIAL REPORTS**
+On July 14, 2019 OFC Pierce reported the following details that had been reported by the victim's father, Jeffry JACKSON:
+ * JEFFRY reported that his daughter, Brionna JACKSON, had been with him over the summer.
+ * BRIONNA lives in Norman with her mother, Tiffaney NORTON, the rest of the year.
+ * JEFFRY told OFC Pierce that BRIONNA had adamantly requested to stay in Arizona with him.
+ * JEFFRY stated that he had spoken with his ex-wife TIFFANEY by telephone, and that her current husband, Dallas NORTON, had made "unwanted sexual advances" towards a former babysitter.
+ * TIFFANEY requested that JEFFRY and his current wife, Caitlin JACKSON, speak with BRIONNA to determine if DALLAS had done anything inappropriate with her.
+ * JEFFRY stated BRIONNA disclosed to the both of them that DALLAS had inappropriately touched her sometime between November and December of 2018.
+ * BRIONNA reported that DALLAS touched her genitals and had attempted to her touch his penis.
+ * BRIONNA only disclosed one incident initially.
+ * BRIONNA told her parents that had not reported the incident because she was afraid that DALLAS would harm her and/or her mother.
+ * OFC Pierce contacted TIFFANEY and asked her about DALLAS.
+ * TIFFANEY reported that she had been in a relationship with DALLAS for approximately two years.
+ * TIFFANEY reported that DALLAS was verbally and emotionally abusive to her and her three children.
+ * TIFFANEY reported that she filed for divorce in November 2018 and DALLAS moved out; however, they reconciled and he moved back in during December 2018.
+ * TIFFANEY reported that BRIONNA became "distant and depressed" in January 2019.
+ * TIFFANEY attempted to talk to BRIONNA about her behavior, but BRIONNA would not disclose any details about the incident.
+ * TIFFANEY reported that DALLAS' behavior worsened and he moved out again in May 2019.
+ * TIFFANEY reported that DALLAS has refused to sign the divorce papers.
+ * TIFFANEY reported that she saw and spoke with Bailey FERGUSON, BRIONNA's former babysitter.
+ * FERGUSON told TIFFANEY that DALLAS had sent her nude photos of himself, and made "unwanted sexual advances" towards her. FERGUSON was 18 years old when DALLAS began the inappropriate behavior.
+On July 15, 2019 MPO Caspers took a supplement report from JEFFRY. MPO Caspers reported the additional information:
+ * BRIONNA approached JEFFRY today and told him that DALLAS had attempted to touch her numerous times over a couple month period.
+### **CASE NARRATIVE**
+I contacted TIFFANEY and reviewed the patrol reports with her. DHS case worker Kalyn MCMAHON, has already scheduled a forensic interview for July 22, 2019. Additionally, I was notified by TIFFANEY that she had applied and received a VPO on July 15, 2019 (a final protective order was granted on July 29, 2019).
+#### **July 22, 2019**
+BRIONNA was forensically interviewed at the Mary Abbott House. I was not present for the interview.
+#### **July 25, 2019**
+I conducted research on Dallas NORTON and I located a previous charge of Outraging Public Decency from Oklahoma County in 2005. I contacted the records section of the Oklahoma County courthouse and requested a copy of all documents related to the case (CF-2005-457).
+I obtained five pages of documentation pertaining to the case. The affidavit stated that NORTON was masturbating in his car, which was observed by a female motorist. NORTON was later interviewed by the Midwest City Police Department and confessed to the act.
+#### **July 30, 2019**
+I received a fax from attorney Cory Ortega from the Law Offices of Keith J. Nedwick. Ortega sent notification that he was representing Dallas NORTON and to direct all communication to his office.
+In addition to the fax, I received a phone call from Ortega, who asked if I was ready to submit charges. I told Ortega that I was not, but I asked if DALLAS would be available for an interview. Ortega responded "probably not."
+I obtained the forensic interview from the Mary Abbott House and reviewed the video. BRIONNA made the following statements during her interview:
+ * BRIONNA stated that she was at the Mary Abbott House "today" because DALLAS "touched her in the wrong place."
+ * BRIONNA disclosed that DALLAS only touched "it" one time, but attempted to touch "it" other times.
+ * BRIONNA disclosed that she "went into the room to snuggle with him."
+ * BRIONNA stated that he (DALLAS) "put his hand in my pants and touched it."
+ * BRIONNA disclosed that it occurred in her mother's bedroom.
+ * BRIONNA reported that she was laying on her stomach and DALLAS was laying on his back.
+ * BRIONNA disclosed that she talked with DALLAS prior to being touched; however, she could not recall what they talked about.
+ * BRIONNA reported that DALLAS "wiggled his finger around in there." BRIONNA described "in there" as "between the skin."
+ * BRIONNA stated that he went through the back of her pants (shorts) and panties and then to the front (of her body) and then "went up and started wiggling his finger."
+ * BRIONNA stated that he "went slowly" and that it "felt weird."
+ * BRIONNA reported that after "that" he tried to make her touch his penis.
+ * BRIONNA stated that after the incident she got up, went into the living room, and then into the bathroom. BRIONNA explained that she left the bathroom and laid down in her room and fell asleep.
+ * BRIONNA disclosed that she did not tell her mother because she thought "they were happy together."
+ * BRIONNA stated that DALLAS grabbed her hand and made her touch "it." BRIONNA explained that DALLAS was wearing underwear and that his penis "was up." BRIONNA did not see DALLAS' bare penis.
+ * BRIONNA disclosed that it felt weird and that DALLAS was moving her hand "very slowly."
+ * BRIONNA pointed to the palm of her hand as the part of her hand that made contact with DALLAS' penis.
+ * BRIONNA reported that she moved her hand away quickly.
+ * BRIONNA disclosed that DALLAS told her "it's OK," but that she moved her hand anyway.
+ * BRIONNA reported that her siblings and step-siblings were in the living room when the incident occurred.
+ * BRIONNA disclosed that it happened at night and that she was ten (10) years old.
+During the interview, BRIONNA disclosed a second incident where DALLAS attempted to touch "her boobies." BRIONNA made the following statements:
+ * BRIONNA reported that DALLAS unhooked her bra.
+ * BRIONNA disclosed that this happened after DALLAS picked her up from school and took her to their house.
+ * BRIONNA stated that no one else was at home during the incident.
+ * BRIONNA stated that DALLAS made her mad and that she began "hitting" and "wrestling" with DALLAS. During this encounter BRIONNA alleged that DALLAS unhooked her bra.
+ * BRIONNA reported that during the incident, DALLAS' hand went up her shirt and that he attempted to touch her breasts.
+ * BRIONNA stated that she "didn't let him touch her breasts."
+The interview was re-directed back to the initial disclosure. BRIONNA made the following statements:
+ * BRIONNA stated that she was afraid to tell her mom because "they were happy at that point."
+ * BRIONNA explained that she didn't want DALLAS "to do anything to us."
+ * BRIONNA stated that she was never threatened by DALLAS and that there were only two incidents were he "did something" to her.
+ * BRIONNA reported that she initially disclosed to her father and step-mother in Arizona. BRIONNA stated that her father and step-mom were mad, but they were told that they would have to report the incident to an Oklahoma agency since the assault occurred here.
+ * BRIONNA stated that on the first night, she told JEFFRY and CAITLIN that DALLAS had touched her "vagina." BRIONNA disclosed the other incident the following day.
+ * BRIONNA confirmed that the "wrong place" and where DALLAS had wiggled his finger "between the skin" was her vagina.
+ * BRIONNA did not notice anything different about her body after the incident.
+ * BRIONNA stated that DALLAS first touched her "butt" and that his hand went up the leg of her shorts.
+ * BRIONNA disclosed that DALLAS tapped her leg and moved her leg (apart) prior to moving his hand up her shorts.
+BRIONNA and then interviewer took a short break and met again to conclude the interview. BRIONNA made the following statements:
+ * BRIONNA reported that she went into her mom's room because she likes to snuggle.
+ * BRIONNA explained that she had snuggled before the incident, but he never attempted to do "anything" to her. BRIONNA stated that she didn't "know what he was thinking."
+ * BRIONNA stated that on the night of the incident, her mom was at the casino with friends.
+ * BRIONNA reported that DALLAS and TIFFANEY were married the day after the last day of school.
+ * BRIONNA could not remember when the assault occurred.
+ * BRIONNA reported that although DALLAS wiggled his finger "between the skin of her vagina," DALLAS' finger didn't go "inside, inside."
+After watching the forensic interview I spoke with TIFFANEY by telephone. TIFFANEY confirmed that DALLAS had numerous opportunities to be with BRIONNA alone, to include picking her up from school. TIFFANEY explained that DALLAS had difficulty keeping a job and that she worked multiple jobs to support their family.
+I contacted JEFFRY and I asked him additional questions about BRIONNA's disclosure. JEFFRY told me that he did not know why BRIONNA wanted to stay with him initially. JEFFRY explained that he had discussed it with TIFFANEY. JEFFRY reported that TIFFANEY called him on July 14, 2019 and told him about what the babysitter had told her. TIFFANEY was concerned that something might have happened to BRIONNA and she asked JEFFRY to talk to BRIONNA.
+JEFFRY stated that he and CAITLIN asked BRIONNA if anyone had touched or said anything that was inappropriate. JEFFRY specifically stated that they left it open and did not use names when they asked BRIONNA questions.
+I asked JEFFRY for CAITLIN's phone number (405)549-6328. I called CAITLIN and she confirmed what JEFFRY had told me. CAITLIN also mentioned the additional disclosures and that they had not shared that information with TIFFANEY.
+I contacted the babysitter, Bailey FERGUSON, by telephone. FERGUSON confirmed that DALLAS had sent her three different pictures of an erect penis. FERGUSON told me that prior to the photos, DALLAS had made multiple inappropriate comments about her body and how she looked. FERGUSON reported that he made comments about her whole body and not just one feature. FERGUSON stated that she babysat less than a year and that she left due to DALLAS' behavior and because she wasn't being paid enough to sit for them. FERGUSON stated that she did not retain the photos and that she did not send DALLAS any photos in return. FERGUSON confirmed that she was 18 years old at the time the photos were sent.
+#### **August 22, 2019**
+I contacted the records section of the Cleveland County courthouse and obtained a copy of the final order of protection for BRIONNA, which was approved on July 29, 2019. Although the initial VPO covered Dylan, Conner, and Brionna JACKSON, only BRIONNA was listed on the final VPO.
+I staffed the case with a member of the Cleveland County Sheriff's Office, who agreed to file one count of Lewd Acts with a Child Under 12.
+### **ADDITIONAL STATEMENTS:**
+N/A
+### **DETECTIVE'S AUDIO/VIDEO RECORDINGS:**
+Audio recordings of my interviews with FERGUSON, and follow-up interviews of JEFFRY and TIFFANEY were uploaded to Axon Commander.
+### **EVIDENCE PROCESSING/HANDLING, PACKAGING, AND DISPOSITION**
+Copies of the VPO Petition, Final VPO, and documents from CF-2005-457 were uploaded to Axon Commander.
+### **DISPOSITION**
+11/Warrant Requested
+Detective Sean L. Judy
+Commission Number: 0813
+Norman Police Department
+Criminal Investigation Division
+(405) 366-5220
+**Reporting Officer:** 110966 Judy
+**Date:** 09/27/2019
+**Reviewed By:** Hopkins, Derrick Ray
+**Date Reviewed:** 10/01/2019
+///End of Statement///
+
