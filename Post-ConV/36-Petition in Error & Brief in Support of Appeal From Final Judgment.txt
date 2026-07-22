@@ -1,0 +1,292 @@
+IN THE COURT OF CRIMINAL APPEALS OF THE STATE OF OKLAHOMA
+
+-
+
+DALLAS CHRISTOPHER NORTON,
+Petitioner/Appellant,
+v.
+THE STATE OF OKLAHOMA,
+Respondent/Appellee.
+
+-
+OKLAHOMA COURT OF CRIMINAL APPEALS
+
+ Case No.___________________________
+
+Cleveland County District Court
+Case No. CF-2019-1273
+
+-
+
+  PETITION IN ERROR AND BRIEF IN SUPPORT OF APPEAL FROM FINAL JUDGMENT DENYING APPLICATION FOR POST-CONVICTION RELIEF
+
+-
+
+
+
+TABLE OF CONTENTS
+Table of Authorities—––——-2
+Statement of the Case——----3
+Statement of the Facts—---—-4
+Proposition I—--------------------8
+Proposition II—-------------------14
+Proposition III—------------------15
+Proposition IV—------------------18
+Proposition V—-------------------20
+Proposition VI—------------------21
+Proposition VII—-----------------27
+Proposition VIII—-----------------28
+Conclusion and Relief Sought—29
+Certificate of Service—----------30
+
+Table of Authorities
+FEDERAL CASES
+OKLAHOMA CASES
+STATUTES & RULES
+Schlup v. Delo, 513 U.S. 298 (1995)
+McQuiggin v. Perkins, 569 U.S. 383 (2013)
+House v. Bell, 547 U.S. 518 (2006)
+Fontenot v. Crow, 4 F.4th 982 (10th Cir. 2021)
+Napue v. Illinois, 360 U.S. 264 (1959)
+United States v. Cronic, 466 U.S. 648 (1984)
+Strickland v. Washington, 466 U.S. 668 (1984)
+In re Murchison, 349 U.S. 133 (1955)
+Riva v. Ficco, 803 F.3d 77 (1st Cir. 2015)
+U.S. v. Magallanez, 408 F.3d 672 (10th Cir. 2005)
+Logan v. State, 2013 OK CR 2, 293 P.3d 969
+Boyd v. State, 1996 OK CR 12, 915 P.2d 922
+Paxton v. State, 1993 OK CR 9, 867 P.2d 1309
+Simpson v. State, 1954 OK CR 28, 267 P.2d 1008
+Dickens v. State, 2005 OK CR 4, 106 P.3d 599
+Quillen v. State, 2007 OK CR 22, 163 P.3d 587
+Applegate v. State, 1995 OK CR 49, 904 P.2d 130
+Pryor v. State, 2011 OK CR 18, 254 P.3d 721
+Cole v. State, 2007 OK CR 25, 164 P.3d 1089
+DeLozier v. State, 2007 OK CR 34, 167 P.3d 402
+22 O.S. § 1080(D) 
+22 O.S. § 1084
+22 O.S. § 1086
+22 O.S. § 1089 (D) (4)(b)(2)
+22 O.S. § 952 
+Rule 5.2(A)
+
+
+
+PRELIMINARY STATEMENT
+Petitioner requests that this Court take judicial notice of the entire record in Cleveland County District Court Case No. CF-2019-1273 & PO-2019-453, the Oklahoma Court of Criminal Appeals Case No. F-2022-746 & MA-2026-30,  and the post-conviction proceedings culminating in this appeal, including all filings and exhibits attached to Petitioner’s Application for Post-Conviction Relief. Those materials are incorporated herein by reference as though fully set forth. See Rule 3.5(A), Rules of the Oklahoma Court of Criminal Appeals. All exhibit references in this filing reference the exhibits attached to the Application for Post-Conviction Relief.
+  STATEMENT OF THE CASE
+Petitioner Dallas Christopher Norton was convicted by jury on June 24, 2022, of two counts of Lewd Acts with a Child Under 16 (21 O.S. § 1123) in Cleveland County District Court Case No. CF-2019-1273. The jury assessed punishment at twenty-five years imprisonment on each count. On August 31, 2022, the Honorable Thad Balkman pronounced judgment and sentence, ordering the sentences served consecutively, suspending all but eighteen years of the sentence in Count 1 and the entire twenty-five-year sentence in Count 2. Petitioner timely filed a direct appeal, iCase No. F-2022-746, raising five propositions of error. Appellate counsel Virginia Sanders filed a brief on April 12, 2023. On July 3, 2024, the Oklahoma Court of Criminal Appeals issued a Summary Opinion affirming the convictions. On June 30, 2025, Petitioner, proceeding pro se, filed an Application for Post-Conviction Relief. On July 24, 2025, the District Court issued an order to conform with district court rules regarding page limitations. On August 11, 2025, Petitioner filed Motions to Disqualify Judge Thad Balkman, Judge Lori Puckett, District Attorney Jennifer Austin, and a Motion for Discovery. On August 18, 2025, Petitioner filed a Motion to Disqualify Assistant District Attorney Jacobi Whatley. On October 7, 2025, Petitioner, proceeding pro se, filed the instant Application for Post-Conviction Relief (APCR) pursuant to 22 O.S. § 1080 et seq. The application was supported by 171 exhibits (Ex. A1 through M18) and a 107-page appendix containing a cumulative list of alleged prosecutorial misconduct with transcript quotes and specific citations to the record. The application raised four propositions, including Ineffective Assistance of Appellate Counsel (IAAC) under Cronic, Ineffective Assistance of Appellate Counsel under Strickland, Factual Innocence, and Cumulative Error. On December 15, 2025, Petitioner filed a Writ of Mandamus in this Court (MA-2025-1010) seeking to compel a ruling on the unaddressed motions. On January 9, 2026, the OCCA declined jurisdiction for failure to notify the proper party. On January 9, 2026, the State also filed a Response to Petitioner’s Application for Post-Conviction Relief. On January 15, 2026, Petitioner filed a Writ of Mandamus with this Court (MA-2026-30) again seeking to compel a ruling on the still-unaddressed motions. On January 20, 2026, Petitioner filed a Response to Correct the Record on False Information Contained in the State’s Reply & Notice of Admissions Pursuant to Rule 13(e), Rules for the District Courts of Oklahoma, 12 O.S. Ch. 2, App. On January 28, 2026, this Court issued an order directing a response from the District Court on the motions and APCR. On February 8, 2026, Petitioner received denials on all motions to disqualify through institutional mail. On February 13, 2026, No response as of the date of this filing concerning the motion for discovery filed August 11, 2025 included in the mandamus order directing a response. Petitioner filed a Written Request for Re-Hearing to the Chief Judge of the District Court. On February 13, 2026, the District Court issued a Denial of Petitioner’s Application for Post-Conviction Relief. On February 19, 2026, Petitioner filed a Notice of Intent to Appeal in compliance with OCCA Rule 5.2(C)(1). This appeal follows.
+
+
+
+  STATEMENT OF THE FACTS
+The factual background of this case is set forth in detail in Petitioner’s Application for Post-Conviction Relief and the exhibits attached thereto. The following facts are most pertinent to the issues raised in this appeal:
+   A. The Initial Disclosure and Exculpatory Timeline On July 14, 2019, the Norman Police Department received an initial report from Jeffrey Jackson, the victim’s father, regarding allegations against Petitioner. Officer Troy Pierce documented this report, which placed the alleged incident on the living room couch, occurring between November 29, 2018, and December 25, 2018. The report stated that the victim “did not touch Dallas’ penis.” (Ex. A1-A5). This initial disclosure—the closest in time to the alleged events—was fundamentally exculpatory, establishing a narrow timeframe and a location inconsistent with later versions.
+   B. The Evolving Allegations: On July 22, 2019, the victim underwent a forensic interview conducted by Christi Cornett. In this interview, the location shifted to the master bedroom (Exhibit B13). The victim stated the event occurred “before they were married” (Exhibit B3) and explicitly denied penetration, stating the finger “did not go inside, inside” (Exhibit B9). She confirmed she was lying on her stomach and that nothing happened while she was on her back (Ex. B10, B11, B15, B16).
+On July 29, 2019, at a protective order hearing, the victim repeatedly anchored the events to “before last Christmas” (Ex. C3, C5, C6). She confirmed she had spoken to detectives and given statements (Ex. C9, C10, C14, C15). She denied ever saying the incident occurred on a couch (Exhibit C13).
+On January 15, 2020, at the preliminary hearing—18 months after the initial disclosure—the allegation of digital penetration appeared for the first time (Exhibit D7). The victim confirmed she was in fifth grade (Exhibit D11), that the event occurred “a long time after moving in” (Exhibit D10), and “about medium time before” her Christmas trip to her father’s (Exhibit D14). Tiffany Norton testified that Petitioner moved out in summer 2018 (Exhibit D6) and did not return until after Christmas (Exhibit D16).
+   C. The Trial Testimony: At trial in June 2022, the victim’s testimony contradicted her prior statements on multiple material points. She claimed she was on her back when the touching occurred (Ex. F8, F15, F16)—directly contradicting her forensic interview statement. She could not remember if penetration occurred (Exhibit F9). When asked about Petitioner’s relationship with Shyanne Pike, the victim explained: “It was like before they got married and—because they got together after that again… like they broke up before they got married” (Exhibit F4). This confirmed that her reference to “before they got married” referred to the late-2018 separation period, not the June 2018 wedding date.
+The court issued OUJI-CR 9-20 instructions for both the victim and Jeffrey Jackson, indicating that their testimony contained material inconsistencies that could render it “not believable or truthful” (Ex. K6-K7).
+   D. The State’s Use of False Testimony: Detective Sean Judy testified that he “can’t talk to her” regarding the victim (Exhibit G1). This was directly contradicted by the victim’s July 29, 2019, VPO testimony that she had spoken to detectives and given statements (Ex. C9-C10).
+Bailey Ferguson testified falsely about her work history, claiming she worked for Petitioner for over a year when newly presented messages prove she stopped in October 2017 after an argument (Ex. J27-J29).
+Tiffany Norton testified falsely regarding the timing of her VPO filing, her knowledge of the allegations, and her conversations with the victim (Ex. F2, F5, F12, C7, C14-C15).
+Christi Cornett denied any appearance of coaching of the victim at trial after admitting at the hearsay hearing that the victim “clearly had been told or informed as to what to expect” (Ex. L1, G10).
+   E. The Destruction of Exculpatory Evidence: Officer Pierce’s body-worn camera footage of the initial disclosure—which would have corroborated the exculpatory living-room, no-penetration, late-2018 version of events—was never preserved and was destroyed. Officer Pierce’s own report confirms the BWC was used and the file was stored, yet it was not preserved. However, a non-exculpatory recording was meticulously preserved (Ex. A5, F17-F18, G3-G6).
+   F. The Documentary Proof of Physical Impossibility: From the initial police report through the trial every time B.J. was questioned, her own testimony placed the alleged events in December 2018 as detailed in Petitioner's APCR. The following events:
+September 4, 2018: Petitioner Signed lease, September 8, 2018, Petitioner moved out, December 22, 2018: B.J. Left for AZ,December 30, 2018. Petitioner moved back, January 5, 2019: B.J. Returned from AZ
+Are verified by testimony in the record from the state’s own witnesses as well as lease documents, county assessor records, photographs, and text messages. There was no period of overlap during the only timeframe EVER alleged by the victim making the acts impossible to have occurred. (emphasis added)
+Messages and photos also show continued affection between the victim and Petitioner throughout the entirety of the time in question: the victim missing him, wanting to see him, going on fishing trips, taking Christmas photos, attending daddy-daughter dances, painting nails, school projects, skating, and posing in his coveralls captioned “Look I’m Dad” on May 3, 2019 (Ex. J12-J15, J19-J26). This behavioral evidence has been proven medically inconsistent with the expected trauma response in abuse cases by multiple scientific studies.
+   G. The District Court’s Denial Order: On February 13, 2026, after an order from this Court directing a response, the district court entered an order denying the APCR. The order was a verbatim reproduction of the State’s response brief, containing multiple false factual assertions directly contradicted by the record, including findings that all of Petitioner’s claims were raised on direct appeal, that Petitioner acknowledged waiver, and that Petitioner’s allegations were “conclusory.” The order contained no citations to the record, exhibits, or Petitioner’s filings, no “finding of facts or conclusions of law.”.
+Introduction
+This is not a routine appeal from a routine denial of post-conviction relief. This is an appeal from a proceeding in which the district court abandoned its judicial function entirely. After this Court ordered the district court to rule, the court responded not with a judicial order, but with the State's brief, copied verbatim, signed, and filed as its own. That order contains factual findings that are demonstrably false—findings the State invented and the court adopted without a moment's scrutiny. It dismisses 171 exhibits as 'conclusory.' It denies actual innocence without addressing a single piece of timeline evidence. It applies procedural bars while ignoring the statutory exceptions that obliterate them.
+The district court did not adjudicate Petitioner's claims. It rubber-stamped the State's desire to keep an innocent man in prison. That is not justice. That is not law. That is a dereliction of duty so complete that the resulting order is, for all practical purposes, a legal nullity. This Court must reverse.”
+
+PROPOSITION I
+ THE DISTRICT COURT ERRED BY IMPOSING PROCEDURAL BARS
+Standard of Review
+This Court reviews the denial of post-conviction relief for an abuse of discretion, a standard met when a ruling is clearly erroneous or contrary to law. Boyd v. State, 1996 OK CR 12, 915 P.2d 922, 924. Where, as here, the district court misapplies procedural bars and ignores statutory exceptions, reversal is mandatory. See Logan v. State, 2013 OK CR 2, 293 P.3d 969, 973.
+Argument
+The district court’s order is a legal and factual fiction. Its entire basis for denying relief—that “each of Petitioner’s arguments were, or could have been, raised on direct appeal” and were in fact “raised” (Order, pp. 2, 8)—is an invention, flatly contradicted by the record. The direct appeal was a narrow, anemic affair that completely failed to challenge the core constitutional violations that corrupted Petitioner’s conviction. Appellate counsel’s failure to raise meritorious, outcome-determinative claims is the precise “sufficient reason” that dismantles procedural bars under 22 O.S. § 1086.
+   This is not waiver; it is a constitutional breakdown. See Logan, 293 P.3d at 973. The district court ignored this command, inventing a procedural roadblock where the Legislature and this Court built a bypass for injustice.
+   The direct appeal merely nibbled at the edges of the case, presenting only a handful of superficially, inadequately argued issues. In stark contrast, the post-conviction application unearthed the rot at its core, presenting for the first time a slate of “Clearly Stronger” and “Plainly Meritorious” “dead-bang winners” that appellate counsel completely abandoned. These are not re-packaged arguments; they are the arguments that would have reversed the conviction on direct appeal, and they are properly before this Court now because of appellate counsel’s total failure. The district court’s application of res judicata is, therefore, a profound legal error built on a lie.
+The Catalogue of Abandoned, Meritorious Claims
+Appellate counsel’s performance was not merely deficient; it was a wholesale abdication of duty that left a plethora of egregious constitutional violations unchallenged. The following claims, raised for the first time in post-conviction, demonstrate the chasm between a competent appeal and the hollow proceeding Petitioner received.
+Legal Insufficiency Under Applegate
+ (The Uncorroborated, Impeached Testimony): The direct appeal’s generic sufficiency argument was a feckless gesture that ignored the dispositive legal issue. The correct, case-ending argument was that the State’s entire case rested on the uncorroborated testimony of two witnesses—the complainant and her father—whom the trial court itself deemed so unreliable that it issued OUJI-CR 9-20 impeachment instructions for both (Ex. K6, K7). Under Oklahoma’s clear and controlling precedent, when a complaining witness’s testimony is so thoroughly impeached as to be unworthy of belief, it legally requires corroboration to sustain a conviction. Applegate v. State, 904 P.2d 130 (Okla. Crim. App. 1995). The State presented zero corroborating evidence—no physical evidence, no medical evidence, no forensic evidence, and no credible outcry witness. The conviction was therefore legally insufficient as a matter of law. This was not a jury question; it was a legal bar to conviction that appellate counsel utterly failed to raise.
+Napue Violations (The State’s Knowing Use of Perjury): Appellate counsel stood silent while the record screamed with evidence that the conviction was secured through the State’s knowing use of false testimony from every material witness, a due process violation requiring automatic reversal. Napue v. Illinois, 360 U.S. 264 (1959).
+Detective Sean Judy: 
+Falsely testified he “can’t talk to” the victim (Ex. G1), a lie designed to excuse his constitutionally deficient investigation. This was directly contradicted by the complainant’s own sworn testimony that she had, in fact, spoken to Oklahoma police and detectives (Ex. C9-C10).
+Tiffany Norton: 
+Lied repeatedly under oath, falsely claiming she filed a VPO after the forensic interview when she filed it before (Ex. F5, C7), and falsely claiming she never spoke to her daughter about the allegations when the complainant testified to multiple phone calls (Ex. C14-C15).
+Bailey Ferguson:
+ The State’s entire “res gestae” witness fabricated her work history, claiming she worked for Petitioner for over a year into late 2018. This was a lie, proven false by documentary evidence showing she quit in October 2017 (Ex. J27, J29, J35, J36).
+Christy Cornett: 
+The forensic interviewer gave false testimony at trial, denying any signs of coaching (Ex. G10), directly contradicting her own admission under oath at the pretrial hearing that the complainant’s knowledge of the process “appears” to be the result of coaching (Ex. L1).
+An Egregious Campaign of Prosecutorial Misconduct: The direct appeal timidly pointed to a few missteps. It completely ignored the trial-long, premeditated campaign of over 265 documented instances of misconduct that saturated the proceedings. These include but are not limited to
+Brady/Youngblood Violations (Destruction and Suppression of Exculpatory Evidence): 
+Appellate counsel failed to raise the State’s blatant and bad-faith violation of its constitutional duty to preserve and disclose exculpatory evidence.
+  Destruction of the BWC Recording: 
+The State destroyed the single most critical piece of exculpatory evidence: Officer Pierce’s body-worn camera recording of the initial disclosure. That recording would have proven the initial story was fundamentally different—alleging an unsuccessful attempt on the living room couch within the impossible Nov-Dec 2018 timeframe (Ex. A2-A3). The State’s bad faith is proven by its selective preservation; it kept the non-exculpatory recording of Tiffany Norton from the same night while destroying the exonerating recording of the initial outcry report (Ex. A5, F17-F18). This is a classic Youngblood violation.
+Suppression of DHS Witnesses: 
+The State listed DHS workers on its witness list, proffering they conducted interviews with law enforcement, but then strategically withheld them from trial (Ex. K9). The only logical inference is that their testimony would have exposed the detective’s lies or their testimony would have been otherwise unfavorable to the State and thus exculpatory for the defense, a clear Brady violation.
+The Prosecutor’s Direct Lie to the Jury:
+ In closing, ADA Austin falsely declared, “No one ever said 2018” (Ex. H2), a brazen lie to conceal the fact that the State’s entire case was built on a physically impossible timeline.
+Vouching for Judicially Impeached Witnesses: 
+On over 21 separate occasions, the prosecutor personally vouched for the credibility of the complainant and her father, declaring things like “We know she’s telling the truth” (Tr IV p78), in direct defiance of the court’s OUJI-CR 9-20 instructions branding them as potentially untruthful. This alone is reversible error. United States v. Magallanez, 408 F.3d 672 (10th Cir. 2005)
+Defective Notice of Hearing: 
+The State’s notice for the crucial hearsay hearing was constitutionally defective, alleging a completely different set of facts (“coloring at grandma’s”) than what was actually argued at the hearing, thereby ambushing the defense and denying Petitioner his right to prepare (Ex. K4).
+   Total Constitutional Failure of Trial Counsel: The direct appeal’s IATC claim was a farce. Appellate counsel failed to raise the documented record of a complete constitutional breakdown:
+On-Record Admission of Unpreparedness:
+Counsel admitted to the court he had not considered impeachment instructions until “about 1:00 this morning” on the day of closing arguments (Ex. G12).
+Coerced Waiver: 
+Counsel ambushed Petitioner during a lunch break, forcing him to waive his right to testify and present his alibi defense. This was secured in a rushed, whispered bench conference (Ex. L2-L3).
+The Ultimate Betrayal: 
+At sentencing, counsel engaged in a premeditated, open-court attack on his own client, branding him a liar to the judge by refusing to argue things he "didn't agree with” then stating he had no objection to Petitioner addressing the court on those issues, where he immediately interrupted and claimed he could not allow Petitioner to testify to something he “know[s] is false... Not in my opinion. Factually” (Ex. I4). This is the definition of an ambush, and conflict of interest constituting abandonment.
+Total abandonment of Judicial duty:
+The Unconstitutional PSI Report: 
+The Pre-Sentence Investigation report was a constitutionally toxic document, corrupted by the prosecutor’s direct interference (ADA Jennifer Austin personally called the investigator to dictate the “victim’s version”), riddled with false dates and uncharged “bad acts,” and illegally omitting Petitioner’s version of events in flagrant violation of 22 O.S. § 982(D) and DOC policy (Ex. I5-I6).
+Structural Evidentiary Error: 
+The court was subjected to a bait-and-switch. It reviewed and admitted one forensic interview disk (“State’s 1”), but the State showed the jury an entirely different, un-vetted disk (“State’s 6”), bypassing a critical statutory safeguard and rendering the court’s gatekeeping function meaningless (Ex. G8, M18).
+Actual Innocence (The Ultimate Omission): 
+The most profound failure was appellate counsel’s silence on the most powerful claim of all: that Petitioner is factually innocent. The State’s case is predicated on a timeline that is not merely questionable, but a documented physical and temporal impossibility (Ex. J1-J8).
+   These are the arguments that should have won the direct appeal. The district court’s finding that these claims were raised is a fabrication. Its application of res judicata is, therefore, a profound legal error. Appellate counsel’s failure to raise these claims is the very definition of ineffective assistance, providing the “sufficient reason” to sweep aside any procedural bar. Logan, 293 P.3d at 973. This Court must reverse and remand for the merits adjudication the district court refused to provide.
+PROPOSITION II
+THE DISTRICT COURT ABDICATED ITS JUDICIAL FUNCTION BY ISSUING A NEAR VERBATIM COPY OF THE STATE’S RESPONSE.
+Standard of Review
+A court’s failure to comply with its statutory and constitutional duty to independently adjudicate claims is not a mere abuse of discretion; it is a structural failure of the judicial process reviewed de novo. The decision below was arbitrary, capricious, and devoid of judicial character. See Paxton v. State, 1993 OK CR 9, 867 P.2d 1309, 1314.
+Argument
+The district court’s denial order is not a product of jurisprudence; it is an act of stenography for the State. It is a virtual word-for-word copy of the State’s response brief—a document in which the prosecution did not, and could not, contest a single material fact alleged by Petitioner. Which accordingly, under Oklahoma’s rules for the district courts, Rule 13(e) 12 O.S. ch. 2 app. Means the state admits Petitioner's facts, and acknowledges Petitioner's Actual Innocence.  This verbatim adoption is dispositive proof that the judge performed no analysis, engaged with no evidence, and exercised no independent judgment whatsoever. This is not the exercise of judicial power; it is the surrender of it, violating the plain mandate of 22 O.S. § 1084 that a court “shall promptly examine” an application.
+   By cutting and pasting the State’s arguments, the court also adopted its catalogue of falsehoods, its mischaracterizations of law, and its deliberate blindness to the 171 exhibits proving Petitioner’s claims. The order is a perfect mirror of the State’s fatally flawed brief:
+   It erects procedural bars while simultaneously acknowledging, and ignoring that ineffective appellate counsel obliterates them under 22 O.S. § 1086.
+   It parrots the State’s outrageous assertion that Petitioner’s evidence-laden claims are “conclusory,” a finding that defies all logic and reason.
+   It dismisses the profound, documented and proven claim of actual innocence without a single reference to the dispositive timeline evidence that proves the physical impossibility.
+   It sanitizes appellate counsel’s performance by ignoring the mountain of evidence (Ex. M1–M18) proving a total abandonment of their client.
+   This is more than an appearance of impropriety; it is the consummation of it. This act of judicial surrender confirms the very partiality and bias Petitioner warned of in his motions to disqualify and Writ of Mandamus filed in this court. A litigant is constitutionally entitled to a neutral arbiter, not a scribe for the prosecution. In re Murchison, 349 U.S. 133, 136 (1955). This structural error is inherently prejudicial. An independent review, as required by law and conscience, would have forced the court to confront the undeniable evidence of an impossible timeline, a prosecution built on perjury, rampant prosecutorial misconduct, and counsel’s complete constitutional collapse.    
+    The Conviction Rests on a single impeached complainant, and Zero Corroborating Evidence. There was no physical, medical, forensic evidence and the outcry witness was also impeached and told a completely different story. The conviction stands on nothing but evolving allegations, impeached testimony, perjured testimony, the state’s misconduct, and a Judge’s abdication. 
+   A fundamental miscarriage of justice has occurred. This Court must correct this grave error, reverse the district court, vacate the conviction, and remand with instructions to dismiss.
+PROPOSITION III
+THE DISTRICT COURT ERRED BY ADOPTING FACTUAL FINDINGS CONTRADICTED BY THE RECORD.
+Standard of Review
+While this Court typically reviews for abuse of discretion, factual findings that are demonstrably false and contradicted by the record are reviewed de novo. A ruling predicated on lies cannot stand. Logan v. State, 2013 OK CR 2, ¶ 5, 293 P.3d 969, 973. A court’s failure to comply with its statutory and constitutional duty to independently adjudicate claims is not a mere abuse of discretion; it is a structural failure of the judicial process reviewed de novo. The decision below was arbitrary, capricious, and devoid of judicial character. See Paxton v. State, 1993 OK CR 9, 867 P.2d 1309, 1314.
+Argument
+The district court’s denial order is not a judicial ruling; it is an act of plagiarism. It is a near word-for-word copy of the State’s response brief—a document in which the State contested no material facts.—Which by the court’s negligent adoption had plagued its response with demonstrably false assertions.  
+   The district court did not merely get the facts wrong; it adopted and sanctified a series of lies. By copying the State’s response verbatim—even after Petitioner filed a pleading specifically to warn the court of the State’s factual falsities (Petitioner’s response to correct the record on false information contained in the state’s reply…filed January 20, 2026)—Assuming the court did at least some of its judicial duty and reviewed the record filings would mean the court knowingly based its denial of relief on categorically false, nonsensical fabrications. 
+   This is not a simple error; it is a due process catastrophe that renders the order a legal nullity. The absurdity of the claims in the district court’s order raises a question of the judge’s competence in continuing his judicial term. See Napue v. Illinois, 360 U.S. 264, 269 (1959).
+The court’s order rests on documented falsehoods including but not limited to:
+ 
+Categorically False Assertion
+The Documented Truth
+FALSEHOOD:  “Each of Petitioner's arguments were, or could have been, raised on direct appeal” (pp. 2, 8).   “Petitioner acknowledges that his claims have been waived” (p. 4). counsel.(Order, pp. 2, 8). 
+THE TRUTH: Petitioner’s APCR raised only IAAC (Cronic/Strickland), factual innocence, and cumulative error. IAAC cannot be raised on direct appeal; post‑conviction is the first opportunity. See 22 O.S. § 1089(D)(4)(b)(2). Factual innocence is supported by “newly presented evidence” (Ex. J1–J8, C1–C16) that trial counsel buried, making it unreachable on direct appeal. Petitioner never acknowledged waiver; the application explicitly invokes IAAC as “sufficient reason” under § 1086. Logan v. State, 2013 OK CR 2, ¶ 5..
+FALSEHOOD: “Each of Petitioner’s arguments were…raised on direct appeal.” (Order, pp. 2, 8).
+THE TRUTH: This is a complete and total fabrication. Proven by a simple comparison of the documents. Every claim Petitioner raised was unique from the direct appeal claims and argued under different authority. These claims were either omitted entirely due to IAAC which is a “Sufficient reason” to overcome bars or were "inadequately raised” on direct appeal due to appellate counsel's incompetence. See 22 O.S § 1086, Logan v State, supra.
+   The only claims raised in Petitioner's application is ineffective assistance of appellate counsel, which was not and could not have been raised on direct appeal. Post-Conviction is the first opportunity to address appellate counsel errors and omissions.The sub-claims that were argued were either not raised, offered to prove IAAC for not selecting “clearly stronger” & “plainly meritorious" errors or “inadequately raised” weak and undeveloped claims. 22 O.S. § 1086. 
+Factual Innocence, which was not raised on appeal.
+FALSEHOOD: Petitioner’s allegations are “conclusory.” (Order, p. 6).
+
+THE TRUTH: This is an absolute absurdity. Every claim and sub-claim Petitioner raised is supported by 171 exhibits consisting of:
+- 102 Transcript pages & official record documents (J28,J30, and all exhibits in; A,B,D,F,G,H,I,K,L) 
+- 19 Appeal documents supporting IAAC (M1-M18)
+The remaining 51 exhibits are: 
+- 16 pages from VPO transcript (Ex. C1-C16)
+- 36 Photos & messages (Ex. J1-J38 excl. J28,J30)
+These prove: trial counsel’s on‑record unpreparedness (Ex. G12), coerced waiver (Ex. L2–L3, I1–I3), the prosecutor’s lie “No one ever said 2018” (Ex. H2), the State’s knowing use of false testimony (Ex. C9–C10, G1), and the total breakdown of representation at sentencing where counsel admitted he could not argue Petitioner’s testimony because he disagreed with it—creating an actual conflict and constructive denial under Cronic (Ex. I1–I10).
+FALSEHOOD: “mere turnover…does not amount to ineffective assistance.”
+THE TRUTH: The claim was never “mere turnover.” It was a documented, complete abandonment by three (not 4 as the order claims) consecutive attorneys, constituting a constructive denial of counsel under United States v. Cronic, 466 U.S. 648 (1984).
+
+
+PROPOSITION IV
+THE DISTRICT COURT ERRED BY DISMISSING PETITIONER’S CLAIMS AS “CONCLUSORY”
+Standard of Review
+A trial court’s finding that meticulously documented claims are “conclusory” is a finding so contrary to the record that it can only be deemed clearly erroneous, demanding de novo review. Logan v. State, 2013 OK CR 2, ¶ 5, 293 P.3d 969, 973.
+Argument
+   The district court’s repeated incantation of the word “conclusory” is a transparent and pathetic attempt to wish away the mountain of evidence burying the State’s case and exposing the incompetence of Petitioner’s counsel. This is not a legitimate legal finding; it is an indefensible fiction. To label claims supported by 171 specific exhibits and a 107-page appendix as “conclusory” is to render the word meaningless. It is a profound abuse of discretion and a denial of due process. 
+   The court, copying the State’s brief, also copied the state’s misapplication of Oklahoma law. Cases like Smith v. State, 955 P.2d 734 (Okla. Crim. App. 1998), and Perry v. State, 853 P.2d 198 (Okla. Crim. App. 1993), Reject bare, unsupported allegations. They do not grant courts a license to ignore an avalanche of proof. The court simply closed its eyes to the concrete, non-conclusory evidence of trial counsel’s breakdown including but not limited to:
+   Admitted Lack of Preparation: This is not a baseless conclusion; it is a fact, proven by counsel’s own words documented in the official transcript.That he “didn’t even think about impeachment until “about 1:00 this morning.” The last day of trial, he hadn't even considered impeachment, and “had to try to recall from memory the ones he knew had inconsistent statements."  Is the definition of failure to prepare.  (Ex. G12, Tr. Vol. IV p. 5).
+   Coerced Waiver of Testimony: This is not a baseless conclusion; it is a fact, proven by the record of the whispered bench conference exactly as petitioner stated in his contemporaneous letter detailing the coercion. and testified to during the merged new trial/sentencing hearings. (L2-L3, I1-I3).
+   Open-Court Attack on His Own Client: This is not a baseless conclusion; it is a fact, proven by the transcript of counsel’s unprecedented premeditated character assassination during sentencing. (Ex. I4).
+   Failure to Use Exculpatory Evidence: This is not a baseless conclusion; it is a fact, proven by petitioner’s newly presented evidence, like the emails showing counsel possessed hundreds of messages and records as well as official transcripts of sworn testimony establishing the physical impossibility of the State’s timeline. The record shows none of it was used.(Ex. J1–J34).
+   The district court was presented with a detailed map of constitutional violations, complete with coordinates, citations, and photographic evidence. Its response was to declare the map a blank page. This dereliction was not harmless; it was the mechanism by which the court avoided confronting the overwhelming proof of ineffective assistance, Napue violations, and actual innocence. Because the court refused to see the evidence, this Court must force the issue. The denial must be reversed and remanded to a different judge with instructions to open their eyes to the record.
+PROPOSITION V
+THE DISTRICT COURT ERRED BY DENYING INEFFECTIVE ASSISTANCE OF APPELLATE COUNSEL.
+Standard of Review
+Claims of ineffective assistance of appellate counsel are reviewed de novo. State v. Anderson, 2001 OK CR 14, ¶ 6, 24 P.3d 881, 884. This is a quintessential question of law.
+Argument
+   The district court’s ruling on this issue is a masterclass in missing the point. The evidence proved far more than mere deficient performance under Strickland; it proved a complete and total breakdown of the adversarial process—a constructive denial of counsel where prejudice is presumed. United States v. Cronic, 466 U.S. 648 (1984). The sequential abandonment of Petitioner by three different appellate attorneys was not a series of isolated errors; it was a documented, state induced constitutional failure.
+   The court’s hollow assertion that no breakdown occurred because a brief was eventually filed is absurd. The record proves this appeal was devoid of investigation, client communication, or zealous advocacy:
+Ricki J. Walterscheid: Performed no work. Total abandonment.
+Virginia Sanders: Filed a rushed, incompetent brief after just 15 days, never met with Petitioner, refused all input, and swore in her own motions that she had barely started the work. (Ex. M5–M9). This is the functional equivalent of no counsel at all.
+Wendi Hobbs: Refused to seek rehearing on meritorious claims, admitting on the record she knew nothing about the case. (Ex. M16).
+    This trifecta of failure is Cronic abandonment, period. But even under the lesser Strickland standard, the claim is a clear winner. Appellate counsel omitted an entire arsenal of “dead-bang winner” arguments that were indisputably, clearly stronger than the weak claims actually raised. See Cargle v. Mullin, 317 F.3d 1196, 1202 (10th Cir. 2003). Counsel failed to argue the legally dispositive Applegate issue, the State’s knowing use of perjury (Napue), the bad-faith destruction of exculpatory evidence (Youngblood/Brady), trial counsel’s on-record admissions of incompetence, the coerced waiver of testimony, and the prosecutor’s direct lie to the jury. repeated vouching for impeached witnesses, 
+Counsel’s Attacking his own client also constituting a Cronic abandonment/total breakdown. as well as others.
+   The sheer volume and gravity of these omissions destroy any confidence in the appeal’s outcome. The district court’s refusal to see this reality, opting instead for the State’s sanitized fiction, was a profound legal error. This Court must reverse.
+PROPOSITION VI
+THE DISTRICT COURT ERRED BY APPLYING A “NEWLY DISCOVERED” STANDARD TO PETITIONER’S FACTUAL INNOCENCE CLAIM IGNORING STATE AND FEDERAL LAW
+Standard of Review
+A district court abuses its discretion when it applies an incorrect legal standard. Logan v. State, 2013 OK CR 2, ¶ 5, 293 P.3d 969, 973. The interpretation of 22 O.S. § 1080(D) and the governing actual-innocence standard are questions of law reviewed de novo. When a state court’s interpretation of its own statute imposes a barrier that directly contradicts governing Supreme Court precedent, this Court must follow the federal rule.McQuiggin v. Perkins, 569 U.S. 383, 397–98 (2013). See Fontenot v. Crow, 4 F.4th 982, 1030–34 (10th Cir. 2021).
+Argument
+The district court denied Petitioner's factual-innocence claim in a single paragraph, ruling that the evidence was "not new" because it "was known of at the time of trial" and was "not relevant." (Order, p. 6). In doing so, the court applied a diligence requirement borrowed from the new-trial statute, 22 O.S. § 952—effectively requiring Petitioner to show the evidence "could not have been produced at trial with reasonable diligence"—rather than the standard prescribed by 22 O.S. § 1080(D). This was an abuse of discretion. The correct standard under § 1080(D), U.S. Supreme Court and other controlling federal authority is whether the evidence is "not previously presented and heard" see, Fontenot, Schlup, Perkins, supra—not whether it could have been discovered earlier. Because Petitioner's documentary proof of physical impossibility (Exhibits J1–J8) was never presented to the jury and was only developed through post-conviction investigation, it falls squarely within the statutory definition. The court's refusal to consider it on the merits, based on an incorrect legal test, requires reversal.
+A. The Plain Text of 22 O.S. § 1080(D) Contains No Diligence Requirement: Section 1080(D) provides relief based on "evidence of material facts, not previously presented and heard, that requires vacation of the conviction or sentence in the interest of justice." The Legislature deliberately chose the phrase "not previously presented and heard"—not "not previously discoverable" or "could not have been produced with reasonable diligence."
+By contrast, when the Legislature intended to impose a diligence requirement, it did so explicitly. The new-trial statute, 22 O.S. § 952, requires that newly discovered evidence "could not have been produced at trial with reasonable diligence." The omission of that language from § 1080(D) is dispositive.
+   Oklahoma courts have long held that statutes must be interpreted according to their plain language, and courts cannot add requirements the Legislature omitted. As the Oklahoma Court of Criminal Appeals has repeatedly stated:
+"A rule of strict construction is to be applied to criminal statutes and courts should not extend them to embrace acts or conduct not clearly included within the prohibition of the statute." Simpson v. State, 1954 OK CR 28, 267 P.2d 1008, 1013.
+"We must respect the authority and prerogatives of the Oklahoma Legislature, regardless of whether we agree with their actions." Dickens v. State, 2005 OK CR 4, 106 P.3d 599 (Okla. Crim. App. 2005).
+"Words not found in the text of a criminal statute should not be read into it for the purpose of extending it or giving it an interpretation in conformity with a supposed policy." Quillen v. State, 2007 OK CR 22, 163 P.3d 587, 600 (Lumpkin, P.J., concurring in part/dissenting in part).
+The Legislature knows how to impose a diligence requirement. It did so in § 952. It did not do so in § 1080(D). This Court cannot rewrite the statute.
+The district court thus erred as a matter of law by engrafting § 952's diligence element onto § 1080(D). The correct inquiry was whether the evidence had been "presented and heard" at trial. It had not.
+B. The District Court's Error Is Laid Bare by Comparing Its Ruling to the Actual Record.: The district court's order dismissed Petitioner's evidence with the following false findings. A direct comparison demonstrates the court's abuse of discretion:
+What the District Court Said The Actual Standard and Record
+Evidence is "not new" because it "was known of at the time of trial." (Order, p. 6) 
+The statutory standard is "not previously presented and heard." 22 O.S. § 1080(D). The previous testimony from the record transcripts was not presented. The transcript of the protective order hearing, which was also not part of the case record, was not presented, Petitioner's lease documents, county assessor records, text messages, and photographs were never presented to the jury. They are "newly presented" as a matter of law.
+"It is improper for this Court to reconsider Petitioner's factual innocence with evidence not presented during trial." (Order, p. 6) 
+It’s not improper, it is the law. The Legislature expressly authorized reconsideration of factual innocence with "evidence not previously presented and heard." 22 O.S. § 1080(D). The district court's statement directly contradicts the statute and Federal Law. 
+Evidence is "not relevant to the allegations in the case." (Order, p. 6)
+The evidence proves a physical and temporal impossibility for the alleged crime. It is the most relevant evidence imaginable—proof that the crime could not have occurred.
+"This Court must defer to the judgment the jury arrived at." (Order, p. 6)
+This statement ignores that the jury never saw the dispositive evidence. Deference is owed to facts presented to the jury, not to a conviction based on an incomplete record.
+   Each of the district court's findings is legally erroneous. The court applied the wrong standard, made factual findings contradicted by the record, and then used those findings to deny relief without ever reaching the merits.
+C. Controlling Federal Authority Mandates a "Newly Presented" Standard for Actual-Innocence Claims: The actual-innocence gateway, recognized in Schlup v. Delo, 513 U.S. 298 (1995), and applied in Oklahoma post-conviction proceedings, uses a "newly presented" standard. Every federal circuit to address the question has held that the evidence need not be "newly discovered" in the sense of being previously unavailable; it is sufficient that it was "not presented at trial."
+ Riva v. Ficco, 803 F.3d 77, 84 (1st Cir. 2015); Rivas v. Fischer, 687 F.3d 514, 543 (2d Cir. 2012); Hubbard v. Pinchak, 378 F.3d 333, 340 (3d Cir. 2004); Wolfe v. Dotson, 144 F.4th 218 (4th Cir. 2025); Cleveland v. Bradshaw, 693 F.3d 626, 633 (6th Cir. 2012); Gomez v. Jaimet, 350 F.3d 673, 679–80 (7th Cir. 2003); Griffin v. Johnson, 350 F.3d 956, 962–64 (9th Cir. 2003); Fontenot v. Crow, 4 F.4th 982, 1032 (10th Cir. 2021).
+The Tenth Circuit—the court that will review any federal habeas petition arising from this conviction—has explicitly adopted the "newly presented" rule. Fontenot v. Crow, 4 F.4th 982, 1032 (10th Cir. 2021) ("We later clarified that 'new evidence' for an actual innocence claim means newly presented evidence, not newly discovered. Thus, a lack of diligence is not fatal to an actual innocence claim."). 
+The Supreme Court in McQuiggin v. Perkins, 569 U.S. 383 (2013),  held that there is no categorical diligence barrier for actual-innocence gateway claims. Unlike procedural defaults that require cause and prejudice (where diligence matters), actual innocence itself serves as an exception—so the absence of diligence does not automatically bar relief.
+"It would be bizarre to hold that a habeas petitioner who asserts a convincing claim of actual innocence may overcome [a statutory barrier], yet simultaneously encounter a court-fashioned diligence barrier to pursuit of her petition." Id. at 399.
+Delay is considered only as a factor bearing on the credibility of the new evidence—not as a complete bar. Id.
+Schlup itself repeatedly framed the inquiry as "new reliable evidence that was not presented at trial," Schlup, 513 U.S. at 324 (emphasis added), Schlup itself.turned on evidence that was previously available. Had the Court intended an unavailability or diligence requirement, "it would have said so." Id.
+The actual-innocence gateway exists precisely because "in appropriate cases, the principles of comity and finality must yield to the imperative of correcting a fundamentally unjust incarceration." Id. at 320–21 (quoting Murray v. Carrier, 477 U.S. 478, 495 (1986)). As the Tenth Circuit recognized in Fontenot, the Schlup standard "does not demand conclusive proof of exoneration; rather, it involves a probabilistic determination that, in light of all the evidence—'old and new; admissible and inadmissible'—'more likely than not any reasonable juror would have reasonable doubt.'" 4 F.4th at 1030 (quoting House v. Bell, 547 U.S. 518, 538 (2006)). The district court's “previously available” diligence-based denial cannot be reconciled with governing precedent. When a state court’s interpretation of its own statute imposes a barrier that directly contradicts governing Supreme Court precedent, this Court must follow the federal rule. McQuiggin v. Perkins, 569 U.S. 383, 397–98 (2013). See Fontenot v. Crow, 4 F.4th 982, 1030–34 (10th Cir. 2021).
+D. The District Court's Error Was Not Harmless.
+Had the district court applied the correct "newly presented" standard, it would have been required to evaluate whether the newly presented evidence—considered alongside the trial record—established that "it is more likely than not that no reasonable juror would have found petitioner guilty beyond a reasonable doubt." Schlup, 513 U.S. at 327.
+Petitioner's newly presented evidence (Exhibits J1–J8) includes lease documents, county assessor records, text messages, photographs, and sworn testimony proving a physical and temporal impossibility for the alleged crime. This evidence was never presented to the jury. The district court dismissed it with the single assertion that it was "not new" and "not relevant," ignoring the statutory standard and the controlling federal law that required its consideration.
+Because the court applied the wrong legal test, its denial of the factual-innocence claim cannot stand.
+Conclusion
+The district court abused its discretion by applying a "newly discovered" diligence requirement to Petitioner's factual-innocence claim instead of the "newly presented" standard mandated by 22 O.S. § 1080(D) and controlling federal authority. The court's error was not harmless; it foreclosed any meaningful consideration of the dispositive evidence proving physical impossibility. This Court must reverse the denial of post-conviction relief and either vacate the conviction or remand for proper evaluation under the correct standard..
+   PROPOSITION VII
+THE DISTRICT COURT COMMITTED STRUCTURAL ERROR BY FAILING TO ISSUE FINDINGS OF FACT AND CONCLUSIONS OF LAW.
+Standard of Review
+Compliance with the mandatory procedural rules of this Court is a question of law reviewed de novo. The failure to issue findings of fact and conclusions of law is a structural error frustrating all appellate review and requiring reversal. Cole v. State, 2007 OK CR 25, 164 P.3d 1089, 1091.
+Argument
+The district court’s order contains zero original findings of fact and zero original conclusions of law. It is a mindless copy of the State’s arguments. This complete abdication of the judicial function is a flagrant violation of Rule 5.2(A), Rules of the Oklahoma Court of Criminal Appeals, which mandates such findings to enable meaningful review. This Court has been presented not with a reasoned judicial decision, but with the State’s internally flawed and false brief under a judge’s signature. There is no judicial reasoning to review. How did the court reconcile its dismissal of the innocence claim with the ironclad evidence of an impossible timeline based on record testimony reinforced with “evidence of material facts not previously presented and heard that requires vacation of the conviction or sentence in the interest of justice”? 22 O.S. 1080(d) How could it deem trial counsel’s cited and quoted on-record admission of unpreparedness “conclusory” (Ex. G12)? What legal standard did it apply to reject the overwhelming evidence of appellate counsel’s abandonment (Ex. M1-M18)? 
+   The order provides no answers because the court lied, it claimed a “thorough review” but obviously didn't even read the Petitioner’s APCR let alone conduct any analysis. To let this stand is to condone a system where prosecutors’ briefs become judicial orders by default. Due process and the rules of this Court demand more. 
+   This failure is structural. It makes intelligent appellate review impossible.The order is a legal nullity and must be reversed and remanded to a different judge who will actually perform the duties of the office with honesty and integrity.
+PROPOSITION VIII
+THE CUMULATIVE EFFECT OF THE DISTRICT COURT'S ERRORS
+Standard of Review
+Whether the cumulative effect of errors deprived a petitioner of a fair proceeding is reviewed de novo. DeLozier v. State, 2007 OK CR 34, ¶ 56, 167 P.3d 402, 422 Argument
+Even if this Court were inclined to view any single error of the district court as harmless—the verbatim adoption standing alone, or one false factual finding, or the failure to hold a hearing—the cumulative weight of these errors is crushing. Together, they paint an unmistakable picture: the district court did not adjudicate Petitioner's claims. It performed no independent review. It made no findings. It adopted the State's falsehoods. It ignored 171 exhibits. It conducted no hearing. It issued no conclusions of law. This is not a case of isolated mistakes. This is a case of complete judicial failure.  The Oklahoma Court of Criminal Appeals has long recognized that even where individual errors may not warrant reversal, their cumulative effect may deprive a defendant of a fair trial. DeLozier, 167 P.3d at 422; Simpson v. State, 1994 OK CR 40, ¶ 51, 876 P.2d 690, 703. This principle applies with even greater force to post-conviction proceedings, where the stakes—a man's continued incarceration for a crime that never happened—could not be higher, as they are here. Petitioner was denied any meaningful post-conviction review whatsoever. Where the cumulative effect of errors undermines confidence in the outcome of a proceeding, reversal is required. DeLozier, 167 P.3d at 422  This Court must reverse and remand for proceedings before a different judge who will actually perform the duties of the office.
+CONCLUSION AND RELIEF SOUGHT
+For the foregoing reasons, Petitioner Dallas Christopher Norton respectfully requests that this Honorable Court not perpetuate the proven and documented constitutional violations:
+1. REVERSE the convictions and REMAND with instructions to DISMISS the charges with prejudice, as continued incarceration perpetuates this fundamental miscarriage of justice.
+1. In the alternative, REVERSE the district court's order and REMAND to a different district judge for a de novo review of the complete application.
+1. In the further alternative, REVERSE the district court's denial of post-conviction relief and REMAND for a full EVIDENTIARY HEARING before a different district judge, with instructions to make specific findings of fact and conclusions of law on all claims.
+1. Grant such other and further relief as this Court deems just and proper.
+    I, Dallas Christopher Norton, have read the foregoing and do hereby verify and attest under penalty of perjury and the laws of the State of Oklahoma that all statements contained herein are true and correct to the best of my knowledge and belief.
+Respectfully submitted,
+
+_______________________________Dated this_______Day of MARCH, 2026.
+Dallas Christopher Norton, Petitioner Pro Se - DOC #2005998 EF-01
+Great Plains Correctional Center - P.O. Box 700 Hinton, OK 73047
+
+CERTIFICATE OF SERVICE
+I hereby certify that on this ____ day of March, 2026, a true and correct copy of the foregoing Petition in Error and Brief in Support was served upon Cleveland County District Attorney's Office, The Cleveland County District Court and Judge Thad Balkman by depositing the same in the institutional mail system, postage prepaid. Service to the attorney general to be made by the clerk of this court pursuant to Rule 1.9 of the Rules of the Oklahoma Court of Criminal Appeals.
+
+____________________________________________
+Dallas Christopher Norton, Petitioner Pro Se)

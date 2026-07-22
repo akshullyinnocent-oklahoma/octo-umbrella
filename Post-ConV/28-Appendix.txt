@@ -1,0 +1,1698 @@
+﻿APPENDIX
+Quote: "I wish I had better examples. I just don't watch those types of shows because they're infuriating to me because they don't get things right. Same with my husband and medical shows. So we can't watch any of the shows that are on, you know, regular cable." 
+Citation: Page 116, Lines 6-10 
+Violation: Improper Vouching / Personal Opinion 
+Why Inappropriate: The prosecutor injects personal opinion about the accuracy of TV shows, subtly vouching for the "real" legal process (which she represents) and implying superior knowledge, violating ORPC 3.4(e) (prohibiting lawyers from stating personal opinions). 
+  
+1. Quote: "Okay. This is kind of -- direct evidence, I mean, honestly, just to keep it simple is exactly kind of what the name implies. Direct evidence is just direct, to the point. It's testimony where a witnesses come in and they're like, you know, I saw somebody do it. That's direct evidence." 
+Citation: Page 116, Line 25 - Page 117, Line 3 
+Violation: Misstatement of Law / Defining Legal Terms 
+Why Inappropriate: The prosecutor attempts to define "direct evidence," which is the judge's exclusive role. This can lead to confusion or misinterpretation of legal standards by the jury, violating OUJI-CR 1-12 (judge defines law). 
+   
+2. Quote: "So circumstantial evidence is a little bit more difficult to explain. So I'll always kind of use this story about my son to explain circumstantial evidence. And so my son loves, loves, loves Oreos. And he also suffers from severe food allergies. And the reason I say that is because Oreos are like our -- cookies he can actually have because it doesn't have like peanut butter or any of these other things he's allergic too. And so the kid really can't have a whole lot of goodies. But Oreos, he can have. So he just, I mean, loves, loves them. But he's not allowed to have Oreos just whenever he wants, right. Ruin his dinner. He has to ask permission. All the things. So several times, several times, I have been not in the kitchen and I have been cleaning, doing something else, in another room of our house, and I hear, you know, a pantry door shut. I walk in. There's like a lid off of a jar that the Oreos are in because they're in one of those like Oxo -- you know that has the lid -- the clear containers. And he's standing there and there's also the -- oh, my gosh, it's like a stepladder. So the stepladder is right where you would need to like get up to the second shelf of the pantry. He is now sitting in the living room. So he's not by the pantry. But the lid's off of them, the ladder's there. I go into the living room and I look at him, there's like crumbs. And it's like Oreo crumbs, right. So I mean, those are very noticeable. And there's the black Oreo stuff all in his gap teeth. So who here thinks that my son got into the Oreos?" 
+Citation: Page 117, Line 4 - Page 118, Line 9 
+Violation: Improper Voir Dire Analogy / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: The prosecutor uses a lengthy, personal anecdote to illustrate circumstantial evidence, then asks jurors to "think" her son is guilty. This attempts to precommit jurors to finding guilt based on circumstantial evidence and subtly lowers the burden of proof by equating it with common sense inferences, violating OUJI-CR 9-4 (jury draws inferences, not required), OUJI-CR 2-6 (State's burden), and Taylor v. 
+ 
+Kentucky (burden-shifting). 
+  
+  
+3. Quote: "Does anybody think he did not get into the Oreos in that scenario?" 
+Citation: Page 118, Lines 10-12 
+Violation: Improper Voir Dire Analogy / Pre-committing Jurors 
+Why Inappropriate: This rhetorical question, following the Oreo analogy, pressures jurors to agree with the prosecutor's conclusion, further pre-committing them to a specific type of inference.  
+  
+4. Quote: "But nobody saw him get into the Oreos, right? That would be circumstantial evidence, right? It's facts -- it's like a chain of facts and circumstances surrounding an event that leads you to a conclusion, right? So that's what circumstantial evidence is." 
+Citation: Page 118, Lines 13-17 
+Violation: Misstatement of Law / Defining Legal Terms / Lowering Burden of Proof Why Inappropriate: The prosecutor defines circumstantial evidence as "facts" that "lead you to a conclusion," implying a direct causal link rather than an inference. This misstates the law and subtly lowers the burden of proof by equating inference with direct proof, violating OUJI-CR 1-12 and Sandstrom v. Montana.  
+  
+5. Quote: "You don't get to know what those elements are before the trial. I don't get to sit here and talk to you about what these elements are. You're not going to get to know what the elements are during the trial. You only get to know what the elements are after the trial, okay? 
+It's a weird concept, but that's what the law is in the State of Oklahoma." 
+Citation: Page 119, Lines 3-9 
+Violation: Misstatement of Law / Misleading Jury 
+Why Inappropriate: The prosecutor misrepresents the process of informing the jury about elements of the crime. While the judge gives final instructions at the end, the elements are fundamental to understanding the charges throughout the trial. 
+Characterizing it as a "weird concept" that jurors only learn "after the trial" is misleading. 
+  
+6. Quote: "But to kind of illustrate to you how we prove elements of a crime, I like to illustrate that with a recipe. And I've been doing this, and I always use this. I use my granny's potato soup. Okay. So if you were going to make my granny's potato soup -- and yes this is a real thing because I've had jurors ask me if this is a real recipe. It absolutely is. My Granny Dolores made this for me. It is delicious and yes, this is real. So this is my granny's potato soup. You have to have two potatoes, one stick of butter. Yes, one whole stick of butter. She wasn't playing around. One onion and one can of Milnot. Now, I've been doing this long enough now to know that in Cleveland County, I need to ask who does not know by a show of hands what Milnot is? (Prospective jurors raise hands.) Happens every time. So Milnot is just condensed milk, okay? It's like Carnation condensed milk. Except Milnot is brand specific. And my granny was a grand loyalist to Milnot. Like, she did not use Carnation, would never use it. It had to be Milnot. So for my granny's potato soup, you have to use Milnot. So you've got two potatoes, one stick of butter, one onion, and one can of Milnot. And if you have each one of those things, then you have my granny's potato soup, okay?" 
+Citation: Page 119, Line 10 - Page 120, Line 8 
+Violation: Improper Voir Dire Analogy / Trivializing Legal Standard 
+Why Inappropriate: The prosecutor uses a lengthy, personal "recipe" analogy to explain elements of a crime. This trivializes the serious legal concept of elements and the burden of proof, making it seem like a simple checklist rather than a rigorous legal standard. This can subtly lower the jury's understanding of the State's burden. 
+  
+7. Quote: "If we've proved each and every one of those elements beyond a reasonable doubt, then the defendant's guilty. Do you agree with that, Ms. Coffelt?" 
+Citation: Page 121, Lines 11-13 
+Violation: Pre-committing Jurors / Usurping Jury's Role 
+Why Inappropriate: The prosecutor asks a juror to agree to a conclusion ("then the defendant's guilty") if elements are proven, which is an attempt to pre-commit the juror to a verdict before hearing all evidence and instructions. This invades the jury's deliberative function. 
+  
+8. Quote: "Or not guilty. Not guilty, right? Because we didn't have everything that we needed to have to prove the elements of that, you know, crime. Obviously, we're using potato soup, but we didn't have all the elements that we needed for that crime." 
+Citation: Page 121, Line 21 - Page 122, Line 1 
+Violation: Improper Voir Dire Analogy / Trivializing Legal Standard 
+Why Inappropriate: The prosecutor continues the potato soup analogy, trivializing the concept of "not guilty" and the failure to meet the burden of proof by equating it to a missing ingredient in a recipe. This can diminish the gravity of the reasonable doubt standard. 
+  
+9. Quote: "All of the elements of a crime, just like all of the ingredients for my granny's potato soup are equally important, right. All are -- you know, one's not more important than the other. And the State of Oklahoma has to prove each and every single element beyond a reasonable doubt to you, okay." 
+Citation: Page 122, Lines 2-6 
+Violation: Improper Voir Dire Analogy / Trivializing Legal Standard 
+Why Inappropriate: The prosecutor reiterates the potato soup analogy, equating legal elements with recipe ingredients. While attempting to explain, this trivializes the complex legal standard of "beyond a reasonable doubt"and proving each element. 
+  
+  
+10. Quote: "But how in the world am I supposed to, as a prosecutor, know in advance 12 jurors what, like, questions they might have about random onions and shorts. Does that make sense?" 
+Citation: Page 126, Lines 18-21 
+Violation: Improper Argument / Appealing to Practicality over Legal Standard Why Inappropriate: The prosecutor attempts to justify not providing certain details by appealing to the impracticality of knowing "random questions" from jurors. This subtly shifts the focus from the State's burden to prove every element to the prosecutor's convenience. 
+  
+11. Quote: "It would be impossible for us to plan for those random questions. Does that make sense, Mr. Hubbard?" 
+Citation: Page 126, Lines 23-25 
+Violation: Improper Argument / Appealing to Practicality over Legal Standard 
+Why Inappropriate: Continues the argument from the previous point, implying that the 
+State cannot be held accountable for "random questions," which can undermine the jury's understanding of their right to demand proof on all elements. 
+  
+12. Quote: "Does anybody disagree with that? Like disagree with having to distinguish what's an actual element that we have to prove versus like a detail that you just want to know but that's not an element, right? Like differences between what's an element that the State of Oklahoma has to prove and what's a detail that you just want to know. Now, could it be that there's a detail that's important and goes to one of the elements? Absolutely. But there also could be a question of a detail that maybe you just want to know but doesn't go to an element. Does that make sense?" 
+Citation: Page 127, Lines 3-12 
+Violation: Improper Argument / Instructing on Law 
+Why Inappropriate: The prosecutor attempts to instruct the jury on the distinction between "elements" and "details," a function reserved for the judge. While the judge will provide instructions, the prosecutor's detailed explanation can confuse or improperly influence the jury's understanding of what constitutes a material fact. 
+  
+13. Quote: "Okay. Ask later. And that's a good thing, because like after this is over, Mr. Hubbard, you want to ask me questions about my granny's potato soup, if you're not a juror today, I'll be happy to answer your questions. Or if you are a juror, I'll answer all of your questions after the case is over about potato soup and anything else you might want to ask me 
+about the case. And we can do that after the case is over, right?" 
+Citation: Page 127, Line 20 - Page 128, Line 2 
+Violation: Improper Argument / Trivializing Jury's Role 
+Why Inappropriate: The prosecutor trivializes the jury's role by suggesting they can ask "random questions" about the case "after the case is over," equating it to a recipe. This can diminish the gravity of their duty to consider all relevant facts during deliberation. 
+  
+ 
+  
+14. Quote: "Does anybody have anything -- any questions about that or disagree with holding the State of Oklahoma to their burden of proof as it relates to proving each and every one of the elements and not just random things that we can't plan for?" 
+Citation: Page 128, Lines 3-6 
+Violation: Improper Argument / Appealing to Practicality over Legal Standard 
+Why Inappropriate: The prosecutor again attempts to justify not providing certain details by appealing to the impracticality of planning for "random things," subtly shifting the focus from the State's burden to the prosecutor's convenience. 
+  
+  
+15. Quote: "Do you believe that it happened even though you didn't see it happen?" 
+Citation: Page 129, Lines 17-18 
+Violation: Improper Vouching / Pre-committing Jurors 
+Why Inappropriate: The prosecutor asks a juror to believe an event happened despite not witnessing it, attempting to pre-commit the juror to accepting testimony without direct corroboration, which can undermine the reasonable doubt standard. 
+  
+  
+16. Quote: "Well, because she said so, and at the end of the day she took her own life because of it." 
+Citation: Page 129, Lines 21-22 
+Violation: Appeal to Emotion / Inflammatory Rhetoric 
+Why Inappropriate: The prosecutor uses highly emotional and tragic information (victim's suicide) to justify believing the witness, appealing to sympathy rather than evidence, violating ORPC 3.4(e) and 8.4(d). 
+  
+  
+17. Quote: "Do you think that whenever a child is sexually abused that there are usually witnesses?" 
+Citation: Page 130, Lines 23-24 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: The prosecutor asks a leading question designed to elicit a specific answer (no witnesses), which sets up a narrative to excuse lack of corroborating evidence. 
+  
+  
+18. Quote: "And why do you think that there are not usually witnesses?" 
+Citation: Page 131, Lines 1-2 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Follows up on the previous leading question, guiding the juror to provide the desired explanation (perpetrator doesn't want others to know). 
+  
+  
+19. Quote: "Do you think that there is likely a lot of DNA evidence in crimes like this?" 
+Citation: Page 131, Lines 8-9 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: The prosecutor asks a leading question designed to elicit a specific answer (no DNA evidence), setting up a narrative to excuse lack of physical evidence. 
+  
+  
+20. Quote: "Like would depend on the timing of when something is said maybe?" 
+Citation: Page 131, Lines 13-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to provide the desired explanation for lack of DNA evidence. 
+  
+  
+21. Quote: "And maybe the specifics -- of what happened? Okay. And where do you think child sexual abuse usually happens?" 
+Citation: Page 131, Line 16 - Page 132, Line 1 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to provide the desired explanation for lack of DNA evidence and sets up the "behind closed doors" narrative. 
+  
+  
+22. Quote: "Do you think it happens usually out in the open or behind closed doors?" 
+Citation: Page 131, Lines 24-25 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Directly leads the juror to the desired answer ("behind closed doors") to explain away lack of witnesses. 
+  
+  
+23. Quote: "You had mentioned earlier that your brother was convicted of some sort of sexual abuse case with a child. Is that correct?" 
+Citation: Page 132, Lines 8-10 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: The prosecutor uses a leading question to confirm a juror's personal experience with a sex crime conviction, setting up a narrative for later questions. 
+  
+  
+24. Quote: "And he admitted guilt. He was sentenced, and there was no trial. Does that sound correct?" 
+Citation: Page 132, Lines 12-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to confirm details of a prior sex crime case, potentially influencing the juror's view of the current case.  
+  
+25. Quote: "Do you know the relationship of the victim to your brother?" 
+Citation: Page 132, Lines 19-20 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm the relationship, setting up the "grooming" narrative. 
+  
+  
+26. Quote: "It was actually -- his wife ran a home daycare. And the person -- the girl it happened to was my daughter's best friend at the time." 
+Citation: Page 132, Line 21 - Page 133, Line 1 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm details of the prior case, which will be used to establish a "grooming" narrative. 
+  
+  
+27. Quote: "And it happened whenever his wife, who ran the home daycare, was out of the home picking up other children." 
+Citation: Page 133, Lines 6-8 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm details of the prior case, further establishing the "grooming" narrative. 
+   
+28. Quote: "Do you know or have any idea like if it -- if there was a disclosure that was immediate or if it had been happening for a while, and then the child victim said something?" 
+Citation: Page 133, Lines 9-12 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm a delayed disclosure, setting up a 
+narrative to explain why the victim in the current case might have delayed disclosure. 
+   
+29. Quote: "Okay. So not something that was Similar or not something like Ms. Kaelin kind of talked about, like the DNA evidence sometimes being -- like maybe it depends on when something is said. But this situation, at least in your brother's case, probably wasn't something that was an immediate type of disclosure?" 
+Citation: Page 133, Line 19 - Page 134, Line 1 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Directly leads the juror to confirm delayed disclosure in the brother's case, reinforcing the narrative for the current case.  
+  
+30. Quote: "Something that went on at least for some time?" 
+Citation: Page 134, Lines 2-3 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to confirm the duration of the abuse in the brother's case.  
+  
+31. Quote: "There was some grooming, yeah. I think that's a big part of it. You know, you gain 
+the trust and I think that's kind of how it happened with my brother." 
+Citation: Page 134, Lines 4-7 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: Leads the juror to confirm "grooming" as a factor in the brother's case, then uses this to characterize the crime in general, setting up a narrative for the current case. 
+  
+  
+32. Quote: "For those of us that might not be familiar in the courtroom today with the term 
+grooming, what do you mean when you say grooming?" 
+Citation: Page 134, Lines 8-10 
+Violation: Improper Argument / Instructing on Law/Concepts 
+Why Inappropriate: The prosecutor asks the juror to define a legal concept ("grooming"), which is the judge's role, and uses the juror's personal experience to establish a definition for the panel. 
+  
+  
+33. Quote: "Do you think that -- do you think that a defendant or a person who abuses a child is likely to abuse a child the first time they're around them?" 
+Citation: Page 134, Line 21 - Page 135, Line 1 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: Leads the juror to confirm that abuse is unlikely to happen the first time, setting up a narrative of "grooming" for the current case. 
+  
+  
+34. Quote: "And why do you think that might be?" 
+Citation: Page 135, Lines 2-3 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Follows up on the previous leading question, guiding the juror to provide the desired explanation (child needs to trust). 
+  
+  
+35. Quote: "Do you think that that makes it less likely if you groom a child that a child would 
+make an immediate disclosure about being sexually abused?" 
+Citation: Page 135, Lines 9-11 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Directly leads the juror to confirm that grooming makes immediate disclosure less likely, setting up a narrative to explain delayed disclosure in the current case. 
+  
+  
+36. Quote: "Do you think a child can be fearful without the abuser like saying those words? Like you better be afraid or like -- without making specific threats, like, I'm going to do something to you?" 
+Citation: Page 135, Line 24 - Page 136, Line 4 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: Leads the juror to confirm that fear can exist without explicit threats, setting up a narrative to explain why a victim might not immediately disclose. 
+  
+  
+ 
+ 
+37. Quote: "How are those dynamics that you just mentioned, like fear and embarrassment -- 
+how does that change when the victim is a child and the perpetrator is an adult?" 
+Citation: Page 136, Lines 11-13 
+Violation: Improper Argument / Characterizing Crime 
+Why Inappropriate: The prosecutor asks the juror to generalize about the dynamics of child abuse, setting up a narrative for the current case. 
+  
+  
+38. Quote: "Would it depend on if the perpetrator was like actually living in the home versus like not in the home but just someone that has access to the child?" 
+Citation: Page 137, Lines 8-10 
+Violation: Improper Argument / Leading Question / Characterizing Crime Why Inappropriate: Leads the juror to confirm that living in the home impacts the dynamic, setting up a narrative for the current case. 
+  
+  
+39. Quote: "In what way would that matter do you think?" 
+Citation: Page 137, Lines 12-13 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Follows up on the previous leading question, guiding the juror to provide the desired explanation (power dynamic, control over daily life). 
+  
+  
+40. Quote: "So Ms. Marino, if a child victim of sexual abuse, if they don't say anything, you know, right when the abuse happens, do you think that that makes them less credible to you in your eyes?" 
+Citation: Page 137, Line 22 - Page 138, Line 1 
+Violation: Improper Argument / Leading Question / Improper Vouching 
+Why Inappropriate: Leads the juror to confirm that delayed disclosure does not make a victim less credible, improperly vouching for the credibility of delayed disclosures. 
+   
+41. Quote: "Ms. Rutledge, you know, right now I want to ask you to just give us some details right now about your last consensual sexual encounter. I'm just -- don't answer that. Don't answer me." 
+Citation: Page 138, Lines 12-15 
+Violation: Inflammatory Rhetoric / Appeal to Emotion / Improper Hypothetical Why Inappropriate: The prosecutor uses a highly personal and inappropriate hypothetical question, designed to evoke discomfort and embarrassment, to then draw a parallel to the victim's experience. This is an improper appeal to emotion and a tactic to create sympathy for the victim.  
+  
+42. Quote: "But did the -- me just asking you that question, how did that make you feel?" 
+Citation: Page 138, Lines 17-18 
+Violation: Appeal to Emotion / Improper Hypothetical 
+Why Inappropriate: Continues the inappropriate hypothetical, focusing on the juror's emotional response to create sympathy for the victim. 
+  
+  
+43. Quote: "You kind of had a -- what I'm going to call like a nervous -- it was kind of like a nervous laugh. You looked very uncomfortable." 
+Citation: Page 138, Lines 21-23 
+Violation: Improper Argument / Characterizing Juror's Demeanor 
+Why Inappropriate: The prosecutor comments on and characterizes the juror's physical reactions, using it to further the emotional appeal of the hypothetical. 
+  
+  
+44. Quote: "I was uncomfortable for you." 
+Citation: Page 139, Line 1 
+Violation: Improper Vouching / Appeal to Emotion / Personal Opinion 
+Why Inappropriate: The prosecutor injects personal feelings and opinion, blurring the line between advocate and witness, and appealing to emotion. Violates ORPC 3.4(e). 
+  
+  
+45. Quote: "Safe so say that that's something that we, as adults, are not always comfortable talking about in front of other adults?" 
+Citation: Page 139, Lines 6-8 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm discomfort with discussing sexual topics, setting up a narrative for the victim's potential discomfort. 
+  
+  
+46. Quote: "How do you think that that would make you feel if I had you sitting on the witness stand and I asked you that question with 12 people in the box staring at you and people out here in the audience looking at you and all eyes are on you as I ask you to describe your last sexual encounter, and I said consensual." 
+Citation: Page 139, Lines 10-15 
+Violation: Inflammatory Rhetoric / Appeal to Emotion / Improper Hypothetical Why Inappropriate: Continues the highly personal and inappropriate hypothetical, designed to maximize juror discomfort and create sympathy for the victim. 
+  
+  
+47. Quote: "Would it make you feel uncomfortable?" Citation: Page 139, Line 18 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Directly leads the juror to confirm discomfort, reinforcing the emotional appeal.  
+  
+48. Quote: "How do you think that it would impact your behavior on the stand?" 
+Citation: Page 139, Lines 20-21 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to speculate on behavior under discomfort, setting up a narrative to explain victim's potential demeanor. 
+  
+  
+49. Quote: "Do you think it might make it difficult for you to look me in the eye?" 
+Citation: Page 140, Lines 11-12 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm specific behaviors (avoiding eye contact) under discomfort, setting up a narrative to explain victim's potential demeanor. 
+  
+  
+50. Quote: "Maybe like a little difficulty answering questions?" 
+Citation: Page 140, Lines 14-15 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm specific behaviors (difficulty answering questions) under discomfort, setting up a narrative to explain victim's potential demeanor. 
+  
+  
+51. Quote: "Maybe a little bit -- you know, built kind of fidgeting around a little?" 
+Citation: Page 140, Lines 17-18 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm specific behaviors (fidgeting) under discomfort, setting up a narrative to explain victim's potential demeanor. 
+  
+  
+52. Quote: "Do you think that -- you kind of fidgeting, kind of nervous like -- or I said nervous. 
+But your laughter, you think that's an indication of nerves?" Citation: Page 140, Line 20 - Page 141, Line 1 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm specific behaviors (laughter as nerves), setting up a narrative to explain victim's potential demeanor. 
+  
+  
+53. Quote: "Or do you think that's an indication of lying?" 
+Citation: Page 140, Lines 24-25 
+Violation: Improper Argument / Leading Question / Improper Vouching 
+Why Inappropriate: Directly leads the juror to reject nervousness as an indication of lying, improperly vouching for the victim's potential demeanor. 
+  
+  
+54. Quote: "Do you think that -- do you think that kids can be truthful?" 
+Citation: Page 141, Lines 3-4 
+Violation: Improper Argument / Leading Question / Improper Vouching 
+Why Inappropriate: Leads the juror to confirm children can be truthful, improperly vouching for child witnesses in general. 
+  
+  
+55. Quote: "Do you think that kids in your experience, with your own children at least, do you think that kids are good at keeping lies straight?" 
+Citation: Page 141, Lines 9-11 
+Violation: Improper Argument / Leading Question / Improper Vouching 
+Why Inappropriate: Leads the juror to confirm children are bad at keeping lies straight, improperly vouching for child witnesses by implying their inconsistencies prove truth. 
+  
+  
+56. Quote: "Okay. And you kind of -- you did the like mom laugh and shake head as I'm kind of in my mind doing, like my kids can't keep lies straight. That's always what gets them, right? 
+They can't keep them straight." Citation: Page 141, Lines 13-16 
+Violation: Improper Vouching / Personal Opinion / Appeal to Common Experience Why Inappropriate: The prosecutor injects personal experience and opinion to bolster the idea that inconsistencies prove truth, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+  
+  
+57. Quote: "They can tell them. They just can't keep them straight." 
+Citation: Page 141, Lines 18-19 
+Violation: Improper Vouching / Direct Assertion of Fact 
+Why Inappropriate: The prosecutor states as fact that children "can't keep lies straight," improperly vouching for child witnesses. 
+  
+  
+58. Quote: "Do you -- like as a mom, do you have experience with kids using different terminology for their body parts like at different -- like different stages and different ages?" 
+Citation: Page 142, Lines 3-6 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm varying terminology for body parts, setting up a narrative to explain potential inconsistencies in victim's language. 
+  
+  
+59. Quote: "Do you think that nervousness in and of itself is an indication of lying?" 
+Citation: Page 143, Line 25 - Page 144, Line 1 
+Violation: Improper Argument / Leading Question / Improper Vouching 
+Why Inappropriate: Directly leads the juror to reject nervousness as an indication of lying, improperly vouching for the victim's potential demeanor. 
+  
+  
+60. Quote: "And can you -- can you, Mr. Wade, believe the word of a child?" 
+Citation: Page 144, Lines 11-12 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: Leads the juror to confirm belief in a child's word, improperly vouching for child witnesses. 
+  
+  
+61. Quote: "Would probably convince me that it was the truth." 
+Citation: Page 145, Lines 17-18 
+Violation: Improper Vouching / Personal Opinion 
+Why Inappropriate: The prosecutor elicits a personal opinion from the juror that nervousness "would probably convince me that it was the truth," improperly influencing the panel. 
+  
+  
+62. Quote: "Do you expect or do you have any expectation that cases come to trial quickly in the justice system?" 
+Citation: Page 146, Lines 1-2 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that cases don't come to trial quickly, setting up a narrative to explain delayed trial.  
+  
+63. Quote: "So my question is, do you expect a child to remember a whole lot of specifics about statements they made several years ago or do you have any expectations about that?" 
+Citation: Page 146, Lines 10-12 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that children may not remember specifics from years ago, setting up a narrative to explain delayed recall. 
+  
+64. Quote: ”Maybe the big things?” 
+Citation: Page 147, Line 1 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: The prosecutor leads the juror to confirm that only “big things” might be remembered, setting up a narrative to explain why the victim might not recall all details. 
+   
+65. Quote: ”Does that kind of go back to what we talked about? I know it’s different and we’re just making – we’re kind of drawing some similarities to what Mr. Jilge said about, yeah, I remember these things but I don’t remember the color of shorts or the color of shirt. I remember it rolled and I remember that I was – you know, I had to get out this way. Like, is that what you’re talking about?” 
+Citation: Page 147, Lines 3-10 
+Violation: Improper Argument / Drawing Parallels to Unrelated Testimony 
+Why Inappropriate: The prosecutor attempts to draw a direct parallel between Mr. Jilge’s accident story (which was presented as credible) and the victim’s potential testimony, implying that the same standards of memory and detail should apply, even though the contexts are vastly different. 
+  
+66. Quote: ”Like the big things, maybe not all of the specific details?” 
+Citation: Page 147, Lines 12-13 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to confirm that only “big things” might be remembered, reinforcing the narrative for the victim’s testimony. 
+  
+  
+67. Quote: ”Do you think that your memory about some of those things is better closer in time to when the event happens?” 
+Citation: Page 147, Lines 16-17 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that memory is not necessarily better closer to the event, setting up a narrative to explain delayed recall. 
+  
+  
+68. Quote: ”Because I think during a traumatic experience, you’re going to maybe blackout at a certain point or forget. You just go blank and down the road it comes to you. Yeah. I would think more would come as the days and weeks went by –“ 
+Citation: Page 147, Line 20 – Page 148, Line 1 
+Violation: Improper Argument / Leading Question / Speculation 
+Why Inappropriate: The prosecutor leads the juror to speculate about memory recovery after trauma, setting up a narrative to explain why details might emerge later, which can be used to counter defense arguments about evolving stories. 
+  
+  
+69. Quote: ”Have you had a situation in which that’s happened to you?” 
+Citation: Page 148, Lines 2-3 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to provide a personal anecdote that supports the prosecutor’s narrative about memory and trauma.  
+  
+70. Quote: ”Back when I was about 10, my dad knocked me off the ladder and broke my arm and knocked me out. And it was, I don’t know, several weeks before it come back to me.” 
+Citation: Page 148, Lines 6-9 
+Violation: Improper Argument / Eliciting Sympathy / Inflammatory Content 
+Why Inappropriate: The prosecutor elicits a highly traumatic personal anecdote from the juror, which, while relevant to memory, is also emotionally charged and can improperly evoke sympathy for the victim’s experience.  
+  
+71. Quote: ”You think like our memories and our brains are kind of funny things that way, right?” Citation: Page 148, Lines 14-15 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to agree with a general statement about memory, reinforcing the narrative about how memory works in traumatic situations.  
+  
+72. Quote: ”Like sometimes the sequencing gets off and we don’t remember everything specifically, is what you’re kind of saying?” 
+Citation: Page 148, Lines 17-19 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that sequencing can be off, setting up a narrative to explain inconsistencies in victim’s testimony. 
+  
+  
+73. Quote: ”I feel like you’re kind of saying sometimes it depends on what’s happening. Sometimes maybe piece all of it together kind of later. Versus like right at the time? Depending on maybe what’s happening at the time. Is that fair to say?” 
+Citation: Page 148, Line 24 – Page 149, Line 6 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to confirm that memory can be pieced together later, reinforcing the narrative about evolving stories. 
+  
+  
+74. Quote: ”And in your situation, what you were saying is that because of what happened to you, and the fact that maybe the person who had harmed you maybe, was then taking care of you at the time. That immediately those things didn’t come back. Did I get that correct?” 
+Citation: Page 149, Lines 8-13 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: The prosecutor leads the juror to confirm a specific dynamic (abuser as caregiver) that explains delayed recall, setting up a narrative for the current case. 
+  
+  
+75. Quote: ”Okay. So that’s an important thing to note then for the people that kind of talked about those specifics. Is that these are things that you’ve also kind of taken from witnesses and then also things that have came to you as you’ve retold the story or what happened to you?” 
+Citation: Page 150, Lines 16-20 
+Violation: Improper Argument / Drawing Parallels to Unrelated Testimony 
+Why Inappropriate: The prosecutor attempts to draw a direct parallel between Mr. Jilge’s story (which incorporated information from witnesses) and the victim’s potential testimony, implying that evolving stories are normal and credible. 
+   
+76. Quote: ”By a show of hands, has anybody had that happen? Again, this is just because I was recently in a car accident. Like you’re telling the story to somebody and then as you’re telling it, you’re like, oh, yeah, like now I remember. This also happened. Has that happened to 
+anybody before? Like am I the only person that’s happened to?” 
+Citation: Page 150, Line 22 – Page 151, Line 3 
+Violation: Improper Argument / Personal Anecdote / Appeal to Common Experience Why Inappropriate: The prosecutor uses a personal anecdote and asks for a show of hands to create a sense of shared experience, implying that evolving stories are common and credible. 
+   
+77. Quote: ”No, okay. And thought I was crazy kind of because I was like I totally – until right now, I didn’t remember that, you know, before this happened, this also happened. Why do you think that is?” 
+Citation: Page 151, Lines 5-8 
+Violation: Improper Argument / Personal Anecdote / Appeal to Common Experience Why Inappropriate: Continues to use a personal anecdote to normalize evolving memories, subtly vouching for the victim’s potential testimony. 
+  
+  
+78. Quote: ”Do you think it makes Mr. Jilge, you know, a liar? Not calling you a liar. But do you think it makes him a liar just because he didn’t know every single detail the first time he told his story about the accident?” 
+Citation: Page 151, Lines 15-19 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: Leads the juror to confirm that not remembering every detail doesn’t make someone a liar, improperly vouching for the victim’s potential inconsistencies. 
+  
+  
+79. Quote: ”Do you think that we, as human beings, sometimes decide what details to share based on who we’re telling stories to? I stay telling stories. That sounds like I’m a child like telling – I don’t mean it like that. But, you know, like if I’m talking to – this is like the best I can give, and I’m sorry, but it’s the best example. If I’m talking to somebody who’s a woman who’s giving birth and I’m explaining, you know, the story of me giving birth to my children, maybe there are details I share with her that I would not share with some man, right? Like what you tell 
+the certain people might depend on who they are. Does that make sense?” 
+Citation: Page 151, Line 24 – Page 152, Line 10 
+Violation: Improper Argument / Personal Anecdote / Appeal to Common Experience Why Inappropriate: The prosecutor uses a lengthy personal anecdote about sharing details based on audience, setting up a narrative to explain why the victim’s story might change or evolve over time. 
+  
+  
+80. Quote: ”So that’s where I was going with that. Yeah. It depends on who you’re talking to – your audience, I guess.” 
+Citation: Page 152, Lines 12-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that details shared depend on the audience, reinforcing the narrative for the victim’s testimony. 
+  
+  
+81. Quote: ”Some people might not be interested in what you’re talking about. Okay. Might not know based on their own experiences? Like you don’t know what it’s like to give birth, right?” 
+Citation: Page 152, Line 18 – Page 153, Line 1 
+Violation: Improper Argument / Leading Question / Personal Anecdote 
+Why Inappropriate: Continues to use personal anecdote to explain why details might be withheld or changed, subtly vouching for the victim’s potential testimony. 
+  
+  
+82. Quote: ”You think? And also, kind of just like you might tell different things to your mom versus your friend, right?” 
+Citation: Page 153, Lines 20-22 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that details shared vary by audience, reinforcing the narrative for the victim’s testimony. 
+  
+  
+83. Quote: ”And those of us that haven’t been in the Navy and been in those circumstances would have no frame of reference for that, right?” 
+Citation: Page 154, Lines 13-15 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm lack of frame of reference, setting up a narrative to explain why certain experiences might be difficult to articulate. 
+  
+  
+84. Quote: ”Do you think that children should be like spoken to or talked to in the same way as like adults?” 
+Citation: Page 154, Lines 22-23 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that children should be interviewed differently, setting up a narrative to explain forensic interview techniques. 
+  
+  
+85. Quote: ”Bring the microphone up a little bit. You do not have the volume that I do.” 
+Citation: Page 155, Lines 4-5 
+Violation: Improper Argument / Personal Opinion / Demeaning Juror 
+Why Inappropriate: The prosecutor makes a personal comment about her own volume and the juror’s, which is unprofessional and can be demeaning to the juror. 
+  
+  
+86. Quote: ”Okay. Maybe ask the questions in a different way – to kind of get on their level?” 
+Citation: Page 155, Lines 10-13 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that questions should be asked differently to get on a child’s level, setting up a narrative for forensic interview techniques. 
+  
+  
+87. Quote: ”Obviously because children are developmentally different than adults?” 
+Citation: Page 155, Lines 16-17 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm developmental differences, reinforcing the narrative for forensic interview techniques. 
+  
+  
+88. Quote: ”Do you know of why it would be beneficial to interview or to conduct an interview of a child in a different manner that an adult?” 
+Citation: Page 156, Lines 5-7 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm benefits of different interview methods, setting up a narrative for forensic interview techniques. 
+  
+  
+89. Quote: ”What about like the environment in which you speak to children? You think it’s maybe necessary to speak to children when it involves investigations like this in a way – in a place that’s maybe more child friendly instead of like a – no offense to Ms. Heath’s husband, but in a place that’s more child friendly versus like a cold, you know, room at a police station?” 
+Citation: Page 156, Line 22 – Page 157, Line 3 
+Violation: Improper Argument / Leading Question / Appeal to Emotion 
+Why Inappropriate: Leads the juror to confirm the benefit of child-friendly environments, appealing to emotion and setting up a narrative for forensic interview settings. 
+  
+  
+90. Quote: ”Mr. Cromack, does that make sense to you? Like would it cause you any concern if in this case there was evidence where a child was interviewed in a manner that is different from 
+how we – from how – I say we, but from how law enforcement interviews adults?” 
+Citation: Page 157, Lines 10-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that different interview methods for children are acceptable, setting up a narrative for forensic interview techniques. 
+  
+  
+91. Quote: ”Okay. Think it makes sense to treat them differently?” 
+Citation: Page 157, Lines 20-21 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that treating children differently makes sense, reinforcing the narrative for forensic interview techniques. 
+  
+  
+92. Quote: ”A better environment. Safer.” 
+Citation: Page 158, Lines 1-2 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm the benefits of a “safer” environment, reinforcing the narrative for forensic interview settings. 
+  
+  
+93. Quote: ”Do you think, Mr. Cromack, that it’s also important to be able to, you know, have that interview maybe audio/video recorded like close in time to when these statements were being made?” 
+Citation: Page 158, Lines 6-9 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm the importance of audio/video recording, setting up a narrative for forensic interview practices. 
+  
+  
+94. Quote: ”Okay. If you, Mr. Cromack, believe – if we bring in our victim in this case and you believe the child, you believe what she tells you happened, do you believe the State of 
+Oklahoma can meet all of their elements just from the word of a child?” 
+Citation: Page 158, Lines 14-18 
+Violation: Improper Vouching / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: The prosecutor asks the juror to pre-commit to finding elements met solely from a child’s word, improperly lowering the burden of proof and vouching for the victim. Violates OUJI-CR 1-8, 1-12, ORPC 3.4€. 
+  
+  
+95. Quote: ”Who do you think decides where to abuse children?” 
+Citation: Page 159, Lines 3-4 
+Violation: Inflammatory Rhetoric / Characterizing Crime 
+Why Inappropriate: The prosecutor asks a rhetorical question about who decides where abuse happens, implying the abuser’s control and setting up a narrative to explain lack of witnesses/evidence. 
+  
+  
+96. Quote: ”Who decides – like who decides the place that a child is going to be sexually abused?” 
+Citation: Page 159, Lines 10-11 
+Violation: Inflammatory Rhetoric / Characterizing Crime 
+Why Inappropriate: Repeats rhetorical question about abuser’s control, reinforcing narrative. 
+  
+  
+97. Quote: ”Right. And it seems like a silly question, but the abuser decides where the crime happens, right?” 
+Citation: Page 159, Lines 17-19 
+Violation: Inflammatory Rhetoric / Direct Assertion of Guilt / Characterizing Crime Why Inappropriate: States as fact that “the abuser decides where the crime happens,” asserting guilt and appealing to emotion. Violates ORPC 3.4€, 8.4(d). 
+  
+  
+98. Quote: ”And then who decides whether or not there’s witnesses?” 
+Citation: Page 159, Lines 21-22 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: Leads the juror to confirm that the abuser decides about witnesses, setting up a narrative to explain lack of witnesses. 
+  
+  
+99. Quote: ”And who decides whether or not there’s, you know, like DNA evidence or something like that?” 
+Citation: Page 159, Line 25 – Page 160, Line 1 
+Violation: Improper Argument / Leading Question / Characterizing Crime Why Inappropriate: Leads the juror to confirm that the abuser decides about DNA evidence, setting up a narrative to explain lack of physical evidence. 
+  
+  
+100. Quote: ”Yeah. Do you that a majority of those things are controlled by the person who’s perpetrating the crime?” 
+Citation: Page 160, Lines 5-7 
+Violation: Direct Assertion of Guilt / Characterizing Crime 
+Why Inappropriate: States as fact that the “person who’s perpetrating the crime” controls these factors, asserting guilt. Violates ORPC 3.4€, OUJI-CR 1-8, 1-12. 
+  
+  
+101. Quote: ”Okay. Do you believe that the State of Oklahoma could prove their case through the word of a child alone?” 
+Citation: Page 160, Lines 9-11 
+Violation: Improper Vouching / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: Asks juror to pre-commit to finding case proven solely by child’s word, improperly lowering burden of proof. Violates OUJI-CR 1-8, 1-12, ORPC 3.4€. 
+  
+  
+102. Quote: ”Okay. Tell me why.” Citation: Page 160, Line 16 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Guides the juror to provide reasons why a child’s word alone might not be enough, setting up a counter-argument. 
+  
+  
+103. Quote: ”I guess I could ask it like this. What kind of evidence would you expect? So if there’s a perpetrator who sexually abuses a child, and we already know from several jurors that we think these crimes happens behind closed doors, we don’t think that there are witnesses, what would you expect? What kind of evidence would you expect? You’d expect for the child to come in here and say that somebody touched them?” 
+Citation: Page 161, Lines 2-8 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: Leads the juror to confirm expected evidence (child’s testimony) based on prior assumptions about the nature of the crime. 
+  
+  
+104. Quote: ”Right. And would that be enough for you is my question? Could the State of 
+Oklahoma – I’m not saying that’s what we have or not, but is it possible that the State of Oklahoma could prove each and every element of their case based on the word of a child alone?” 
+Citation: Page 161, Line 24 – Page 162, Line 3 
+Violation: Improper Vouching / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: Asks juror to pre-commit to finding case proven solely by child’s word, improperly lowering burden of proof. Violates OUJI-CR 1-8, 1-12, ORPC 3.4€. 
+  
+  
+105. Quote: ”Because testimony is evidence because we talked about what evidence was at the very beginning of me talking right after the lunch break. And testimony is evidence.” Citation: Page 162, Lines 4-6 
+Violation: Misstatement of Law / Instructing on Law 
+Why Inappropriate: The prosecutor instructs the jury that “testimony is evidence,” which is the judge’s role, and oversimplifies the concept of evidence. Violates OUJI-CR 1- Okay, I will continue the detailed compilation from instance #65, maintaining the concise format and including legal citations. 
+  
+  
+⸻ 
+  
+  
+COMPILATION OF PROSECUTORIAL MISCONDUCT IN VOIR DIRE: CONCISE ANALYSIS 
+(Continued) 
+  
+65. Quote: "Maybe the big things?" 
+Citation: Page 147, Line 1 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: The prosecutor leads the juror to confirm that only "big things" might be remembered, setting up a narrative to explain why the victim might not recall all details. 
+  
+  
+66. Quote: "Does that kind of go back to what we talked about? I know it's different and we're just making -- we're kind of drawing some similarities to what Mr. Jilge said about, yeah, I remember these things but I don't remember the color of shorts or the color of shirt. I remember it rolled and I remember that I was -- you know, I had to get out this way. Like, is that what you're talking about?" 
+Citation: Page 147, Lines 3-10 
+Violation: Improper Argument / Drawing Parallels to Unrelated Testimony 
+Why Inappropriate: The prosecutor attempts to draw a direct parallel between Mr. Jilge's accident story (which was presented as credible) and the victim's potential testimony, implying that the same standards of memory and detail should apply, even though the contexts are vastly different. 
+  
+  
+67. Quote: "Like the big things, maybe not all of the specific details?" 
+Citation: Page 147, Lines 12-13 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to confirm that only "big things" might be remembered, reinforcing the narrative for the victim's testimony. 
+  
+  
+68. Quote: "Do you think that your memory about some of those things is better closer in time to when the event happens?" 
+Citation: Page 147, Lines 16-17 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that memory is not necessarily better closer to the event, setting up a narrative to explain delayed recall. 
+  
+  
+69. Quote: "Because I think during a traumatic experience, you're going to maybe blackout at a certain point or forget. You just go blank and down the road it comes to you. Yeah. I would think more would come as the days and weeks went by --" 
+Citation: Page 147, Line 20 - Page 148, Line 1 
+Violation: Improper Argument / Leading Question / Speculation 
+Why Inappropriate: The prosecutor leads the juror to speculate about memory recovery after trauma, setting up a narrative to explain why details might emerge later, which can be used to counter defense arguments about evolving stories. 
+  
+  
+70. Quote: "Have you had a situation in which that's happened to you?" 
+Citation: Page 148, Lines 2-3 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to provide a personal anecdote that supports the prosecutor's narrative about memory and trauma. 
+  
+  
+71. Quote: "Back when I was about 10, my dad knocked me off the ladder and broke my arm and knocked me out. And it was, I don't know, several weeks before it come back to me." 
+Citation: Page 148, Lines 6-9 
+Violation: Improper Argument / Eliciting Sympathy / Inflammatory Content 
+Why Inappropriate: The prosecutor elicits a highly traumatic personal anecdote from the juror, which, while relevant to memory, is also emotionally charged and can improperly evoke sympathy for the victim's experience. 
+  
+  
+72. Quote: "You think like our memories and our brains are kind of funny things that way, right?" 
+Citation: Page 148, Lines 14-15 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to agree with a general statement about memory, reinforcing the narrative about how memory works in traumatic situations. 
+  
+  
+73. Quote: "Like sometimes the sequencing gets off and we don't remember everything specifically, is what you're kind of saying?" 
+Citation: Page 148, Lines 17-19 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that sequencing can be off, setting up a narrative to explain inconsistencies in victim's testimony. 
+  
+  
+74. Quote: "I feel like you're kind of saying sometimes it depends on what's happening. Sometimes maybe piece all of it together kind of later. Versus like right at the time? Depending on maybe what's happening at the time. Is that fair to say?" 
+Citation: Page 148, Line 24 - Page 149, Line 6 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Continues to lead the juror to confirm that memory can be pieced 
+together later, reinforcing the narrative about evolving stories. 
+  
+  
+75. Quote: "And in your situation, what you were saying is that because of what happened to you, and the fact that maybe the person who had harmed you maybe, was then taking care of you at the time. That immediately those things didn't come back. Did I get that correct?" 
+Citation: Page 149, Lines 8-13 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: The prosecutor leads the juror to confirm a specific dynamic (abuser as caregiver) that explains delayed recall, setting up a narrative for the current case. 
+  
+  
+76. Quote: "Okay. So that's an important thing to note then for the people that kind of talked about those specifics. Is that these are things that you've also kind of taken from witnesses and then also things that have came to you as you've retold the story or what happened to you?" 
+Citation: Page 150, Lines 16-20 
+Violation: Improper Argument / Drawing Parallels to Unrelated Testimony 
+Why Inappropriate: The prosecutor attempts to draw a direct parallel between Mr. Jilge's story (which incorporated information from witnesses) and the victim's potential testimony, implying that evolving stories are normal and credible. 
+  
+  
+77. Quote: "By a show of hands, has anybody had that happen? Again, this is just because I was recently in a car accident. Like you're telling the story to somebody and then as you're telling it, you're like, oh, yeah, like now I remember. This also happened. Has that happened to 
+anybody before? Like am I the only person that's happened to?" 
+Citation: Page 150, Line 22 - Page 151, Line 3 
+Violation: Improper Argument / Personal Anecdote / Appeal to Common Experience Why Inappropriate: The prosecutor uses a personal anecdote and asks for a show of hands to create a sense of shared experience, implying that evolving stories are common and credible. 
+  
+  
+78. Quote: "No, okay. And thought I was crazy kind of because I was like I totally -- until right now, I didn't remember that, you know, before this happened, this also happened. Why do you think that is?" 
+Citation: Page 151, Lines 5-8 
+Violation: Improper Argument / Personal Anecdote / Appeal to Common Experience Why Inappropriate: Continues to use a personal anecdote to normalize evolving memories, subtly vouching for the victim's potential testimony. 
+  
+  
+79. Quote: "Do you think it makes Mr. Jilge, you know, a liar? Not calling you a liar. But do you think it makes him a liar just because he didn't know every single detail the first time he told his story about the accident?" 
+Citation: Page 151, Lines 15-19 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: Leads the juror to confirm that not remembering every detail doesn't 
+make someone a liar, improperly vouching for the victim's potential inconsistencies. 
+  
+  
+80. Quote: "Do you think that we, as human beings, sometimes decide what details to share based on who we're telling stories to? I stay telling stories. That sounds like I'm a child like telling -- I don't mean it like that. But, you know, like if I'm talking to -- this is like the best I can give, and I'm sorry, but it's the best example. If I'm talking to somebody who's a woman who's giving birth and I'm explaining, you know, the story of me giving birth to my children, maybe there are details I share with her that I would not share with some man, right? Like what you tell 
+the certain people might depend on who they are. Does that make sense?" 
+Citation: Page 151, Line 24 - Page 152, Line 10 
+Violation: Improper Argument / Personal Anecdote / Appeal to Common Experience Why Inappropriate: The prosecutor uses a lengthy personal anecdote about sharing details based on audience, setting up a narrative to explain why the victim's story might change or evolve over time. 
+  
+  
+81. Quote: "So that's where I was going with that. Yeah. It depends on who you're talking to -- your audience, I guess." 
+Citation: Page 152, Lines 12-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that details shared depend on the audience, reinforcing the narrative for the victim's testimony. 
+  
+  
+82. Quote: "Some people might not be interested in what you're talking about. Okay. Might not know based on their own experiences? Like you don't know what it's like to give birth, right?" 
+Citation: Page 152, Line 18 - Page 153, Line 1 
+Violation: Improper Argument / Leading Question / Personal Anecdote 
+Why Inappropriate: Continues to use personal anecdote to explain why details might be withheld or changed, subtly vouching for the victim's potential testimony. 
+  
+  
+83. Quote: "You think? And also, kind of just like you might tell different things to your mom versus your friend, right?" 
+Citation: Page 153, Lines 20-22 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that details shared vary by audience, reinforcing the narrative for the victim's testimony. 
+  
+  
+84. Quote: "And those of us that haven't been in the Navy and been in those circumstances would have no frame of reference for that, right?" 
+Citation: Page 154, Lines 13-15 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm lack of frame of reference, setting up a narrative to explain why certain experiences might be difficult to articulate. 
+  
+  
+85. Quote: "Do you think that children should be like spoken to or talked to in the same way as like adults?" 
+Citation: Page 154, Lines 22-23 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that children should be interviewed differently, setting up a narrative to explain forensic interview techniques. 
+  
+  
+86. Quote: "Bring the microphone up a little bit. You do not have the volume that I do." 
+Citation: Page 155, Lines 4-5 
+Violation: Improper Argument / Personal Opinion / Demeaning Juror 
+Why Inappropriate: The prosecutor makes a personal comment about her own volume and the juror's, which is unprofessional and can be demeaning to the juror. 
+  
+  
+87. Quote: "Okay. Maybe ask the questions in a different way -- to kind of get on their level?" 
+Citation: Page 155, Lines 10-13 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that questions should be asked differently to get on a child's level, setting up a narrative for forensic interview techniques. 
+  
+  
+88. Quote: "Obviously because children are developmentally different than adults?" 
+Citation: Page 155, Lines 16-17 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm developmental differences, reinforcing the narrative for forensic interview techniques. 
+  
+  
+89. Quote: "Do you know of why it would be beneficial to interview or to conduct an interview of a child in a different manner that an adult?" 
+Citation: Page 156, Lines 5-7 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm benefits of different interview methods, setting up a narrative for forensic interview techniques. 
+  
+  
+90. Quote: "What about like the environment in which you speak to children? You think it's maybe necessary to speak to children when it involves investigations like this in a way -- in a place that's maybe more child friendly instead of like a -- no offense to Ms. Heath's husband, but in a place that's more child friendly versus like a cold, you know, room at a police station?" 
+Citation: Page 156, Line 22 - Page 157, Line 3 
+Violation: Improper Argument / Leading Question / Appeal to Emotion 
+Why Inappropriate: Leads the juror to confirm the benefit of child-friendly environments, appealing to emotion and setting up a narrative for forensic interview settings. 
+  
+  
+91. Quote: "Mr. Cromack, does that make sense to you? Like would it cause you any concern if in this case there was evidence where a child was interviewed in a manner that is different from 
+how we -- from how -- I say we, but from how law enforcement interviews adults?" 
+Citation: Page 157, Lines 10-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that different interview methods for children are acceptable, setting up a narrative for forensic interview techniques. 
+  
+  
+92. Quote: "Okay. Think it makes sense to treat them differently?" 
+Citation: Page 157, Lines 20-21 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that treating children differently makes sense, reinforcing the narrative for forensic interview techniques. 
+  
+  
+93. Quote: "A better environment. Safer." 
+Citation: Page 158, Lines 1-2 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm the benefits of a "safer" environment, reinforcing the narrative for forensic interview settings. 
+  
+  
+94. Quote: "Do you think, Mr. Cromack, that it's also important to be able to, you know, have that interview maybe audio/video recorded like close in time to when these statements were being made?" 
+Citation: Page 158, Lines 6-9 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm the importance of audio/video recording, setting up a narrative for forensic interview practices. 
+  
+  
+95. Quote: "Okay. If you, Mr. Cromack, believe -- if we bring in our victim in this case and you believe the child, you believe what she tells you happened, do you believe the State of 
+Oklahoma can meet all of their elements just from the word of a child?" 
+Citation: Page 158, Lines 14-18 
+Violation: Improper Vouching / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: The prosecutor asks the juror to pre-commit to finding elements met solely from a child's word, improperly lowering the burden of proof and vouching for the victim. Violates OUJI-CR 1-8, 1-12, ORPC 3.4(e). 
+  
+  
+96. Quote: "Who do you think decides where to abuse children?" 
+Citation: Page 159, Lines 3-4 
+Violation: Inflammatory Rhetoric / Characterizing Crime 
+Why Inappropriate: The prosecutor asks a rhetorical question about who decides where abuse happens, implying the abuser's control and setting up a narrative to explain lack of witnesses/evidence. 
+  
+  
+97. Quote: "Who decides -- like who decides the place that a child is going to be sexually abused?" 
+Citation: Page 159, Lines 10-11 
+Violation: Inflammatory Rhetoric / Characterizing Crime 
+Why Inappropriate: Repeats rhetorical question about abuser's control, reinforcing narrative. 
+  
+  
+98. Quote: "Right. And it seems like a silly question, but the abuser decides where the crime happens, right?" 
+Citation: Page 159, Lines 17-19 
+Violation: Inflammatory Rhetoric / Direct Assertion of Guilt / Characterizing Crime Why Inappropriate: States as fact that "the abuser decides where the crime happens," asserting guilt and appealing to emotion. Violates ORPC 3.4(e), 8.4(d). 
+  
+  
+99. Quote: "And then who decides whether or not there's witnesses?" 
+Citation: Page 159, Lines 21-22 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: Leads the juror to confirm that the abuser decides about witnesses, setting up a narrative to explain lack of witnesses. 
+
+
+100. Quote: "And who decides whether or not there's, you know, like DNA evidence or something like that?" 
+Citation: Page 159, Line 25 - Page 160, Line 1 
+Violation: Improper Argument / Leading Question / Characterizing Crime Why Inappropriate: Leads the juror to confirm that the abuser decides about DNA evidence, setting up a narrative to explain lack of physical evidence. 
+  
+  
+101. Quote: "Yeah. Do you that a majority of those things are controlled by the person who's perpetrating the crime?" 
+Citation: Page 160, Lines 5-7 
+Violation: Direct Assertion of Guilt / Characterizing Crime 
+Why Inappropriate: States as fact that the "person who's perpetrating the crime" controls these factors, asserting guilt. Violates ORPC 3.4(e), OUJI-CR 1-8, 1-12. 
+  
+  
+102. Quote: "Okay. Do you believe that the State of Oklahoma could prove their case through the word of a child alone?" 
+Citation: Page 160, Lines 9-11 
+Violation: Improper Vouching / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: Asks juror to pre-commit to finding case proven solely by child's word, improperly lowering burden of proof. Violates OUJI-CR 1-8, 1-12, ORPC 3.4(e). 103. Quote: "Okay. Tell me why." Citation: Page 160, Line 16 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Guides the juror to provide reasons why a child's word alone might not be enough, setting up a counter-argument. 
+  
+  
+104. Quote: "I guess I could ask it like this. What kind of evidence would you expect? So if there's a perpetrator who sexually abuses a child, and we already know from several jurors that we think these crimes happens behind closed doors, we don't think that there are witnesses, what would you expect? What kind of evidence would you expect? You'd expect for the child to come in here and say that somebody touched them?" 
+Citation: Page 161, Lines 2-8 
+Violation: Improper Argument / Leading Question / Characterizing Crime 
+Why Inappropriate: Leads the juror to confirm expected evidence (child's testimony) based on prior assumptions about the nature of the crime. 
+  
+  
+105. Quote: "Right. And would that be enough for you is my question? Could the State of 
+Oklahoma -- I'm not saying that's what we have or not, but is it possible that the State of Oklahoma could prove each and every element of their case based on the word of a child alone?" 
+Citation: Page 161, Line 24 - Page 162, Line 3 
+Violation: Improper Vouching / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: Asks juror to pre-commit to finding case proven solely by child's word, improperly lowering burden of proof. Violates OUJI-CR 1-8, 1-12, ORPC 3.4(e). 
+  
+  
+106. Quote: "Because testimony is evidence because we talked about what evidence was at the very beginning of me talking right after the lunch break. And testimony is evidence." 
+Citation: Page 162, Lines 4-6 
+Violation: Misstatement of Law / Instructing on Law 
+Why Inappropriate: The prosecutor instructs the jury that "testimony is evidence," which is the judge's role, and oversimplifies the concept of evidence. Violates OUJI-CR 1-12. 107. Quote: "I feel like that has to be a real possibility otherwise we probably would not be here." 
+Citation: Page 162, Lines 7-8 
+Violation: Improper Vouching / Appeal to Necessity 
+Why Inappropriate: The prosecutor elicits an answer that implies the necessity of accepting a child's word alone, appealing to the idea that the trial wouldn't happen otherwise, improperly influencing the jury. 
+  
+  
+108. Quote: "Okay. So what you're saying is, yes, could be enough. I want to listen to the testimony, figure out the credibility of that, listen to the details, kind of weigh those details versus elements that we kind of talked about that we've been using this example about Mr. Jilge's accident?" 
+Citation: Page 162, Lines 15-20 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: Leads the juror to confirm that a child's word alone could be enough, reinforcing the prosecutor's narrative. 
+  
+  
+109. Quote: "Do you believe the State of Oklahoma -- is it plausible to you that the State of 
+Oklahoma could prove their entire case through the word of a child alone?" 
+Citation: Page 163, Lines 9-11 
+Violation: Improper Vouching / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: Asks juror to pre-commit to finding case proven solely by child's word, improperly lowering burden of proof. Violates OUJI-CR 1-8, 1-12, ORPC 3.4(e). 
+  
+  
+110. Quote: "I guess it's situational. Like if it were your child and they told you, you would believe them." 
+Citation: Page 163, Lines 14-16 
+Violation: Improper Vouching / Appeal to Emotion 
+Why Inappropriate: The prosecutor elicits an answer that appeals to the juror's personal experience as a parent, improperly influencing the jury's assessment of credibility. 
+  
+  
+111. Quote: "Have you ever been a witness to child sexual abuse? Ever see it happen? Do you believe it happens?" 
+Citation: Page 163, Line 18 - Page 164, Line 1 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm belief in child sexual abuse, setting up a narrative to explain why it might not be witnessed. 
+  
+  
+112. Quote: "So do -- are you saying you believe that other people have given accounts of it that you find to be credible?" 
+Citation: Page 164, Lines 6-8 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: Leads the juror to confirm belief in credible accounts of sexual abuse, improperly vouching for the general truthfulness of such allegations. 
+  
+  
+113. Quote: "Like not just fake accounts of sexual abuse?" Citation: Page 164, Lines 10-11 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: Leads the juror to confirm that accounts are not fake, improperly vouching for the general truthfulness of such allegations. 
+  
+  
+114. Quote: "Do you expect there to be -- you know, do you think that when people are abusing a child that they usually like videotape themselves doing it?" 
+Citation: Page 164, Lines 13-15 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that abusers don't videotape themselves, setting up a narrative to explain lack of physical evidence. 
+  
+  
+115. Quote: "Do you think that they usually take pictures of themselves doing it?" 
+Citation: Page 164, Lines 17-18 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that abusers don't take pictures, setting up a narrative to explain lack of physical evidence. 
+  
+  
+116. Quote: "Do you think that victims of child sex crimes usually disclose those things right after they happen?" 
+Citation: Page 164, Lines 20-21 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that victims don't usually disclose immediately, setting up a narrative to explain delayed disclosure. 
+  
+  
+117. Quote: "Do you think that a child's delayed disclosure has an impact on any physical evidence that might be obtained?" 
+Citation: Page 165, Lines 3-4 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that delayed disclosure impacts physical evidence, setting up a narrative to explain lack of physical evidence. 
+  
+  
+118. Quote: "Okay. So what we've kind of been talking about, and I think it was first mentioned by Ms. Coffelt, this grooming process where most people agreed or most jurors -- I don't think anybody disagreed about grooming kind of being something that would probably often happen because most people wouldn't sexually abuse a child the first time that they're around them." 
+Citation: Page 165, Lines 14-20 
+Violation: Improper Argument / Characterizing Crime / Leading Question 
+Why Inappropriate: The prosecutor characterizes "grooming" as a common occurrence and asserts that "most people wouldn't sexually abuse a child the first time," setting up a narrative for the current case. 
+  
+  
+119. Quote: "So do you think that grooming kind of also impacts that delayed disclosure and 
+then also would impact whether or not there was any physical evidence, if any?" 
+Citation: Page 165, Lines 21-23 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that grooming impacts delayed disclosure and physical evidence, reinforcing the narrative. 
+  
+  
+120. Quote: "I think sometimes if they've been groomed and they've gotten to know that person, a child, depending on the age, don't even want to hurt that person." 
+Citation: Page 166, Lines 1-4 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that groomed children might not want to hurt the abuser, setting up a narrative to explain delayed disclosure. 
+  
+  
+121. Quote: "Uh-huh. So that would impact whether or not there's even physical evidence at all?" 
+Citation: Page 166, Lines 5-6 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that grooming impacts physical evidence, reinforcing the narrative. 
+  
+  
+122. Quote: "But do you believe there's types of touching that don't leave physical injury?" 
+Citation: Page 166, Lines 13-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that some touching doesn't leave physical injury, setting up a narrative to explain lack of physical evidence. 
+  
+  
+123. Quote: "Do you think all -- like all touching or all, you know, molestation cases involve physical injury?" 
+Citation: Page 166, Lines 23-25 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that not all molestation involves physical injury, reinforcing the narrative for lack of physical evidence. 
+  
+  
+124. Quote: "So not all touching equals -- like can equal injury basically?" 
+Citation: Page 167, Lines 5-6 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that not all touching equals injury, reinforcing the narrative for lack of physical evidence. 
+  
+  
+125. Quote: "So wouldn't necessarily expect to see like -- you know, depending -- obviously 
+depending on what type of touch -- wouldn't expect to see a huge injury?" 
+Citation: Page 167, Lines 13-18 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that a huge injury wouldn't be expected, reinforcing the narrative for lack of physical evidence. 
+  
+  
+126. Quote: "Okay. Think that that's probably pretty common that there wouldn't be a lot of injury, based on the type of touching?" 
+Citation: Page 167, Lines 20-22 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that lack of injury is common, reinforcing the narrative for lack of physical evidence. 
+  
+  
+127. Quote: "How would you feel or what are your thoughts about -- you know, we kind of talked about a child being interviewed in a way that's different than an adult. Are you okay with that?" 
+Citation: Page 167, Line 24 - Page 168, Line 2 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm acceptance of different interview methods for children, setting up a narrative for forensic interview techniques. 
+  
+  
+128. Quote: "Do you have any issues or problems with, you know, a child looking one way in a video at the time the interview took place, and then looking quite different in the courtroom, 
+because obviously, time has passed and children grow up quickly?" 
+Citation: Page 168, Lines 4-8 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm acceptance of changes in appearance over time, setting up a narrative to explain differences in victim's presentation. 
+  
+  
+129. Quote: "Okay. Does that give you any concern or just like no, something I would expect?" 
+Citation: Page 168, Lines 13-14 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that changes are "to be expected," reinforcing the narrative. 
+  
+  
+130. Quote: "Talked a little bit with other jurors about -- about kind of like how you kind of expect, you know, general -- you know, just in general adults to behave when they're talking about, you know, a consensual sexual encounter, and then obviously a child having to come in here and talk about it. Do you think that -- when we talk about things that are difficult to talk about, do you think that our -- the affect that we have, do you think that that's changed maybe on the amount of times we have to talk about it?" 
+Citation: Page 168, Line 17 - Page 169, Line 1 
+Violation: Improper Argument / Leading Question / Appeal to Emotion 
+Why Inappropriate: Leads the juror to confirm that affect changes with repeated discussion, setting up a narrative to explain victim's potential demeanor. 
+  
+  
+131. Quote: "On a child." Citation: Page 169, Line 3 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm the impact on a child, reinforcing the narrative. 
+  
+  
+132. Quote: "I think the more you talk about something the less traumatic it is. Just like Mr. Jilge's story. Probably really traumatic telling it the first time or the second time, but the 35th time maybe not quite as traumatic." 
+Citation: Page 169, Lines 8-12 
+Violation: Improper Argument / Drawing Parallels to Unrelated Testimony 
+Why Inappropriate: The prosecutor draws a direct parallel between Mr. Jilge's story and the victim's potential testimony, implying that repeated telling makes it less traumatic, subtly vouching for the victim's demeanor. 
+  
+  
+133. Quote: "Okay. And well, you might not know this, but, you know, testifying in court once we get to this stage will not be the first time that our victim has testified in trial or in -- not in trial, but in court. Is there any concern you have about that?" 
+Citation: Page 169, Lines 13-17 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: The prosecutor reveals that the victim has testified before, improperly vouching for her experience and attempting to normalize it for the jury. 
+  
+  
+134. Quote: "It won't be the first time she's testified." 
+Citation: Page 169, Lines 19-20 
+Violation: Improper Vouching / Direct Assertion of Fact 
+Why Inappropriate: The prosecutor directly asserts the victim's prior testimony, improperly vouching for her experience. 
+  
+  
+135. Quote: "Right. And she probably is coached some on what is acceptable or what's intended to be discussed and what to expect." 
+Citation: Page 170, Lines 2-4 
+Violation: Improper Argument / Leading Question / Mischaracterization of "Coaching" Why Inappropriate: The prosecutor uses the term "coached" in a leading question, then attempts to reframe it as acceptable preparation, potentially misleading the jury about the nature of witness preparation. 
+  
+  
+136. Quote: "I expect there will be questions as it relates to that. I don't want to get into the details too much about that. You did use the word coached, but -- nobody's coaching anybody, but I think that was just your verbiage. But yeah, attorneys are allowed to speak with witnesses who are going to testify, for sure." 
+Citation: Page 170, Lines 5-10 
+Violation: Improper Vouching / Mischaracterization of "Coaching" 
+Why Inappropriate: The prosecutor denies "coaching" while simultaneously confirming attorneys speak with witnesses, attempting to control the narrative around witness preparation and vouch for its propriety. 
+  
+  
+137. Quote: "But yeah, once you've done something one time, maybe you get to be -- you start to -- you know what to expect, right. Things aren't -- like if you were to come in here -- how many of you have been in jury duty before?" 
+Citation: Page 170, Lines 12-16 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: Leads the juror to confirm that experience reduces fear, reinforcing the narrative about the victim's potential demeanor. 
+138. Quote: ”So, you know, sometimes when we do something before, maybe we’re, you know, less fearful or we’re like, okay, I kind of got this.” 
+Citation: Page 171, Lines 10-12 
+Violation: Improper Argument / Leading Question / Improper Vouching 
+Why Inappropriate: The prosecutor suggests that prior experience reduces fear, subtly vouching for the victim’s potential demeanor and implying it indicates truthfulness. 
+  
+  
+139. Quote: ”Do you have any – what do you feel about that, Ms. McIntire? Do you think – do you have any feelings about that with, you know, our victim who’s going to come in here and testify? Any thoughts at all based on she’s testified before?” 
+Citation: Page 171, Lines 14-17 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: The prosecutor again mentions the victim’s prior testimony, improperly vouching for her experience and attempting to normalize it for the jury. 
+  
+  
+140. Quote: ”Or, you know, any problems with the fact that she has testified before or, you know, looks different than she did in the recorded interview from a couple years ago?” 
+Citation: Page 171, Lines 20-22 
+Violation: Improper Vouching / Leading Question 
+Why Inappropriate: The prosecutor leads the juror to confirm acceptance of changes in the victim’s appearance and prior testimony, improperly vouching for her credibility. 
+  
+  
+141. Quote: ”This is her story. Here to hear it.” 
+Citation: Page 171, Lines 23-24 
+Violation: Improper Vouching / Direct Assertion of Fact 
+Why Inappropriate: The prosecutor implies the victim’s story is the definitive truth, vouching for her credibility and invading the jury’s role. Violates ORPC 3.4€ and OUJICR 1-8, 1-12. 
+  
+  
+142. Quote: ”There’s just certain things that you guys can’t know. There are certain things that are happening outside your presence because the law says that it has to. And I guess what I’m getting at is are you okay with that?” 
+Citation: Page 172, Line 25 – Page 173, Line 6 
+Violation: Improper Argument / Diminishing Jury’s Role 
+Why Inappropriate: The prosecutor attempts to preemptively excuse potential evidentiary gaps or unexplained proceedings by stating “there’s just certain things that you guys can’t know,” diminishing the jury’s right to all relevant information. 
+  
+  
+143. Quote: ”A lot of times victims or other witnesses in cases, have testified before they get to the trial stage? There’s other preliminary proceedings that happen before we get here, and that’s normal.” 
+Citation: Page 173, Lines 9-12 
+Violation: Improper Vouching / Normalizing Victim’s Prior Testimony 
+Why Inappropriate: The prosecutor again mentions prior testimony, normalizing it for the jury and subtly vouching for the victim’s experience. 
+  
+  
+144. Quote: ”Just with the witness testimony, if this was a traumatic event, they’re going to play that over and over in their minds all the time. I think even more detail might come out later on as it goes on, even after said trial.” 
+Citation: Page 173, Line 25 – Page 174, Line 4 
+Violation: Improper Argument / Speculation on Witness Testimony 
+Why Inappropriate: The prosecutor speculates about how witnesses process traumatic events and suggests “more detail might come out later,” setting up a narrative to explain evolving stories and potential inconsistencies. 
+  
+  
+145. Quote: ”So how do you – so because of that statement let me ask you this. How do you determine – because some of your fellow jurors, Mr. Dotson, might say well, it’s kind of one of those scenarios where the more times you tell it, the bigger and bigger your story gets. You 
+know, and like the bigger and bigger your lie gets. Have you ever heard that?” 
+Citation: Page 174, Lines 5-11 
+Violation: Improper Argument / Mischaracterizing Potential Juror Opinions / Leading Question 
+Why Inappropriate: The prosecutor mischaracterizes potential juror opinions (“bigger and bigger your lie gets”) to set up a contrast with her own narrative about evolving memories, and uses a leading question to confirm the juror has heard this opposing view. 
+  
+  
+146. Quote: ”So how do you determine if it’s a situation like what Mr. Jilge said or what Mr. Black said about, you know, it being these – more of these details coming back to me versus it being this story that gets bigger? Like how do you distinguish between those two things, you, yourself?” 
+Citation: Page 174, Lines 13-18 
+Violation: Improper Argument / Drawing Parallels to Unrelated Testimony / Leading 
+Question 
+Why Inappropriate: The prosecutor again draws a parallel between Mr. Jilge’s and Mr. Black’s stories and the victim’s potential testimony, leading the juror to distinguish between evolving memories and growing lies. 
+  
+  
+147. Quote: ”Ms. Ray, have you ever heard that like if the victim and the defendant give two different like versions of stories, like he said versus she said, then that’s enough for reasonable doubt and you, as jurors, don’t have to deliberate?” 
+Citation: Page 175, Lines 9-13 
+Violation: Misstatement of Law / Improper Question about Reasonable Doubt Why Inappropriate: The prosecutor misstates the law regarding “he said, she said” situations and reasonable doubt, implying that conflicting stories automatically create reasonable doubt and end deliberation, violating OUJI-CR 1-12 (judge defines law) and In re Winship (burden of proof). 
+  
+  
+148. Quote: ”I guess my point is, is that I have no – I don’t know whether or not the defendant’s going to testify in this case. I have no idea. He could. He might not. He doesn’t have to. And that’s an important thing to note to you guys, is that he doesn’t have to. And you cannot hold it against him if he doesn’t. Because this goes back to what I originally said. The defense doesn’t have to prove anything, right? This could be a scenario where the State gets on a case and our 
+victim says one thing and the defense [sic] gets on the stand and says another.” 
+Citation: Page 175, Line 20 – Page 176, Line 6 
+Violation: Improper Argument / Commenting on Defendant’s Right Not to Testify Why Inappropriate: While explaining the defendant’s right not to testify is permissible, the prosecutor emphasizes this point repeatedly and sets up a hypothetical scenario where “our victim says one thing and the defendant says another,” potentially influencing the jury to anticipate conflicting testimony and diminishing the presumption of innocence. 
+  
+  
+149. Quote: ”So my question to you is, do you think that just because two parties are saying – you know, our victim says one thing, the defendant says another thing, do you think that that alone means that there’s reasonable doubt? Like, okay, well, there’s no reason for us to be 
+here, because she says one thing, he says something else, so.” 
+Citation: Page 176, Lines 7-12 
+Violation: Misstatement of Law / Improper Question about Reasonable Doubt 
+Why Inappropriate: The prosecutor again misstates the law regarding reasonable doubt in “he said, she said” situations, implying conflicting stories automatically create reasonable doubt, violating OUJI-CR 1-12 and In re Winship. 
+  
+  
+150. Quote: ”And since we can’t give them a definition of reasonable doubt, I think it’s appropriate to ask questions about what is reasonable doubt to them and whether or not this 
+would be something that would be sufficient based on these facts.” 
+Citation: Page 177, Lines 7-11 
+Violation: Improper Argument / Attempting to Define Reasonable Doubt / Usurping Judge’s Role 
+Why Inappropriate: The prosecutor attempts to justify asking improper questions about reasonable doubt by claiming it’s necessary since she “can’t give them a definition.” This is an attempt to circumvent the rule against defining reasonable doubt and improperly influence the jury’s understanding of the legal standard, violating OUJI-CR 1-5 and the judge’s role in defining legal terms. 
+  
+  
+151. Quote: ”That’s where the next line of questioning is going, where I say the appropriate – and I have the case law if the Court needs it about I can’t tell you what reasonable doubt is, but I can tell you what it’s not. It’s not beyond all doubt, it’s not beyond a shadow of a doubt. All those things that I say in every jury trial.” 
+Citation: Page 177, Lines 12-17 
+Violation: Improper Argument / Attempting to Define Reasonable Doubt / Usurping Judge’s Role 
+Why Inappropriate: The prosecutor explicitly states her intention to define reasonable doubt by “what it’s not,” which is an improper attempt to influence the jury’s understanding of the legal standard, violating OUJI-CR 1-5 and the judge’s role. 
+  
+  
+152. Quote: ”I think that’s appropriate to ask about beyond a reasonable doubt.” 
+Citation: Page 178, Lines 6-7 
+Violation: Improper Argument / Usurping Judge’s Role 
+Why Inappropriate: The judge states it’s “appropriate to ask about beyond a reasonable doubt,” seemingly endorsing the prosecutor’s improper line of questioning, which can create confusion about the legal standard. 
+  
+  
+153. Quote: ”But you have to decide what the facts are, right. And so my question was based on how do you decide what the facts are when you have maybe two different versions. And I don’t know that there will be – I don’t know if the defendant’s going to testify. He may. He may not. He doesn’t have to.” 
+Citation: Page 179, Lines 10-14 
+Violation: Improper Argument / Commenting on Defendant’s Right Not to Testify Why Inappropriate: While explaining the defendant’s right not to testify is permissible, the prosecutor emphasizes this point and sets up a hypothetical scenario of conflicting versions, potentially influencing the jury to anticipate conflicting testimony and diminishing the presumption of innocence. 
+  
+  
+154. Quote: ”How do you decide that?” 
+Citation: Page 179, Line 15 
+Violation: Improper Question / Invading Jury Deliberations 
+Why Inappropriate: The prosecutor asks how the juror would “decide” between conflicting versions, which delves into the jury’s deliberative process and can improperly influence their approach to weighing evidence. 
+  
+  
+155. Quote: ”So my question was based on how do you decide what the facts are when you’ve got one person saying this, another saying something else? How are you going to determine, you know, which side is going to be – what the facts are when you’ve got two competing sides, I guess is the way that I’m asking it to you.” 
+Citation: Page 180, Lines 3-8 
+Violation: Improper Question / Invading Jury Deliberations 
+Why Inappropriate: The prosecutor again asks how the juror would “determine” facts in a “he said, she said” scenario, improperly delving into the jury’s deliberative process. 
+  
+  
+156. Quote: ”I would never want you to say how you would decide something or anything like that.” 
+Citation: Page 180, Lines 1-2 
+Violation: Improper Argument / Misleading Jury 
+Why Inappropriate: The prosecutor claims she doesn’t want the juror to say how they would decide, yet her questions are designed to elicit precisely that information, creating a misleading impression. 
+  
+  
+157. Quote: ”I’m going to test you a little bit. See if you were paying attention all the way back to the very beginning and my son and his love of the Oreos. So in the example of my son getting into the Oreos, if I had told you that my son said I did not get into the Oreos, and I am on the other side of that and I’m like, yeah, he did. Because the pantry was open, the – he had Oreos all over his face. He had – the little stepladder was up to the pantry. The door was open.” 
+Citation: Page 181, Line 9 – Page 182, Line 2 
+Violation: Improper Voir Dire Analogy / Pre-committing Jurors / Lowering Burden of Proof Why Inappropriate: The prosecutor reuses the Oreo analogy, asking the juror how they would decide based on circumstantial evidence, again attempting to pre-commit jurors and lower the burden of proof. 
+  
+  
+158. Quote: ”So just based on the testimony and evidence that you hear in this case, along with other jurors, right, and what they hear? All together, because you’ll have to deliberate together.” 
+Citation: Page 181, Line 23 – Page 182, Line 4 
+Violation: Improper Argument / Instructing on Deliberations 
+Why Inappropriate: The prosecutor instructs the juror on how to consider evidence “along with other jurors” and “deliberate together,” which is the judge’s role, violating OUJI-CR 1-12. 
+  
+  
+159. Quote: ”Maybe by actions or things that they have done in the past. Some things they have shown honorable action in the past.” 
+Citation: Page 182, Lines 15-16 
+Violation: Improper Argument / Eliciting Character Evidence 
+Why Inappropriate: The prosecutor elicits responses about past actions and “honorable action,” which can be considered improper character evidence, potentially prejudicing the jury. 
+  
+  
+160. Quote: ”Does anybody have any issues – because as jurors in this case, once you go back to deliberate, you won’t be able to talk about the case together as the trial’s happening. You don’t get to talk about what’s happening in the trial until it’s submitted to you and you’re deliberating, and then that’s when you get to talk about it.” 
+Citation: Page 183, Lines 6-11 
+Violation: Improper Argument / Instructing on Deliberations 
+Why Inappropriate: The prosecutor instructs the jury on when they can discuss the case, which is the judge’s role, violating OUJI-CR 1-12. 
+  
+  
+161. Quote: ”Does anybody have issues, you know, taking into consideration what other people say or what other people remember? Maybe they remembered something differently than you. 
+Does anybody have any issues with that?” 
+Citation: Page 183, Lines 12-15 
+Violation: Improper Argument / Instructing on Deliberations 
+Why Inappropriate: The prosecutor instructs the jury on how to consider other jurors’ opinions and memories, which is the judge’s role, violating OUJI-CR 1-12. 
+  
+  
+162. Quote: ”But what if Mr. Hubbard’s like, man, I remember it, you know, slightly different than you do, Ms. Marino?” 
+Citation: Page 183, Line 24 – Page 184, Line 1 
+Violation: Improper Argument / Mischaracterizing Potential Juror Opinions / Instructing on Deliberations 
+Why Inappropriate: The prosecutor mischaracterizes potential juror opinions and instructs on how to handle disagreements during deliberations, invading the jury’s role. 
+  
+  
+163. Quote: ”Right. Okay. So are you comfortable discussing that with Mr. Hubbard though?” 
+Citation: Page 184, Lines 4-5 
+Violation: Improper Argument / Instructing on Deliberations 
+Why Inappropriate: The prosecutor instructs the juror on how to interact with other jurors during deliberations, which is the judge’s role. 
+  
+  
+164. Quote: ”Right. Are you comfortable with doing that, with having those discussions with other jurors if you’re selected as a juror?” 
+Citation: Page 184, Lines 14-16 
+Violation: Improper Argument / Instructing on Deliberations 
+Why Inappropriate: The prosecutor instructs the juror on how to conduct deliberations, which is the judge’s role. 
+  
+  
+165. Quote: ”Does anybody think that – has anybody given any sort of thought about like what 
+someone’s charged with this type of crime would need to look like?” 
+Citation: Page 184, Lines 18-20 
+Violation: Improper Argument / Characterizing Defendant / Appealing to Prejudice Why Inappropriate: The prosecutor attempts to elicit preconceived notions about the appearance of someone charged with this type of crime, potentially appealing to prejudice and stereotypes. 
+  
+  
+166. Quote: ”Mr. Dotson, you’re kind of looking at me with a bewildered look on your face that I can’t help but notice. So sorry to have to call you out, but what – Tell me what that look is for.” 
+Citation: Page 184, Line 24 – Page 185, Line 3 
+Violation: Improper Argument / Characterizing Juror’s Demeanor / Coercion 
+Why Inappropriate: The prosecutor calls out a juror’s facial expression and demands an explanation, which can be coercive and create a hostile environment. 
+  
+  
+167. Quote: ”This type of a deal can be from any type, color, size, shape, whatever. I don’t see it as a certain person’s going to have this certain look, you know, with fangs and horns and all this kind of stuff. This could be any person. So I don’t really see that any person would have a look – of being guilty.” 
+Citation: Page 185, Lines 4-11 
+Violation: Improper Argument / Characterizing Defendant / Appealing to Prejudice Why Inappropriate: While seemingly countering stereotypes, the prosecutor’s response reinforces the idea that there are preconceived notions about what a guilty person “looks like,” potentially activating implicit biases in the jury. 
+  
+  
+168. Quote: ”People who commit crimes like this could be any shape, any size, any gender, any, race. I don’t have to prove that someone looks a certain way or anything like that, correct?” 
+Citation: Page 185, Lines 12-15 
+Violation: Improper Argument / Characterizing Crime / Leading Question 
+Why Inappropriate: The prosecutor characterizes the crime and uses a leading question to confirm that appearance doesn’t matter, setting up a narrative to diminish the importance of physical evidence or lack thereof. 
+  
+  
+169. Quote: ”I know it sounds silly to you when I asked that question, which that’s why I locked on your face there.” 
+Citation: Page 185, Lines 17-19 
+Violation: Improper Argument / Characterizing Juror’s Demeanor / Coercion Why Inappropriate: The prosecutor again refers to the juror’s facial expression and implies their reaction was “silly,” which can be demeaning and coercive. 
+  
+  
+170. Quote: ”Everybody has heard – or I would assume everyone has heard of beyond a 
+reasonable doubt. If you have not heard of that, raise your hand.” 
+Citation: Page 186, Lines 1-3 
+Violation: Improper Question / Defining Legal Terms 
+Why Inappropriate: The prosecutor asks a question about a legal standard (“beyond a reasonable doubt”) and invites jurors to raise their hand if they haven’t heard of it, which can create pressure to conform and discourage honest responses about unfamiliarity with legal concepts. 
+  
+  
+171. Quote: ”And here’s the kicker. You’re not going to get an instruction – you’re not going to get one about what beyond a reasonable doubt means. You won’t get one. And I’m not allowed to tell you – nobody is allowed to tell you what reasonable doubt is. I get to tell you what reasonable doubt isn’t, right? So it’s not beyond all doubt. It’s not beyond a shadow of a doubt.” 
+Citation: Page 186, Lines 10-17 
+Violation: Misstatement of Law / Improper Definition of Reasonable Doubt / Usurping Judge’s Role 
+Why Inappropriate: The prosecutor misstates the law by saying jurors won’t get an 
+instruction on reasonable doubt. While she can’t define it directly, the judge will provide instructions. She then proceeds to define it by “what it’s not,” which is an improper attempt to influence the jury’s understanding of the legal standard, violating OUJI-CR 1-5 and the judge’s role. 
+  
+172. Quote: "So it's not beyond all doubt. It's not beyond a shadow of a doubt." 
+Citation: Page 186, Lines 16-17 
+Violation: Misstatement of Law / Improper Definition of Reasonable Doubt / Usurping Judge's Role 
+Why Inappropriate: The prosecutor attempts to define reasonable doubt by stating what it's not, which is an improper attempt to influence the jury's understanding of the legal standard. 
+  
+  
+173. Quote: "But like the burden of proof is beyond a reasonable doubt, okay. And I said but beyond a reasonable doubt is not beyond all doubt. But I might be asking -- it's probably me. It's not you, it's me. I'm probably asking the question the wrong way." 
+Citation: Page 187, Lines 5-9 
+Violation: Improper Argument / Diminishing Importance of Legal Standard 
+Why Inappropriate: The prosecutor downplays the importance of the reasonable doubt standard by suggesting she's confusing and "asking the question the wrong way," which can create confusion and diminish the jury's understanding of the burden of proof. 
+  
+  
+174. Quote: "So maybe I should -- I'm going to try this with Mr. Jilge. You got to come through for me, all right? What -- beyond all doubt, okay. To prove something -- and I've already told you beyond a reasonable doubt does not mean beyond all doubt. But if I were to have to prove something to you beyond all doubt, for you to know something, Mr. Jilge, beyond all doubt, like what would have to happen?" 
+Citation: Page 187, Lines 10-17 
+Violation: Improper Argument / Improper Question about Reasonable Doubt / Coercion Why Inappropriate: The prosecutor attempts to define reasonable doubt by "what it's not" and pressures the juror ("you got to come through for me"), creating a coercive environment and improperly influencing the jury's understanding of the legal standard. 
+  
+  
+175. Quote: "Do you -- like just you as a person, if somebody were to prove something to you beyond all doubt, would it be like -- is this a situation in which like maybe you would have to be there? Like I would have to see it with my own two eyes?" 
+Citation: Page 188, Lines 1-4 
+Violation: Improper Question about Reasonable Doubt / Defining Legal Terms Why Inappropriate: The prosecutor attempts to define "beyond all doubt" through a hypothetical, improperly influencing the jury's understanding of the reasonable doubt standard. 
+  
+  
+176. Quote: "Like I would have to be in that room or I would have to be at the scene of that crime or something like that?" 
+Citation: Page 188, Lines 5-6 
+Violation: Improper Question about Reasonable Doubt / Defining Legal Terms 
+Why Inappropriate: Continues the improper attempt to define "beyond all doubt" through a hypothetical. 
+  
+  
+177. Quote: "If my kid walked up with the Oreos in his teeth and then told me he didn't eat 
+Oreos -- that's beyond -- all doubt. I know he ate the Oreos." 
+Citation: Page 188, Lines 7-13 
+Violation: Improper Voir Dire Analogy / Trivializing Legal Standard 
+Why Inappropriate: The prosecutor reuses the Oreo analogy to trivialize the concept of "beyond all doubt," diminishing the gravity of the reasonable doubt standard. 
+  
+  
+178. Quote: "My kid, he's not a good liar. Not yet anyway. He might get better later, but right now he's not good." 
+Citation: Page 188, Lines 14-16 
+Violation: Improper Personal Anecdote / Irrelevant Information 
+Why Inappropriate: The prosecutor injects irrelevant personal information about her child's lying ability, which has no bearing on the case or jury selection. 
+  
+  
+179. Quote: "Do you think that in all the crimes I prosecute that we have video in all of them?" 
+Citation: Page 189, Lines 1-2 
+Violation: Improper Argument / Leading Question 
+Why Inappropriate: The prosecutor leads the juror to confirm that video evidence isn't always available, setting up a narrative to justify relying on other types of evidence. 
+  
+  
+180. Quote: "I mean, heck, I wish. That would make my job really easy." Citation: Page 189, Lines 3-4 
+Violation: Improper Argument / Personal Opinion / Trivializing Role 
+Why Inappropriate: The prosecutor injects personal opinion and trivializes her role by suggesting video evidence would make her job "really easy," potentially diminishing the gravity of the legal process. 
+  
+  
+181. Quote: "But does that make sense to you why we wouldn't -- why that wouldn't be the burden of proof? Like beyond all doubt, that's petty hard. It's pretty hard to have that kind of evidence in every single crime, right?" 
+Citation: Page 189, Lines 6-13 
+Violation: Improper Argument / Attempting to Define Reasonable Doubt / Usurping Judge's Role 
+Why Inappropriate: The prosecutor attempts to justify the reasonable doubt standard by appealing to practicality and stating "beyond all doubt, that's petty hard," which is an improper attempt to define the legal standard. 
+  
+  
+182. Quote: "Yeah. Then beyond all doubt, sometimes maybe you want to be there, right, or like 
+witness it with your own eyes. And if you're a witness to a crime, you can't be what?" 
+Citation: Page 189, Lines 15-18 
+Violation: Improper Question about Reasonable Doubt / Defining Legal Terms Why Inappropriate: The prosecutor attempts to define "beyond all doubt" through a hypothetical, improperly influencing the jury's understanding of the reasonable doubt standard. 
+  
+  
+183. Quote: "Like I either want an eyewitness, I want to see it with my own eyes. I want -- but if it's reasonable doubt, I would say it would include personal accounts of a story, I don't know how to word it, or what exactly you're asking." 
+Citation: Page 190, Lines 4-8 
+Violation: Improper Question about Reasonable Doubt / Defining Legal Terms 
+Why Inappropriate: The prosecutor elicits a response that attempts to define "reasonable doubt" by contrasting it with "beyond all doubt," improperly influencing the jury's understanding of the legal standard. 
+  
+  
+184. Quote: "And thank you for being honest. I can be very confusing. And it can be a confusing thing, because the law says that I'm not allowed to tell you what beyond a reasonable doubt means, okay?" 
+Citation: Page 190, Lines 10-12 
+Violation: Improper Argument / Diminishing Importance of Legal Standard 
+Why Inappropriate: The prosecutor downplays the importance of the reasonable doubt standard by suggesting she's confusing and "not allowed to tell you what it means," which can create confusion and diminish the jury's understanding of the burden of proof. 
+  
+  
+185. Quote: "So I can't tell you what it means. You guys get to decide that collectively as a jury. But the law does allow me to say, it's permissible for me to say beyond a reasonable doubt does not mean beyond all doubt, beyond a shadow of a doubt. Those are things that it does not mean, right?" 
+Citation: Page 190, Lines 18-23 
+Violation: Misstatement of Law / Improper Definition of Reasonable Doubt / Usurping Judge's Role 
+Why Inappropriate: The prosecutor attempts to define reasonable doubt by "what it's not," which is an improper attempt to influence the jury's understanding of the legal standard. 
+  
+  
+186. Quote: "I don't make the rules. I just got to play by them, right? So sorry for the confusion. And so the point was, does it make sense to you that the burden of proof would be that beyond a reasonable doubt and not this beyond all doubt or beyond a shadow of a doubt, because the things that would be necessary to prove to people beyond all doubt or beyond a shadow of a doubt would be like videos -- or you being there in person. But, you know, reasonably speaking, we wouldn't always have, and then people would benefit by committing these crimes without a video or something like that." 
+Citation: Page 190, Line 24 - Page 191, Line 12 
+Violation: Improper Argument / Attempting to Define Reasonable Doubt / Usurping Judge's Role 
+Why Inappropriate: The prosecutor attempts to justify the reasonable doubt standard by appealing to practicality and what would be necessary for "beyond all doubt," which is an improper attempt to define the legal standard. 
+  
+  
+187. Quote: "Nope. That's not what the burden of proof is. You will get an instruction that the State of Oklahoma has to prove each and every element of the crime that -- Judge Balkman will give you the elements. Can't give them to you now. You will get them and it will say that we have to prove each element of those crimes beyond a reasonable doubt. But you will not get an instruction as to what beyond a reasonable doubt means. Collectively you guys get to decide that." 
+Citation: Page 191, Line 25 - Page 192, Line 13 
+Violation: Misstatement of Law / Improper Definition of Reasonable Doubt / Usurping Judge's Role 
+Why Inappropriate: The prosecutor again misstates the law regarding jury instructions on reasonable doubt and attempts to define the standard by stating what it's not and that "collectively you guys get to decide that," improperly influencing the jury. 
+  
+  
+188. Quote: "I'm getting the impression there's not going to be beyond all doubt." Citation: Page 192, Lines 23-24 
+Violation: Improper Argument / Speculation / Undermining State's Burden 
+Why Inappropriate: The prosecutor elicits a response that speculates on the lack of evidence for "beyond all doubt," potentially undermining the State's own burden of proof. 
+  
+  
+189. Quote: "Do you want to hold me to a higher standard than beyond a reasonable doubt?" 
+Citation: Page 193, Lines 7-8 
+Violation: Improper Argument / Diminishing Importance of Legal Standard Why Inappropriate: The prosecutor asks if the juror wants to hold her to a "higher standard," downplaying the importance of the "beyond a reasonable doubt" standard. 190. Quote: "Well, some people are like, man, you know, somebody -- there's stiff punishment on the other end of this, right? And if I'm going to have to sentence somebody -- if I find somebody guilty, the punishment is harsh. And so if that's what I'm going to have to punish somebody 
+  
+ 
+ 
+Complete List of Misconduct in Closing Arguments (85 Instances) 
+This list details each of the 85 instances of prosecutorial misconduct identified during the closing 
+* Statements by Ms. Jacobi Whatley (Pages 16-37) 
+1.  Quote: "You've heard no testimony from anybody in this case that this was some sort of like accidental touching or there was -- you know, there's no testimony that somebody didn't mean to or it was, you know, Oh, I'm sorry, I didn't mean to touch your vagina, I didn't mean to touch you like that. This was purposeful." 
+* Citation: Page 19, Lines 11-17 
+* Violation: Misstatement of Fact / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor asserts a negative fact ("no testimony") to declare purposefulness, a conclusion for the jury, violating ORPC Rule 3.3(a)(1) and OUJI-CR 18. 
+2.  Quote: "The State of Oklahoma has met their burden of proof as it relates to that first element." 
+* Citation: Page 19, Lines 17-18 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor explicitly declares the burden met, invading the jury's exclusive role to determine proof, violating OUJI-CR 1-8, 1-12, and ORPC 3.4(e). 
+3.  Quote: "Right there. Right there we've met that element." 
+* Citation: Page 20, Lines 5-7 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor directly asserts an element is proven, infringing on the jury's duty to weigh evidence and decide if the burden is met, violating OUJI-CR 1-8, 1-12, and ORPC 3.4(e). 
+4.   Quote: "And through those statements that she's making, again, close in time to when that initial disclosure happened in July of 2019, the State of Oklahoma has met their burden for that second element of touching and felt." 
+* Citation: Page 20, Line 24 - Page 21, Line 2 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor declares the burden met for a specific element, improperly influencing the jury by presenting her conclusion as fact, violating OUJI-CR 18, 1-12, and ORPC 3.4(e). 
+5. Quote: "So the State of Oklahoma has met their burden of proof as it relates to the third element, the body or private parts." 
+* Citation: Page 21, Lines 23-24 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor continues to declare the State’s burden met for an element, usurping the jury's function as the ultimate arbiter of facts and proof, violating OUJI-CR 1-8, 1-12, and ORPC 3.4(e). 
+6.  Quote: "So we have proved our burden of proof as it relates to that fourth element." ● Citation: Page 22, Lines 9-10 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor states “we have proved our burden of proof,” inappropriately removing the jury's responsibility to determine if the evidence satisfies the legal standard of proof, violating OUJI-CR 1-8, 1-12, and ORPC 3.4(e). 
+7.  Quote: "And I would imagine so, because imagine that. A child trying to describe an act that's meant for adults. And she's trying to describe it. It felt weird. It felt weird." 
+* Citation: Page 22, Lines 20-23 
+* Violation: Appeal to Emotion / Speculation 
+* Why Inappropriate: The prosecutor invites the jury to “imagine” the child’s experience and uses emotionally charged language, appealing to sympathy rather than evidence, violating ORPC 3.4(e) and 8.4(d). 
+8.  Quote: "I submit to you, ladies and gentlemen, that what other purpose is there for an adult to touch a child's vagina? There is no other reason. It's lewd. It's lascivious. There is no other reason." 
+* Citation: Page 22, Line 25 - Page 23, Line 2 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor uses a rhetorical question to imply the only purpose is lewdness, pre-judging intent and appealing to moral indignation, violating ORPC 3.4(e), 8.4(d), and Berger v. United States. 
+9.  Quote: "Because in her little mind, when someone is touching her vagina, that -- like that might mean that something's moved around or that something bad has happened to it, because she has no frame of reference." 
+* Citation: Page 23, Lines 8-11 
+* Violation: Appeal to Emotion / Speculation 
+* Why Inappropriate: The prosecutor speculates about the child's internal thoughts and lack of understanding, aiming to evoke sympathy and improperly influence the jury, violating ORPC 3.4(e) and 8.4(d). 
+10.  Quote: "That's lewd, that's lascivious, for an adult to do that to a child. There is no other reason." 
+* Citation: Page 23, Lines 14-15 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor directly labels the act as “lewd” and “lascivious” and asserts “no other reason,” stating guilt and intent as fact, invading the jury's role, violating ORPC 3.4(e), 8.4(d), and Berger v. United States. 
+11.  Quote: "And so the State of Oklahoma has met their burden." ● Citation: Page 23, Line 16 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor makes a blanket declaration that the State has “met their burden,” a conclusion solely for the jury to decide, improperly invading their function, violating OUJI-CR 1-8, 1-12, and ORPC 3.4(e). 
+12.  Quote: "The State of Oklahoma has met their fifth element to demonstrate that this was lewd and this was done in a lascivious manner when the defendant slid his hand up between her legs and touched her vagina with his hand." 
+* Citation: Page 24, Lines 13-16 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor declares that the State has “met their fifth element,” explicitly stating an element has been proven, invading the jury's role as the sole arbiter of proof, violating OUJI-CR 1-8, 1-12, and ORPC 3.4(e). 
+13.  Quote: "So the State of Oklahoma has met their burden as it relates to the sixth element of the defendant being over three years older than the child." 
+* Citation: Page 24, Line 25 - Page 25, Line 3 
+* Violation: Improper "Burden Met" Declaration / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor continues to declare the State's burden met for another element, usurping the jury's function and improperly influencing deliberation by presenting her conclusion as fact, violating OUJI-CR 1-8, 1-12, and ORPC 3.4(e). 
+14.  Quote: "Again, nothing was accidental about that. It wasn't an accidental somebody bumping into each other or anything like that. That that was purposeful. You heard time and time again from Brianna Jackson about how the defendant did that." 
+* Citation: Page 25, Lines 18-21 
+* Violation: Misstatement of Fact / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor asserts “nothing was accidental” and declares the act “purposeful,” which are conclusions for the jury, not the prosecutor, violating ORPC Rule 3.3(a)(1) and OUJI-CR 1-8. 
+15.  Quote: "There is no other purpose to touch a penis that is erect that is sticking straight up. There's no other reason to make a child touch your penis than for sexual gratification." 
+* Citation: Page 27, Lines 7-9 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor asserts the defendant's intent ("sexual gratification") and guilt as fact, rather than allowing the jury to determine it, which is highly prejudicial and invades the jury's role, violating ORPC 3.4(e), 8.4(d), and Berger v. United States. 
+16.  Quote: "I submit to you that the evidence has shown those are consistencies, okay. We wouldn't expect every single word to be exactly the same. We wouldn't expect that from an adult. Certainly wouldn't expect it from a child. We wouldn't expect every single word to be the same except from a seasoned liar." 
+* Citation: Page 32, Lines 12-16 
+* Violation: Improper Vouching / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor vouches for consistency by implying only a “seasoned liar” would have perfect statements, improperly bolstering credibility and discrediting defense arguments, invading the jury's role, violating ORPC 3.4(e) and OUJICR 9-20. 
+17.  Quote: "And what I'm saying to you and what my argument to you is, if you think that any of that affects his believability at all. But I submit to you that based on the forensic, based on what you know about the testimony that Brianna Jackson gave, based on the forensic interview, and based on all the evidence in the case, there are not all these inconsistencies. And Brianna Jackson isn't inconsistent." 
+* Citation: Page 33, Lines 17-23 
+* Violation: Improper Vouching / Argumentative 
+* Why Inappropriate: The prosecutor directly asserts “Brianna Jackson isn't inconsistent,” a conclusion for the jury, not the prosecutor, improperly bolstering credibility and dismissing defense arguments, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+18.  Quote: "Because Jeffrey Jackson is only relaying information that he got from Caitlin and from Brianna. The only statements Brianna Jackson has ever made are in the forensic that are -- her own statements are in the forensic and what she testified to today or this week in the courtroom. Everything else is things other people are relating about her experiences. And sometimes people get that jumbled up." 
+* Citation: Page 33, Line 24 - Page 34, Line 5 
+* Violation: Improper Argument / Minimizing Inconsistencies 
+* Why Inappropriate: The prosecutor attempts to explain away inconsistencies by suggesting “people get that jumbled up,” dismissing the significance of discrepancies without allowing full jury assessment. 
+19.  Quote: "And all Jeffrey Jackson was doing was trying to be a good dad and make sure the police had every ounce of information that he had. So he calls up the police and he says, Hey, like, I think there's these other things that stepmom's telling me and I just want you guys to have all of the information. Here it is." 
+* Citation: Page 34, Lines 6-11 
+* Violation: Improper Argument / Speculation on Witness Motive 
+* Why Inappropriate: The prosecutor speculates about Jeffrey Jackson's internal motivations (“trying to be a good dad”) to explain his actions, which is not direct evidence and can improperly sway the jury. 
+20.  Quote: "And he didn't have the benefit of watching an interview or reading a statement or anything. So he comes in here, he testifies to the best of his memory and says this is it." 
+* Citation: Page 34, Lines 12-14 
+* Violation: Improper Argument / Minimizing Inconsistencies 
+* Why Inappropriate: The prosecutor attempts to minimize Jeffrey Jackson's inconsistencies by suggesting he lacked “the benefit of watching an interview,” excusing discrepancies rather than allowing the jury to fully assess credibility. 
+21.  Quote: "I submit to you the evidence shows that those things aren't inconsistent." 
+* Citation: Page 34, Lines 15-16 
+* Violation: Improper Vouching / Argumentative 
+* Why Inappropriate: The prosecutor directly asserts that the evidence “shows that those things aren't inconsistent,” a conclusion for the jury, improperly bolstering credibility and dismissing defense arguments, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+22.  Quote: "Because in the defendant's opening statement, Mr. Nedwick alluded to the fact that Mr. Norton, you know, gave Ms. Norton some kind of divorce type papers, and then, you know, not a surprise, a couple of weeks later, then this allegation, you know, comes out." 
+* Citation: Page 34, Line 22 - Page 35, Line 1 
+* Violation: Improper Argument / Characterizing Defense Strategy 
+* Why Inappropriate: The prosecutor characterizes the defense's opening statement, implying a retaliatory motive for allegations, which is argumentative and designed to discredit the defense's theory rather than focusing on evidence. 
+23.  Quote: "So let's think about that for a second. Because to have a conspiracy, a conspiracy is an agreement between multiple people. They got to agree to be in on this." 
+* Citation: Page 35, Lines 2-4 
+* Violation: Improper Argument / Mischaracterizing Defense Theory 
+* Why Inappropriate: The prosecutor sets up a strawman argument by defining “conspiracy” in a way that mischaracterizes or oversimplifies the defense's theory, potentially misleading the jury. 
+24.  Quote: "I mean, think about all of these things that all of these people would have had to have told each other. Don't you think it would have made more sense and the story would have been more synced up together? Like that's not even reasonable. None of these things are even reasonable." 
+* Citation: Page 36, Lines 7-11 
+* Violation: Improper Argument / Appeal to Speculation 
+* Why Inappropriate: The prosecutor asks the jury to “think about” a hypothetical and declares it “not even reasonable,” an argumentative tactic relying on speculation and personal assessment to dismiss a defense theory. 
+25. "If Tiffany Norton wanted to get back at Dallas Norton, she would have given Jeffrey Jackson a name. And Jeffrey Jackson doesn't even have -- doesn't have a relationship with Dallas Norton, doesn't -- there's no reason for Jeffrey Jackson to make up his testimony about, I didn't have a name, I didn't give her the name. He would have no reason to do all that. None of that makes sense. And none of that is reasonable." 
+* Citation: Page 36, Lines 17-23 
+* Violation: Improper Argument / Speculation on Witness Motive 
+* Why Inappropriate: The prosecutor speculates about witness motivations and declares the defense's implied theory “none of that makes sense,” an argumentative attempt to dismiss a defense theory by asserting personal opinions.
+26.  Quote: "The only reasonable explanation is that these things happened to Brianna Jackson. They happened to her." 
+* Citation: Page 36, Lines 24-25 
+* Violation: Direct Assertion of Guilt / Improper Vouching 
+* Why Inappropriate: The prosecutor states as fact that events “happened” and that this is the “only reasonable explanation,” directly asserting guilt and truth, invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+27.  Quote: "She's able to relay them to you. She's able to demonstrate them to Ms. Cornett. She's able to talk about them. And she's able to remember them with consistency because they happened to her. Because it's what happened to her." 
+* Citation: Page 37, Lines 1-4 
+* Violation: Improper Vouching / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor repeatedly asserts events “happened to her” and consistency stems from this, directly asserting truth and guilt, improperly vouching for credibility and invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12.
+* Statements by Ms. Jennifer Austin (Pages 60-102)
+28.  Quote: "We are here because of what this defendant did. We are here to determine what he did to Brianna Jackson when she lived in that home with him, on Fox Run Crossing. Okay?" 
+* Citation: Page 60, Line 24 - Page 61, Line 3 
+* Violation: Direct Assertion of Guilt / Presumption of Guilt 
+* Why Inappropriate: The prosecutor states as fact that “this defendant did” something, implying guilt before verdict, undermining the presumption of innocence and invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 2-6. 
+29. "He just stood up here and called Brianna Jackson a liar for 50 minutes and talked about all the reasons why what she said to you in this courtroom and what she said on that forensic interview was not true." 
+* Citation: Page 61, Lines 19-22 
+* Violation: Mischaracterization of Defense Argument / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor mischaracterizes the defense's argument as simply “called Brianna Jackson a liar,” an oversimplification designed to prejudice the jury against legitimate defense arguments. 
+30.  Quote: "What motive did Brianna Jackson have to make any of this up. She has absolutely no motive to make it up." 
+* Citation: Page 61, Lines 24-26 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor asserts the witness has “absolutely no motive to make it up,” an improper attempt to bolster credibility by speculating about motivations, invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+31.  Quote: "What did she gain? Absolutely nothing." 
+* Citation: Page 62, Lines 5-6 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor continues to improperly vouch by asserting the witness gained “absolutely nothing,” a speculative statement about motive not based on evidence, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+32.  Quote: "She is now labeled the victim of sexual abuse. She's finally going to go to a new school this following year where no one knows anything. She's going to get a fresh start." 
+* Citation: Page 62, Lines 5-8 
+* Violation: Appeal to Sympathy / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor uses emotionally charged language to describe the victim's current state and future, appealing to sympathy rather than evidence, designed to elicit an emotional response and prejudice the jury, violating ORPC 3.4(e) and 8.4(d). 
+33.  Quote: "She's had to go to a forensic interview. She had to go to counseling for a year. She had to testify at preliminary hearing. She had to testify in here in front of you. She had to come home from Arizona early that summer because she told her dad what happened." 
+* Citation: Page 62, Lines 9-13 
+* Violation: Appeal to Sympathy / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor lists the victim's difficult experiences, designed to evoke sympathy from the jury, an improper appeal to emotion rather than facts relevant to guilt or innocence, violating ORPC 3.4(e) and 8.4(d). 
+34.  "But remember, she didn't just one minute get together with her mom and say, hey, I'm going to come up with this. Someone else asked her. Her dad came to her and asked her. And she told him what happened." 
+* Citation: Page 62, Lines 14-17 
+* Violation: Improper Vouching / Direct Assertion of Fact 
+* Why Inappropriate: The prosecutor asserts as fact that the victim “told him what happened,” affirming the truth of allegations, improperly bolstering credibility and stating guilt as fact, invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+35.  Quote: "Her mother had no motive to put her up to it, because I think that's kind of what they're saying she did also. Had to be saying she put her up to it because why would Brianna Jackson do this." 
+* Citation: Page 62, Lines 1-4 
+* Violation: Improper Argument / Speculation on Witness Motive 
+* Why Inappropriate: The prosecutor speculates about the mother's motivations and mischaracterizes the defense's theory, attempting to dismiss defense arguments by asserting personal opinions about witness motives. 
+36.  Quote: "We've got Jeffrey Jackson. And he's told these things by his daughter. And remember what we were told by Christi Cornett. Christi Cornett told you that memory is a crazy thing, and that when traumatic things happen, it is hard to recall things." 
+* Citation: Page 63, Lines 22-25 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor uses general testimony about memory to explain away inconsistencies in Jeffrey Jackson's account, improperly vouching for his underlying truthfulness by offering an unproven explanation for discrepancies. 
+37.  Quote: "He knows those things for sure because we know he's not lying because he comes in here and tells you some of these other things today, when he comes in here and testifies because he's trying to remember what his daughter said." 
+* Citation: Page 65, Lines 12-16 
+* Violation: Improper Vouching / Direct Assertion of Fact 
+* Why Inappropriate: The prosecutor directly states “we know he's not lying,” explicitly vouching for Jeffrey Jackson's credibility, a blatant violation of the rule against vouching, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+38.  Quote: "If it was a lie, they would have rehearsed it the whole way back from Arizona and she would be saying the exact same thing." 
+* Citation: Page 65, Lines 19-21 
+* Violation: Improper Argument / Speculation 
+* Why Inappropriate: The prosecutor speculates about what would happen “if it was a lie,” implying lack of perfect consistency proves truthfulness, an improper attempt to bolster credibility through speculation and a false dichotomy. 
+39.  "We have to listen to what Brianna Jackson said. And what she said in her forensic interview was all of these things that her dad said. Just her story. Not his version of it. Her story. Because it's her story to tell." 
+* Citation: Page 65, Line 24 - Page 66, Line 2 
+* Violation: Improper Vouching / Direct Assertion of Fact 
+* Why Inappropriate: The prosecutor emphasizes “her story” as the definitive truth, improperly vouching for the victim's account and dismissing inconsistencies, invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+40.  Quote: "All of those things are consistent. It's just she gets to tell what happened and her story's what's important, not the way Jeff Jackson relayed it." 
+* Citation: Page 66, Lines 10-12 
+* Violation: Improper Vouching / Minimizing Inconsistencies 
+* Why Inappropriate: The prosecutor directly asserts “all of those things are consistent” and the victim's “story's what's important,” improperly bolstering credibility and minimizing inconsistencies the jury should evaluate, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+41. Quote: "Brianna Jackson is coming in here and telling you what happened to her." 
+* Citation: Page 67, Lines 8-9 
+* Violation: Direct Assertion of Guilt / Improper Vouching 
+* Why Inappropriate: The prosecutor states as fact that the victim is “telling you what happened to her,” directly asserting truth and guilt, invading the jury's fact-finding role and bolstering credibility, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+42. Quote: "But just because we don't like an investigation, the remedy is not to let a guilty man go free." 
+* Citation: Page 67, Lines 20-21 
+* Violation: Burden-Shifting / Presumption of Guilt 
+* Why Inappropriate: The prosecutor refers to the defendant as a “guilty man” before verdict, undermining presumption of innocence, and attempts to shift focus from investigation sufficiency to a moral imperative to convict, violating ORPC 3.4(e), 8.4(d), and OUJI-CR 2-6. 
+43.  Quote: "That doesn't mean this crime didn't happen." 
+* Citation: Page 69, Line 20 
+* Violation: Direct Assertion of Guilt / Presumption of Guilt 
+* Why Inappropriate: The prosecutor states as fact that a “crime” occurred, rather than an alleged crime, implying guilt before verdict, undermining presumption of innocence and invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 2-6. 
+44.  Quote: "He is cuddling with her in a bed because she is craving that adult male role model in her life. No fault of her dad's. He lives in another state. But she only gets to see him every so often and this defendant took advantage of that." 
+* Citation: Page 73, Lines 7-10 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor states as fact that the defendant “took advantage” of the child, asserting guilt and motive before jury determination, which is highly inflammatory and appeals to emotion, violating ORPC 3.4(e) and 8.4(d). 
+45.  Quote: "He tried. Think about it. He tries to touch her -- he touches her in the bedroom that night and she leaves the room." 
+* Citation: Page 73, Line 25 - Page 74, Line 1 
+* Violation: Direct Assertion of Guilt / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor states as fact that the defendant “touches her” and “tries to touch her,” asserting alleged acts as proven facts rather than allowing the jury to determine them, invading the jury's fact-finding role. 
+46.  Quote: "So he's testing the waters. He's testing the waters, seeing, Is she going to let me do this, is she going to let me get away with this." 
+* Citation: Page 74, Line 25 - Page 75, Line 2 
+* Violation: Speculation on Defendant's Intent / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor speculates about the defendant's internal thoughts and intentions (“testing the waters”), which is not direct evidence and improperly attributes an unproven mental state. 
+47.  Quote: "It's a pattern, a pattern of what this defendant is doing." 
+* Citation: Page 75, Line 25 - Page 76, Line 2 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor asserts the defendant's actions constitute a “pattern,” implying a history of misconduct and guilt beyond specific charges, which is highly prejudicial and attempts to sway the jury based on unproven character, violating ORPC 3.4(e) and 8.4(d). 
+48.  Quote: "It's what it is because it's what happened." 
+* Citation: Page 76, Line 9 
+* Violation: Direct Assertion of Guilt / Usurping Jury's Role 
+* Why Inappropriate: The prosecutor states as fact that the alleged events “happened,” directly asserting guilt and truth, invading the jury's exclusive role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+49. "We know it's lewd and lascivious because he's got an erection because he's touching her vagina and then having her touch his penis. It is lewd and lascivious right there." 
+* Citation: Page 76, Line 25 - Page 77, Line 2 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor states as fact that acts were “lewd and lascivious” and provides graphic details, asserting guilt and intent as proven facts, which is highly inflammatory and invades the jury's role, violating ORPC 3.4(e) and 8.4(d). 
+50.  Quote: "Brianna Jackson has absolutely no motive to make this story up and no motive to lie. She benefits from it in no way." 
+* Citation: Page 72, Lines 7-9 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor asserts the witness has “absolutely no motive to make this story up and no motive to lie,” an improper attempt to bolster credibility by speculating about motivations, invading the jury's role, violating ORPC 3.4(e) and OUJICR 9-20. 
+51.  Quote: "That Brianna Jackson is telling you the truth, is because only if she experienced these things would she be able to relate these types of details." 
+* Citation: Page 81, Lines 1-3 
+* Violation: Improper Vouching / Direct Assertion of Truth 
+* Why Inappropriate: The prosecutor directly states the witness is “telling you the truth” because of specific details, usurping the jury's exclusive role to determine credibility, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+52.  Quote: "If someone told her what to say or someone told her what to make up, she would not be able to relate sensory details, details that tell you what actually happened to her." 
+* Citation: Page 81, Lines 4-6 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor asserts that the witness could not relate sensory details if she were fabricating, improperly vouching for her credibility by presenting a speculative argument as fact, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+53.  Quote: "Talking about wiggling his finger in her vagina. An 11-year-old would not know that happens. And she's able to describe it." 
+* Citation: Page 81, Lines 21-23 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor claims the child could not know specific details unless the event occurred, improperly vouching for credibility by presenting a speculative argument as fact, violating ORPC 3.4(e) and OUJI-CR 9-20.
+54. "That's not something she could make up. It's not something an adult could tell her to keep straight because she wouldn't know that even happens, much less know -- go in and relay that to someone, to a stranger, talking about between the skin." 
+* Citation: Page 83, Lines 3-7 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor asserts the witness could not fabricate such details, improperly vouching for credibility by presenting a speculative argument as fact, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+55.  Quote: "She experienced it. That's not a detail you can make up. It's not a detail your parent -- Tiffany can tell her to say. It happened to her." 
+* Citation: Page 85, Lines 20-22 
+* Violation: Direct Assertion of Guilt / Improper Vouching 
+* Why Inappropriate: The prosecutor states as fact that “It happened to her,” directly asserting the truth of the allegations and the defendant's guilt, invading the jury's role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+56.  Quote: “Because that’s what someone says – that’s what a sex offender says when they’re trying to comfort a child while they molest them and not want them to tell. It’s okay. It’s okay. Don’t be afraid. It’s okay.” 
+* Citation: Page 88, Lines 11-14 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt / Characterization of Defendant 
+* Why Inappropriate: The prosecutor labels the defendant a “sex offender” and speculates on how sex offenders behave, directly asserting guilt before verdict and using highly inflammatory language, violating ORPC 3.4(e), 8.4(d), and Berger v. United States. 
+57.  Quote: “This defendant committed this crime. He committed both at the same time. He had a choice to stop committing two crimes against her after he did the one, but he went ahead and did another.” 
+* Citation: Page 92, Line 24 – Page 93, Line 2 
+* Violation: Direct Assertion of Guilt / Presumption of Guilt 
+* Why Inappropriate: The prosecutor explicitly states “this defendant committed this crime,” directly asserting guilt before verdict, undermining the presumption of innocence and invading the jury’s role, violating ORPC 3.4(e) and OUJI-CR 2-6. 
+58.  Quote: “These crimes were a choice. It’s a choice he made. He made a choice to be               stepdad or child molester, and he crossed that line.” 
+* Citation: Page 93, Lines 3-5 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt / Characterization of Defendant 
+* Why Inappropriate: The prosecutor labels the defendant a “child molester” and asserts his “choice” to commit crimes, directly asserting guilt before verdict and using highly inflammatory language, violating ORPC 3.4(e), 8.4(d), and Berger v. United States. 
+59. “So I submit to you this defendant is guilty beyond a reasonable doubt of both counts in that bed, in that home with Brianna Jackson, when he took that from her. He took – he took her innocence from her.” 
+* Citation: Page 93, Lines 13-16 
+* Violation: Direct Assertion of Guilt / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor explicitly states “this defendant is guilty beyond a reasonable doubt” and uses emotionally charged language about taking “innocence,” directly asserting guilt and appealing to emotion, violating ORPC 3.4(e), 8.4(d), and OUJICR 2-6. 
+60.  Quote: “So after you find this defendant guilty and you check that box, then you have to assess punishment.” 
+* Citation: Page 93, Lines 21-22 
+* Violation: Direct Assertion of Guilt / Usurping Jury’s Role 
+* Why Inappropriate: The prosecutor assumes guilt by saying “after you find this defendant guilty,” directing the jury on the verdict and undermining the presumption of innocence, violating ORPC 3.4(e) and OUJI-CR 2-6. 
+61.  Quote: “You molest a child, that is not just a drop in a bucket. It is a ripple effect. And it’s a line that you chose to cross, knowing what it could do.” 
+* Citation: Page 93, Line 25 – Page 94, Line 1 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor directly accuses the defendant of molestation as an established fact and appeals to the consequences of the act, using inflammatory language to assert guilt before verdict, violating ORPC 3.4(e), 8.4(d), and Berger v. United States. 
+62.  Quote: “We know she’s telling the truth.” 
+* Citation: Page 78, Lines 19-24 
+* Violation: Improper Vouching / Direct Assertion of Fact 
+* Why Inappropriate: The prosecutor explicitly states “we know she’s telling the truth,” directly vouching for the witness’s credibility and substituting the prosecutor’s opinion for the jury’s assessment, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+63.  Quote: “We know Brionna is telling the truth.” 
+* Citation: Page 81, Lines 1-3 
+* Violation: Improper Vouching / Direct Assertion of Fact 
+* Why Inappropriate: The prosecutor repeats “we know Brionna is telling the truth,” directly vouching for the witness’s credibility and substituting the prosecutor’s opinion for the jury’s assessment, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+64. “We know the crime occurred.” 
+* Citation: Page 92, Lines 13-18 
+* Violation: Direct Assertion of Guilt / Usurping Jury’s Role 
+* Why Inappropriate: The prosecutor states “we know the crime occurred,” directly asserting guilt and the truth of the allegations before verdict, invading the jury’s exclusive role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+65.  Quote: “He is guilty beyond a reasonable doubt.” 
+* Citation: Page 95, Lines 11-12 
+* Violation: Direct Assertion of Guilt / Usurping Jury’s Role 
+* Why Inappropriate: The prosecutor explicitly states “he is guilty beyond a reasonable doubt,” directly asserting guilt and the legal standard of proof before verdict, invading the jury’s exclusive role, violating ORPC 3.4(e) and OUJI-CR 1-8, 1-12. 
+66.  Quote: “So not only, as an 11-year-old little girl, does she find out what it feels like for an adult man to touch her vagina, she also gets to find out what an adult man’s penis feels like through his underwear while laying in her parents’ bed. He chose to do two different acts. That’s why you have two different crimes.” 
+* Citation: Page 80, Lines 17-22 
+* Violation: Inflammatory Rhetoric / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor uses graphic, emotionally charged language to describe the alleged acts as established facts, directly asserting guilt before verdict and appealing to emotion, violating ORPC 3.4(e), 8.4(d), and Berger v. United States. 
+67.  Quote: “She’s been through a year of counseling. If you’re making it up, as a kid – as a 12, 13-year-old going to counseling for a year, you’re certainly going to give it up at that point if it’s not true, because you’re not going to want to go to counseling all the time for a year. We know she’s telling the truth on that.” 
+* Citation: Page 78, Lines 19-24 
+* Violation: Improper Vouching / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor speculates that a child would “give it up” if lying and explicitly states “we know she’s telling the truth,” directly vouching for credibility based on speculation, violating ORPC 3.4(e) and OUJI-CR 9-20. 
+68.  Quote: “There’s absolutely no reason for Brianna Jackson to disclose what happened to her on July 14, 2019, unless it happened. No other reason.” 
+* Citation: Page 79, Lines 13-15 
+* Violation: Improper Vouching / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor asserts “no reason” for disclosure “unless it happened,” directly vouching for truthfulness and asserting guilt as fact, violating ORPC 3.4(e), OUJI-CR 9-20, and OUJI-CR 1-8, 1-12. 
+69. “He didn’t. He then made an 11-year-old touch his penis. He grabbed her hand and put it on his penis.” 
+* Citation: Page 80, Lines 8-10 
+* Violation: Direct Assertion of Guilt / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor states the alleged acts as established facts, directly asserting guilt before verdict and using graphic language to appeal to emotion, violating ORPC 3.4(e), 8.4(d), and OUJI-CR 1-8, 1-12. 
+70.  Quote: “You would only know that if she experienced it. And she was very clear.” 
+* Citation: Page 89, Lines 6-7 
+* Violation: Improper Vouching / Direct Assertion of Guilt 
+* Why Inappropriate: The prosecutor asserts the witness could only know details “if she experienced it,” directly vouching for truthfulness and asserting guilt as fact, violating ORPC 3.4(e), OUJI-CR 9-20, and OUJI-CR 1-8, 1-12. 
+71.  Quote: “It’s because she experienced it. Those things happened to her. She is only able to tell those things because they happened to her.” 
+* Citation: Page 89, Lines 24-25 
+* Violation: Direct Assertion of Guilt / Improper Vouching 
+* Why Inappropriate: The prosecutor repeatedly states “those things happened to her” and “they happened to her,” directly asserting guilt and truth as fact, invading the jury’s role, violating ORPC 3.4(e), OUJI-CR 9-20, and OUJI-CR 1-8, 1-12. 
+72.  Quote: “Is it reasonable in any way, shape, or form that Brianna Jackson is going to make these things up and have these details and be able to tell you what she felt and experienced and went through unless it happened to her?” 
+* Citation: Page 92, Lines 15-18 
+* Violation: Improper Vouching / Rhetorical Question Asserting Guilt 
+* Why Inappropriate: The prosecutor uses a rhetorical question to assert the witness couldn’t fabricate details “unless it happened to her,” improperly vouching for truthfulness and asserting guilt, violating ORPC 3.4(e), OUJI-CR 9-20, and OUJI-CR 1-8, 1-12. 
+73.  Quote: “What Mr. Nedwick just talked to you about for a long period of time, think about the things he said, because what we say to you is not evidence. This is argument of us talking about the evidence. And he talked to you about things for at least 20 minutes of things that you do not have to consider.” 
+* Citation: Page 61, Lines 4-8 
+* Violation: Mischaracterization of Defense Argument / Improper Argument 
+* Why Inappropriate: The prosecutor attempts to dismiss defense arguments by claiming they’re “things that you do not have to consider,” improperly instructing the jury to disregard legitimate defense arguments, invading the jury’s role. 
+74. “He talked about, think about this if this happened, what about this if this happened. You are to consider the evidence that you have. In fact, he just talked about a lot of things you have no evidence of.” 
+* Citation: Page 61, Lines 9-12 
+* Violation: Mischaracterization of Defense Argument / Improper Argument 
+* Why Inappropriate: The prosecutor mischaracterizes defense arguments as “things you have no evidence of,” improperly instructing the jury to disregard legitimate defense arguments, invading the jury’s role. 
+75.  Quote: “You have no evidence of inappropriate sexual comments going on in the home or that they’re all watching YouTube all the time or those things going on. You have no evidence of that. You have them asking, Did Connor touch the babysitter’s butt. Okay. That has nothing to do with anything. Nothing to do with anything.” 
+* Citation: Page 61, Lines 13-18 
+* Violation: Mischaracterization of Defense Argument / Improper Argument 
+* Why Inappropriate: The prosecutor dismisses defense arguments by repeatedly stating “you have no evidence” and “nothing to do with anything,” improperly instructing the jury on what to consider, invading the jury’s role. 
+76.  Quote: “So he’s not touching her all the time because she’s not letting him. And remember in the forensic interview she says he tried to touch me more times but I didn’t let him. We’re putting it on her. An 11-year-old is having to make sure that this doesn’t continue to happen because he keeps trying. He keeps trying and it doesn’t work.” 
+* Citation: Page 75, Lines 13-18 
+* Violation: Direct Assertion of Guilt / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor asserts as fact that the defendant “keeps trying” to touch the victim, directly asserting guilt and using inflammatory language to appeal to emotion, violating ORPC 3.4(e), 8.4(d), and OUJI-CR 1-8, 1-12. 
+77. Quote: “Now, if this is some big conspiracy according to them, why is Brianna Jackson and Tiffany – why didn’t they make it up worse? Why isn’t she saying it happened all the time, day after day, and he did this and he did that, and all these additional things that had to happen to make it this big, big, big story.” 
+* Citation: Page 76, Lines 3-8 
+* Violation: Improper Argument / Mischaracterization of Defense Theory 
+* Why Inappropriate: The prosecutor mischaracterizes the defense theory as a “big conspiracy” and uses rhetorical questions to improperly bolster the witness’s credibility, invading the jury’s role. 
+78 “Well, ladies and gentlemen, I am not going to take a long time. I know you guys are going to be sitting straight through this, and it’s going to take a little bit of time. I know that you’ve been hearing a lot of things go on.” 
+* Citation: Page 60, Lines 19-23 
+* Violation: Improper Appeal to Jury Sympathy / Prejudicing Jury Against Defense 
+* Why Inappropriate: The prosecutor attempts to curry favor with the jury by suggesting she won’t take long, implying the defense has taken too much time, potentially prejudicing the jury against the defense. 
+79.  Quote: “There’s a lot of discussion about, oh, it’s inconsistent because of what Jeffrey Jackson said and that story was wrong and the lie unraveling. Remember what you have heard. Brianna Jackson told her dad what happened to her. He told her – she said she didn’t tell him everything, but she told him. And then he talked to his wife and then they – he got to the phone, he called the police. And then he told the police.” 
+* Citation: Page 62, Lines 18-25 
+* Violation: Improper Vouching / Direct Assertion of Fact / Mischaracterization of Defense Argument 
+* Why Inappropriate: The prosecutor asserts as fact that “Brianna Jackson told her dad what happened to her,” affirming the truth of allegations and dismissing defense arguments about inconsistencies, violating ORPC 3.4(e), OUJI-CR 9-20, and OUJI-CR 18, 1-12. 
+80.  Quote: “So this police report you have is Brianna telling her dad and then Caitlin, and then Caitlin then talking about it, and then them calling the police, and then the police writing it down and then bringing it to you. That is one person’s story on top of another, on top of another, on top of another.” 
+* Citation: Page 63, Lines 1-5 
+* Violation: Improper Argument / Minimizing Inconsistencies 
+* Why Inappropriate: The prosecutor attempts to explain away inconsistencies by characterizing them as “one person’s story on top of another,” dismissing the significance of discrepancies without allowing the jury to fully assess them. 
+81.  Quote: “He didn’t actually go inside inside.” — Forensic Interview, timestamp 53:20 
+* [Exhibit H3] vs. “His fingers were inside me.” — Trial testimony [Exhibit Q] 
+* Citation: Prosecutor’s failure to acknowledge this contradiction 
+* Violation: Knowing Presentation of False Testimony / Failure to Correct 
+* Why Inappropriate: The prosecutor failed to acknowledge or correct the direct contradiction between the forensic interview and trial testimony regarding penetration, violating Napue v. Illinois and Giglio v. United States. 
+82. Quote: “Once in the bedroom, once on the couch.” 
+* Citation: Page 75, Lines 23-24 
+* Violation: Misstatement of Fact / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor misstates the evidence regarding locations, which 
+* contradicted testimony, violating ORPC 3.3(a)(1) and OUJI-CR 1-8. 
+83.. Quote: “Nobody ever said 2018.” 
+* Citation: Page 93, Lines 5-6 
+* Violation: Misstatement of Fact / Argument Not Grounded in Evidence 
+* Why Inappropriate: The prosecutor directly contradicts Officer Pierce’s police report and Tiffany Norton’s VPO testimony, which both confirmed the timeline of November 29 December 25, 2018, violating ORPC 3.3(a)(1) and OUJI-CR 1-8
+84. Quote: “If you were unhappy with that investigation, the remedy to that is to not say, okay, we’re just going to find him not guilty… Complain to the chief,  
+* Chief Foster. We’ll give you his phone number.” 
+* Citation: Page 67, Lines 10-13 
+* Violation: Burden-Shifting / Improper Argument 
+* Why Inappropriate: The prosecutor suggests jurors should call the police chief rather than acquit if unhappy with the investigation, improperly shifting the remedy away from the courtroom and undermining the presumption of innocence, violating ORPC 3.4(e), 8.4(d), and OUJI-CR 2-6. 
+85. Quote: “He has to be punished for this. You know what he did.” 
+* Citation: Page 94, Lines 14-15 
+* Violation: Direct Assertion of Guilt / Inflammatory Rhetoric 
+* Why Inappropriate: The prosecutor states “he has to be punished” and “you know what he did,” directly asserting guilt before verdict and appealing to punishment rather than evidence, violating ORPC 3.4(e), 8.4(d), and OUJI-CR 2-6.

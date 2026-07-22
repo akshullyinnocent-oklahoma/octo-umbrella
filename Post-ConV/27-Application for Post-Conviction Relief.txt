@@ -1,0 +1,511 @@
+
+**STATE OF OKLAHOMA**  
+**DISTRICT COURT OF CLEVELAND COUNTY**  
+**21ST JUDICIAL DISTRICT**
+
+**STATE OF OKLAHOMA,**  
+Plaintiff,  
+
+v.  
+
+**DALLAS CHRISTOPHER NORTON,**  
+Defendant/Petitioner.  
+
+**Case No. CF-2019-1273**
+
+**APPLICATION FOR POST-CONVICTION RELIEF**  
+**PURSUANT TO 22 O.S. § 1080**
+
+**INDEX**  
+**List of Authorities**
+
+INDEX ……………………………………..………………..…………I  
+
+AUTHORITIES……………….………………..……....…..…..………II  
+
+EXHIBITS……………………………………..…………..…………..III  
+
+JURISDICTION AND LEGAL BASIS…….……..……..………..…VII  
+
+FACTUAL BACKGROUND AND STATEMENT OF ACTUAL…...VII  
+
+PROPOSITION I………………,……………………..……………….1  
+
+PROPOSITION II…………………………….…………………...…..2  
+
+PROPOSITION III……………………….………………..…………14  
+
+PROPOSITION IV…..,……………………..………………………..14  
+
+APPENDIX……………………………………………………………1  
+
+**INDEX**  
+**List of Authorities**
+
+**United States Supreme Court Cases:**  
+· Cuesta-Rodriguez v. State, 2010 OK CR 23, 241 P.3d 214  
+· Avery v. Alabama, 308 U.S. 444 (1940)  
+· Strickland v. Washington, 466 U.S. 668 (1984)  
+· United States v. Cronic, 466 U.S. 648 (1984)  
+· Evitts v. Lucey, 469 U.S. 387 (1985)  
+· Brady v. Maryland, 373 U.S. 83 (1963)  
+· Napue v. Illinois, 360 U.S. 264 (1959)  
+· Arizona v. Youngblood, 488 U.S. 51 (1988)  
+· Jackson v. Virginia, 443 U.S. 307 (1979)  
+· Schlup v. Delo, 513 U.S. 298 (1995)  
+· McQuiggin v. Perkins, 569 U.S. 383 (2013)  
+· Townsend v. Burke, 334 U.S. 736 (1948) (Cited via Gardner v. Florida)
+
+**Federal Circuit Court Cases:**  
+· United States v. Magallanez, 408 F.3d 672 (10th Cir. 2005)  
+· United States v. Cline, 349 F.3d 1276 (10th Cir. 2003)  
+· Cannon v. Gibson, 259 F.3d 1253 (10th Cir. 2001)  
+· Fontenot v. Crow, 4 F.4th 982 (10th Cir. 2021)
+
+**Oklahoma State Court Cases:**  
+· Logan v. State, 2013 OK CR 2, 293 P.3d 969  
+· Pryor v. State, 2011 OK CR 18, 254 P.3d 721  
+· Paxton v. State, 1993 OK CR 59, 867 P.2d 1309  
+· Davis v. State, 1954 OK CR 54, 269 P.2d 1005  
+· Spuehler v. State, 1985 OK CR 132, 709 P.2d 202  
+· Salyer v. State, 1988 OK CR 246, 761 P.2d 890  
+· Jones v. State, 1988 OK CR 281, 765 P.2d 800  
+· Camron v. State, 1992 OK CR 17, 829 P.2d 47  
+· Morris v. State, 1913 OK CR 104, 131 P. 731  
+· Thornburg v. State, 1999 OK CR 32, 985 P.2d 1234  
+· Osborn v. State, 2011 OK CR 6, 251 P.3d 756  
+· Fowler v. State, 1995 OK CR 29, 896 P.2d 566
+
+**Oklahoma Statutes & Policies:**  
+· 22 O.S. § 982(D)  
+· DOC Policy OP-160301  
+· 12 O.S. § 2803.1  
+· OUJI-CR 9-20 (Oklahoma Uniform Jury Instruction)
+
+**Secondary Authorities:**  
+· American Academy of Child & Adolescent Psychiatry, Practice Parameter on Child Sexual Abuse, 36 J. Am. Acad. Child Adolescent Psychiatry 120 (2017)  
+· Los Angeles County Department of Children and Family Services (DCFS) Policy Manual  
+· National Center for Biotechnology Information (NCBI), StatPearls, Child Abuse and Neglect (2023)
+
+**INDEX**  
+**List of Exhibits**
+
+**A Police Reports**  
+A1 Norman PD Case summary  
+A2 Officer Pierce Report - Dates  
+A3 Pierce Report Brionna Did Not  
+A4 Pierce Report Narrative Ctd.  
+A5 Pierce Report Body cam used  
+
+**B Forensic Interview 07/19/19 or 07/22/19**  
+B1 “Tried” to make (ct 2)  
+B2 “Made me touch” (ct 2)  
+B3 “Before they were married”  
+B4 Nothing occurred while on her back  
+B6 Talked to AZ PD-Mom story  
+B7 Looked up his record  
+B8 Austin-Riley Live w/Mom  
+B9 Not Inside Inside  
+B10 Laying on stomach  
+B12 Between Skin-On Stomach  
+B13 Mom’s Bedroom  
+B14 At Casino  
+B15 Crying on Phone w/Mom  
+
+**C VPO Tr. 07/29/2019**  
+C1 Asked because getting Divorced  
+C2 “Tried to make me”  
+C3 It was Before Christmas  
+C4 Had her own room  
+C5 Before last Christmas/ w-Friends  
+C6 1st thing was before christmas  
+C7 Filed VPO on 15th  
+C8 Talk with Dad Step-Mom before  
+C9 Talked to Det. Gave Statements  
+C10 Talked to Police and Detective  
+C11 No Fishing - No Misses  
+C12 Didn’t live there  
+C13 Denied Saying Couch  
+C14 Talked to Mom on Phone  
+C15 Multiple Conversations  
+C16 “He touched my”
+
+**D Preliminary Hearing 01/15/2020**  
+D1 Current Age at PHC  
+D2 11 in 5th grade  
+D3 10 in 4th grade  
+D4 Middle of 5th grade  
+D5 Not when first moved in p13  
+D6 Moved out Summer 18 p65  
+D7 Penetration Alleged p7  
+D8 Made to touch 23  
+D9 No Remember Married Dec.18 p43  
+D10 Long time after moved in p44  
+D11 Not 4th grade—5th Grade p45  
+D12 Meeting With Prosecutor  
+D13 Married 1.5 yrs. After p50  
+D14 Medium time before p53  
+D15 Not sure at all when p63  
+D16 After Christmas/Before p68  
+D17 Mom at Concert p15  
+D18 Demurrer P74
+
+**E Tr. Vol I Voir-Dire 06/21/2022**  
+Errors outlined in Appendix
+
+**F Tr. Vol II 06/22/2022**  
+F1 5-6 Months p42  
+F2 Never signed anything p54  
+F3 OK and AZ 1  
+F4 Shyanne Pike p292-293  
+F5 Filed VPO after Forensic Interview p60  
+F6 Christmastime event p181  
+F7 Ok and AZ 2  
+F8 Was on Back 1 p291  
+F9 Don’t remember if inside p  
+F10 Made to touch  
+F11 Didn’t see Bailey/Sign anything p54  
+F12 Didn’t tell anyone about divorce p  
+F13 Never spent night p87  
+F14 it was nighttime p244  
+F15 was on back p248  
+F16 was on back p251  
+F17 Pierce Body cam p116  
+F18 Pierce Body cam p117  
+F19 Ms austin manipulate times.  
+F20 Tiffany doesn’t know allegations  
+F21 on couch mom cooking
+
+**G Tr. Vol III 06/23/2022**  
+G1 Det. Judy “Can’t talk to her” p36  
+G2 States 6  
+G3 Body cam ?’s p41  
+G4 Body cam ?’s p42  
+G5 Body cam ?’s p43  
+G6 Body cam ?’s p4  
+G7 Admits Forensic Interview  
+G8 Courts 1  
+G9 Trial demurrer  
+G10 No Coaching or contradictions  
+G11 Jeff’s testimony admitted  
+G12 Didn’t consider impeachment 1AM
+
+**H Tr. Vol IV 06/24/2022**  
+H1 State acknowledged move out  
+H2 Nobody said 2018
+
+**I Tr Vol V Sentencing 08/31/2022**  
+I1 New Trial Letter 1  
+I2 New Trial Letter 2  
+I3 New Trial Letter 3  
+I4 Interest of Candor  
+I5 PSI 1  
+I6 PSI 2  
+I7 Already Decided  
+I8 Interrupted Me  
+I9 Doesn't agree with errors  
+I10 Threw papers on floor
+
+**J FB Messages-Texts-Photos**  
+J1 Lease  
+J2 Assessor website  
+J3 Truck/Trailer moving  
+J4 Text w/Tiffany Moving  
+J5 Text w/ Moving  
+J6 FB SS moving back Dec 30th  
+J7 FB SS Kids leave the 22nd  
+J8 Text SS Be home Jan 5th  
+J9 FB SS Jeff Christmas 2017  
+J10 FB SS Jeff Christmas 2017  
+J11 FB SS Wants to stay Every other wk.  
+J12 FB SS Struggling - Misses you  
+J13 FB SS Fishing trip  
+J14 Photo Fishing Trip  
+J15 FB SS Picture with Santa  
+J16 FB SS Kids moving talk  
+J17 FB SS Kids moving talk 2  
+J18 FB SS Christy moving Aug 1st  
+J19 FB SS Brionna Messages June  
+J20 FB SS Brionna Msgs July-August  
+J21 SS Photo Daddy Daughter Dance  
+J22 SS Photo School Project  
+J23 SS Photo Kids do Nails 1  
+J24 SS Photo Kids do Nails 2  
+J25 SS Photo Skating  
+J26 SS Photo coveralls  
+J27 FB SS Argument w/ Amber White  
+J28 Defense W-E List Amber Statment  
+J29 FB SS Dad watching Austin  
+J30 Forensic Disks  
+J31 Email 1  
+J32 Email 2  
+J33 Email 3  
+J34 Email Amber  
+J35 Dad Watch  
+J36 Dad watch  
+J37 Brionna Msgs wed.  
+J38 Brionna Msgs 2017
+
+**K Official Documents**  
+K1 Affidavit of Probable Cause  
+K2 Original Charging Information  
+K3 Amended Information  
+K4 Notice of Intent 2803.1  
+K5 Strike Statement Copy/Paste  
+K6 OUJI-CR 9-20 Brionna  
+K7 OUJI-CR 9-20 Jeff  
+K9 States W-E List DHS/Law enforcement  
+K10 States W-List 2  
+K11 Ford Name on Document  
+K13 Defense Witness List
+
+**L Other Transcripts**  
+L1 Cornett Admits Coaching  
+L2 Waiver “I’ll speak as low as..”  
+L3 Ms.Austin “Getting loud” comment  
+L4 Signed Disk Cornett  
+L5 Admitted States 1 at hearing  
+L6 Waiting to view video
+
+**M Appellate Documents**  
+M1 Notice of Assignment  
+M2 Only letter from R. Walterscheid  
+M3 Notice of Reassignment  
+M4 “No Ans. Previous Letters”  
+M5 Brief Filed April 7th  
+M6 Meet promise-Attempt Deter  
+M7 Chastise “Fully Aware”  
+M8 Sanders 1st Ext 2/24  
+M9 Sanders 2nd Just started 3/23  
+M10 1st letter from W.Hobbs  
+M11 Letter July 5th Decision  
+M12 Request for Rehearing 1  
+M13 Request for Rehearing 2  
+M14 Request for Rehearing 3  
+M15 Request for Rehearing 4  
+M16 Last Letter from OIDS Hobbs  
+M17 OCCA Rule 12.9 Rehearing  
+M18 F.I. States 6 Used In court
+
+**COMES NOW,** Dallas Christopher Norton, Petitioner pro se, and respectfully submits this Application for Post-Conviction Relief pursuant to 22 O.S. § 1080, 22 O.S § 1080(A)(4) and 22 O.S. § 1081. Petitioner asserts he is being unlawfully held in violation of his constitutional rights under the United States Constitution and the Constitution of the State of Oklahoma. In addition, Petitioner asserts: that there exists evidence of material facts, not previously presented and heard, that requires vacation of the conviction in the interest of justice, pursuant to 22 O.S. § 1080(A)(4).
+
+**JURISDICTION AND LEGAL BASIS**  
+This Court has jurisdiction under 22 O.S. § 1080 et seq. Petitioner is currently incarcerated under a judgment and sentence of this Court. The issues presented were not raised on direct appeal through no fault of Petitioner. This Application is timely filed pursuant to 22 O.S. § 1080 and relevant decisions from the Oklahoma Court of Criminal Appeals interpreting its procedural requirement.
+
+**PROCEDURAL HISTORY**  
+Petitioner was charged in Cleveland County District Court Case No. CF2019-1273 with 2 Counts of Lewd Acts to a Child Under 16 (21 O.S. § 1123). The case proceeded to jury trial on June 21–24, 2022, in the District Court of Cleveland County. Petitioner was found guilty on both counts. Sentencing was held on August 31, 2022, at which time Petitioner was sentenced to consecutive terms of 25 years, with 7 of Count I and the Entirety of Count II suspended. Petitioner timely filed a direct appeal, Case No. F-2022-746, raising five propositions of error. The Oklahoma Court of Criminal Appeals affirmed the convictions in its Summary Opinion issued on July 3rd, 2024. Petitioner now seeks relief on grounds that were either not previously available or not properly presented due to ineffective assistance of appellate counsel, official misconduct, and newly developed evidence establishing actual innocence.
+
+**FACTUAL BACKGROUND AND STATEMENT OF ACTUAL INNOCENCE**  
+The State’s case against the Petitioner rests not on credible evidence, but on a narrative that systematically evolved to overcome exculpatory facts as they emerged. When this inconsistent testimony is measured against suppressed, objective evidence of the Petitioner’s physical location and the complainant’s own documented behavior, the conviction becomes a factual and physical impossibility. The complainant’s account transformed dramatically with each official interview, suggesting a fabricated story rather than the recall of a traumatic event. The initial police report from July 14, 2019, was fundamentally exonerating: the incident allegedly occurred on the living room couch, involved no completed act, and was confined to November–December 2018. Just eight days later, in a forensic interview, the narrative changed entirely. The location moved to the master bedroom, the act escalated to a forced touching, and yet, digital penetration was explicitly denied. By the preliminary hearing nearly six months later, the allegation of digital penetration appeared for the first time, directly contradicting her prior statement.
+
+Throughout these shifting accounts, the one consistent element was the late-2018 timeframe, which the complainant described as “in the middle of fifth grade” and “before last Christmas.” At trial, the State attempted to create ambiguity by focusing on the phrase “before they got married.” However, this theory was demolished on cross-examination when the complainant herself clarified her own understanding, equating the late-2018 separation period with the phrase “before they got married.” The State ignored this dispositive testimony and falsely argued in closing that “Nobody ever said 2018.” This timeline is critical because objective, documentary evidence proves the Petitioner was not present during that period. He signed a new lease on September 4, 2018, and photographic and text message evidence confirm he moved out on September 8, 2018, not returning to reside in the home until December 30, 2018. The complainant, meanwhile, left for a trip to Arizona on December 22, 2018, and did not return until January 5, 2019. There was zero overlap between the parties’ presence in the home during the only timeframe consistently alleged, making the State’s case a physical impossibility.
+
+Furthermore, the complainant’s sworn testimony about her behavior following the alleged incident was proven false by suppressed evidence. She testified under oath that she never went fishing with Petitioner or expressed missing him, yet timestamped text messages from her mother reveal the opposite, describing the complainant as eager for affectionate contact throughout the alleged timeframe. With no medical or physical proof, the State’s case was built entirely upon witnesses whose credibility was either judicially impeached or demonstrably false, including the complainant herself and her father, for whom the court issued inconsistent statement instructions, a detective who gave false testimony under oath, and a forensic interviewer who contradicted her own pretrial admissions about coaching. The jury was deprived of the evidence necessary to see the truth, resulting in the conviction of an innocent man for a crime that was physically impossible to commit.
+
+In 1954, the Oklahoma Court of Criminal Appeals recognized a profound truth at the heart of the American justice system: “The crime charged is so reprehensible that, no matter how innocent a man may be, it is almost impossible for him to get a fair and impartial trial… It is unbelievable to the ordinary layman that a child would concoct such a story unless the same was true… However, courts and attorneys have had ample opportunity to learn that such stories of being molested are often untrue... These observations are, in the opinion of this Court, sound, and demand particular caution and deliberation.” —Davis v. State, 1954 OK CR 54, 28-29.
+
+This long-standing principle of “particular caution and deliberation” was abandoned at every stage of Petitioner’s case. This brief documents a systemic breakdown of the adversarial process—from a premeditated campaign of prosecutorial misconduct that began in voir dire, to a defense counsel who failed to present exculpatory evidence and ultimately attacked his own client, to a series of appellate lawyers who abdicated their duty to challenge these profound errors. This was not merely a trial with errors; it was a proceeding that failed to provide the fundamental fairness demanded by the Constitution, resulting in the wrongful conviction of an innocent man.
+
+Pro se filings should be construed liberally and held to less stringent standards than formal pleadings drafted by lawyers. This Court has a duty to examine pro se pleadings based on the substance of the claims rather than technical form, ensuring that constitutional rights are not forfeited due to lack of legal training. See Haines v. Kerner, 404 U.S. 519, 520 (1972); Hall v. Bellmon, 935 F.2d 1106, 1110 (10th Cir. 1991); Magar v. Parker, 1973 OK CR 394, 515 P.2d 1155, 1156.
+
+**PROPOSITION I: APPELLATE COUNSEL WAS CONSTITUTIONALLY INEFFECTIVE, RESULTING IN A CONSTRUCTIVE DENIAL OF COUNSEL UNDER UNITED STATES v. CRONIC**
+
+**Standard of Review:** Strickland v. Washington, 466 U.S. 668 (1984); United States v. Cronic, 466 U.S. 648 (1984); Evitts v. Lucey, 469 U.S. 387 (1985) (establishing the right to effective assistance of counsel on direct appeal as guaranteed by the Due Process Clause).
+
+**Argument:** Petitioner was denied his Sixth Amendment right to counsel throughout his appeal. The record from the Oklahoma Indigent Defense System (OIDS) proves a complete and systemic breakdown of the adversarial process, orchestrated through a sequence of attorneys who, in turn, abandoned, coerced, and ultimately refused to advocate for their client. This was not a single deficient act, but a cascade of failures so profound as to constitute a constructive denial of counsel under United States v. Cronic, 466 U.S. 648 (1984), where prejudice is presumed when counsel entirely fails to subject the prosecution's case to meaningful adversarial testing. See also Avery v. Alabama, 308 U.S. 444 (1940) (recognizing constructive denial where systemic failures prevent effective representation).
+
+Ricki J. Walterschied, who, after being assigned in September 2022, performed no work, filed nothing, and engaged in no communication, constituting a complete abandonment.(Ex- M1-M2)
+
+Virginia Sanders, assigned in January 2023, whose representation was a sham designed to dispose of the case. She engaged in a campaign of coercion, Repeatedly Warning Petitioner of “TWO LIFE SENTENCES” to scare him into dropping his appeal.(Ex- M4-M6-M7) When Petitioner provided crucial case law, Ms. Sanders dismissively wrote, “After more than 30 years of practicing criminal law, I am fully equipped to know what law and cases apply to your appeal,” thereby admitting awareness while consciously choosing to ignore the issues.(Ex- M7) Sanders repeatedly stated she would visit Petitioner with her investigator,(Ex- M6) But this never occurred, After her own admissions in sworn affidavits requesting extensions the last on March 23rd 2023-She spent little more than 15 days on the appeal (Ex- M8-M9) And filed it April 7th without ever speaking to Petitioner and then retired a short time later. (Ex. M5)
+
+Wendi Hobbs, who waited until re-hearing was time barred to reply and who refused to file a Petition for Rehearing on meritorious, omitted issues, admitting she knew “nothing of the case” In a phone call when Petitioner’s family finally got an answer. (Ex- M16)
+
+Any attempt to frame these as isolated incidents of attorney error, reviewable only under Strickland, mischaracterizes the record. This was not a single attorney's failure, but a sequential and systemic breakdown within the indigent defense system itself. When the system fails to provide a functioning advocate at any critical stage, the adversarial process collapses entirely, triggering the presumed prejudice standard of Cronic. This systemic collapse guaranteed that the meritorious claims detailed in Proposition II—including trial counsel's open-court betrayal and the State's bad-faith destruction of evidence—were never subjected to any meaningful adversarial testing. See Logan v. State, 2013 OK CR 2, 5, 293 P.3d 969, 973 (Oklahoma recognizes IAAC claims under Strickland but applies Cronic where appellate counsel's failures amount to no representation at all).
+
+**PROPOSITION II: IN THE ALTERNATIVE, APPELLATE COUNSEL'S DEFICIENT PERFORMANCE IN FAILING TO RAISE NUMEROUS MERITORIOUS CLAIMS REQUIRES REVERSAL UNDER STRICKLAND v. WASHINGTON.**
+
+Even if prejudice is not presumed under Cronic, the following claims exemplify the glaring, reversible errors that appellate counsel would have identified with even minimal diligence. Their omission demonstrates the profound deficiency of an appeal that was, as established in Proposition I, a constructive denial of counsel. Appellate counsel’s performance was constitutionally deficient and resulted in clear prejudice under Strickland v. Washington, 466 U.S. 668 (1984). Counsel failed to raise numerous, glaring, and meritorious claims that were obvious from the record. Each of the following omitted claims, standing alone, establishes a reasonable probability that the result of the appeal would have been different. See Logan v. State, 2013 OK CR 2, 5, 293 P.3d 969, 973 (appellate counsel must raise issues that could have changed the outcome).
+
+A. Failure to Properly Raise Ineffective Assistance of Trial Counsel for Failing to Object to Pervasive Prosecutorial Misconduct.  
+Appellate counsel was ineffective for failing to argue that trial counsel’s silence in the face of a pervasive and premeditated campaign of prosecutorial misconduct deprived Petitioner of a fair trial. The cumulative effect of this misconduct requires reversal under Pryor v. State, 2011 OK CR 18, 2, 254 P.3d 721, 723. In the alternative, several categories of this misconduct were so egregious as to constitute standalone reversible error. See Paxton v. State, 1993 OK CR 59, 15, 867 P.2d 1309, 1318 (repeated vouching for witnesses constitutes plain error warranting reversal). “Full breakdown of EVERY instance detailed in Appendix”
+
+The Campaign Began in Voir Dire: A Systematic Conditioning of the Jury. The prosecution’s premeditated campaign began before the first piece of evidence was ever presented. During a single day of voir dire, the prosecutor engaged in a relentless barrage of more than 185 improper statements and leading questions designed to precondition the jury, neutralize the defense’s strongest arguments, and lower the State’s constitutional burden of proof. Through dozens of leading questions, the prosecutor conditioned the jury to excuse inconsistencies, to accept a lack of corroborating evidence as normal, and to trivialize the "beyond a reasonable doubt" standard with simplistic analogies like "granny's potato soup". (Tr I p119-122+) By the time the first witness was sworn, the presumption of innocence had been systematically eroded.
+
+The Campaign Culminated in a Closing Argument Dominated by Misconduct. The themes initiated in voir dire reached their apex in a closing argument defined by constitutional violations. Across 63 pages of transcript, the State committed no fewer than 85 instances of misconduct.(List in Appendix) Most egregiously, in direct defiance of the court's instruction that Brionna and Jeff Jackson were potentially "not believable or truthful" (OUJI-CR 9-20), the prosecutor personally vouched for their credibility on 21 separate occasions, stating things like “We know she's telling the truth” (Tr IV p78) “We know Brionna is telling the truth.” (Tr IV p81) and for Jeff Jackson "He knows those things for sure because we know he's not lying (Tr IV p65) This alone requires reversal See Paxton v. State, 1993 OK CR 59, 15, 867 P.2d 1309, 1318 (repeated vouching for witnesses constitutes plain error warranting reversal).
+
+Furthermore, the prosecutor usurped the jury’s role by declaring Petitioner's guilt over 34 times “He is guilty beyond a reasonable doubt.” (Tr IV p95) and “He has to be punished for this. You know what he did.”(Tr IV p94) and deploying inflammatory epithets such as “sex offender” (Tr IV p88) and “child molester” (Tr IV p93)
+
+Conclusion on Misconduct. The State will argue this conduct was harmless error, but the cumulative effect of HUNDREDS of instances of misconduct, viewed through the lens of Pryor v. State, 2011 OK CR 18, 2, 254 P.3d 721, 723, is not harmless. It is the definition of the "rare case" that requires reversal. In the alternative, the repeated vouching constitutes plain error and requires reversal under Paxton, and when it concerns judicially impeached witnesses, it also constitutes plain error requiring reversal under United States v. Magallanez, 408 F.3d 672, 678 (10th Cir. 2005). FULL BREAKDOWN IS DETAILED AND CITED IN APPENDIX.
+
+This relentless campaign of misconduct ignored by trial counsel and by appellate counsel, demonstrates a complete abandonment of the "particular caution and deliberation" required in cases of this nature. See Davis v. State, 1954 OK CR 54, 10, 269 P.2d 1005, 1008 (mandating heightened scrutiny in child sexual abuse cases to prevent miscarriages of justice)
+
+B. Appellate Counsel’s Failure to Raise Ineffective Assistance of Trial Counsel for Abandoning the Defense and Compelling a Coerced Waiver: Appellate counsel’s failure to challenge the inexplicable misconduct of trial counsel was constitutionally deficient. The record shows that trial counsel did not merely err; he systematically abandoned his client. He promised an alibi defense, Speaking of documents and testimony from Arizona Child welfare and law enforcement.(Ex- F3,F7) Knowing he never even subpoenaed this witness. He coerced his client into silence, and then publicly attacked his client’s credibility at sentencing. This conduct constitutes a complete dereliction of duty that demolished any chance of a fair hearing.
+
+Abandonment of a Known and Viable Defense Trial counsel's abandonment of the defense is plain from the record. Trial counsel's abandonment of Heather Slater was not merely a failure to call a witness; it was the abandonment of the only official, third-party corroboration for the exonerating initial timeframe provided by the State's own witness, Officer Pierce. Counsel promised the jury he would present evidence from 'Arizona Child welfare' (Ex- F3, F7) to support this defense, knowing he had never even subpoenaed her. This left the jury with the State's evolved, false narrative and no official evidence to contradict it.
+
+This abandonment was accomplished by coercing Petitioner into waiving his constitutional right to testify. Petitioner’s contemporaneous letter to the court proves this was a sudden, uncalculated decision forced upon him right before the State rested (Ex- I1-I3). The transcript reveals a contentious, rushed bench conference in whispers to prevent the Jury from hearing, where counsel was warned for “getting a little loud,” confirming the high-pressure environment (Ex- L2, L3). Under these coercive conditions, Petitioner was put under oath and compelled to falsely affirm a series of leading questions from his own attorney, consistent with his statement that he was ordered to “Just agree with what was asked.” The court failed to conduct any meaningful inquiry to ensure the waiver was knowing and voluntary. This was not a choice; it was a capitulation under duress. Petitioner’s immediate attempt to correct the record proves it. This coercion was the vehicle trial counsel used to avoid presenting the mountain of exculpatory evidence Petitioner had provided, including photos and messages proven to be in counsel's possession (Ex- J31-J34). The prejudice was perfected at The Hearing on the motion for a new trial which was combined with sentencing. When Petitioner tried to explain the situation, his own attorney publicly branded him a liar. This ultimate act of betrayal utterly destroyed any prospect of a fair and impartial sentencing.
+
+The Open-Court Ambush: Trial counsel's abandonment was not passive but active. At the sentencing hearing, counsel refused to argue several points from Petitioner's motion concerning the coercion, because he did not "agree with them," but then stated he had "no objection" to his client being heard.(Ex- I9) However, the moment Petitioner began to testify, counsel interjected and attacked his own client's credibility, stating he couldn't allow him to testify to something he "know[s] is false... Not in my opinion. Factually" (Ex- I8 Tr.V p10) "This was not advocacy; it was sabotage. An attorney's duty of loyalty is the cornerstone of the adversarial system. By acting as a witness against his own client on a critical matter of credibility at sentencing, trial counsel switched sides. This constitutes a 'complete failure to subject the prosecution's case to meaningful adversarial testing,' precisely the circumstance contemplated in United States v. Cronic where prejudice is presumed. No strategic purpose can justify an attorney branding his client a liar to the court that will decide his fate.”
+
+C. Failure to address State's Knowing Use of False and Misleading Testimony:  
+To excuse a deficient investigation, the State knowingly presented false testimony from Detective Judy- "The only witness who would have had any information would have been Brionna, and I can’t talk to her" False (Ex- G1 Tr III p35-36). This material falsehood was demonstrably untrue. The complainant herself had previously testified under oath and re-confirmed again that she had in fact "Talked to the detectives and the police" in Oklahoma (VPO Tr. p. 27, 29-30). Det Judy was the only Detective working the case. Furthermore the State’s own witness list confirmed that DHS conducted interviews alongside law enforcement.(Ex- K10)
+
+Tiffaney Norton- Filed VPO after Forensic Interview False (Tr II p60) Filed Vpo on the 15th (VPO Tr p35) Doesn't know the allegations False (Tr II p82) she had just previously testified-The very detailed version of the “allegations” on the VPO were correct (Tr II p60) She never spoke to Brionna False (Tr II p57-58) Brionna testified multiple times to phone calls with mom (Tr Vpo p29, Tr FI 30:38-30:42)
+
+Bailey Ferguson- A complete Fabrication- Bailey's testimony was she had worked for Petitioner for over a year From August 2017 until after her 18th birthday which was October 2018- This is False, As proven by message logs She stopped working for Petitioner in October 2017 after 2months due to and argument with her Step mom and Petitioner (Ex- J27) Further messages prove Austin's Grandfather was watching him from October 2017 until August 2018 (Ex- J29,J35,J36) when he moved to his mom's and returned to public schools. (Ex- J16-J18)
+
+Christy Cornett- Testified at Hearsay hearing on January 21 2022 Q. Ok, so she had clearly been told or informed as to what to expect and what the purpose of the meeting with you is going to be, Is that right? A. It appears that way, yes” clearly indicating coaching (Ex- L1 M.H.p33) Then at trial testified she saw no contradictions and no signs of coaching (Ex- G10 Tr III p119-120)
+
+These brief examples in combination with Jeff and Brionna being deemed impeached by the court both receiving OUJI-CR 9-20 (Ex- K6,K7) Further supports that the state's evidence was insufficient, as the only evidence offered was testimony of which the entirety was Impeached or False. The State knew or should have known the testimony was false as these things are right there in the transcripts, its use to secure a conviction requires reversal under Napue v. Illinois, 360 U.S. 264, 269 (1959). See also Spuehler v. State, 1985 OK CR 132, 7, 709 P.2d 202, 203-04 (Oklahoma requires reversal for knowing use of perjured testimony).
+
+D. Failure to Raise Ineffective Assistance of Trial Counsel for Failing to Impeach Witnesses Due to Lack of Preparation: Appellate counsel was ineffective for failing to argue the meritorious claim that trial counsel's performance was constitutionally deficient. This was not a matter of strategy, but a direct result of a lack of preparation—a fact he admitted on the record. On the morning of closing arguments, trial counsel confessed to the court that he had not even considered impeachment instructions until "about 1:00 this morning," and that he had to "try to recall the witnesses that [he] knew had inconsistent statements" from memory.(Ex- G12 Tr.IV p.5) This stunning admission proves a lack of a coherent impeachment strategy and constitutes deficient performance that is independently sufficient for reversal. This on-the-record admission of last-minute, haphazard preparation, and appellate counsel’s failure to raise it, is the very antithesis of the 'particular caution and deliberation' required to mount an effective defense. See Davis v. State, 1954 OK CR 54, 10, 269 P.2d 1005, 1008, The following is a brief example of the prejudice this error caused by showing the blatant false and contradictory statements By virtually every state's witness
+
+E. Failure to Raise Brady/Napue Violations for the State's Suppression of Evidence.  
+The following meritorious claims of State misconduct, including Brady and Napue violations, were apparent from the trial record. Because they could have been raised on direct appeal, they were waived. They are presented here as clear evidence of appellate counsel's constitutionally deficient performance for failing to identify and argue these plain, reversible errors.
+
+Appellate counsel was ineffective for failing to raise the meritorious claim that the State violated due process rights by suppressing exculpatory evidence and knowingly presenting false testimony.
+
+1. Bad Faith Destruction of Materially Exculpatory Evidence: The State’s failure to preserve and subsequent destruction of Officer Troy Pierce’s body-worn camera (BWC) recording of the initial disclosure was not a mere oversight but an act of bad faith that violated Petitioner’s due process rights under Brady v. Maryland, 373 U.S. 83 (1963) and Arizona v. Youngblood, 488 U.S. 51 (1988). The State had an absolute duty to preserve this recording, which was manifestly exculpatory. According to Officer Pierce’s own report, the initial disclosure established a narrow and fundamentally exonerating timeframe of November-December 2018 (Ex- A1-A5)—a period when Petitioner did not reside in the home (Ex- J1-J6). It also contained a starkly different factual account: the incident occurred on the "couch," and the defendant only "tried to get her to touch his penis, but she did not." The recording of this first, unfiltered account was never provided to the defense and was destroyed (Ex- G5-G6, Tr. III, pp. 42-44). The inference of bad faith is proven by a clear pattern of selective preservation. Within the same hour that Officer Pierce called Jeff Jackson and received the original exculpatory information he documented and recorded with his BWC and uploaded as he testified to. (Ex- F17-F18, Tr. II, pp. 116-117). He interviewed Tiffaney Norton and again recorded and uploaded this non-exculpatory interview which was preserved and in the record. The preservation of Tiffaney’s interview demonstrates that the BWC equipment was fully functional and that the officer was competent and compliant in its use. Officer Pierce’s own report confirms this, explicitly stating: “Department issued Body Worn Camera WAS used during this call for service, The file was stored in the appropriate Digital Evidence System in compliance with current department procedures” (Ex- A5), a process to which he also testified under oath (Ex- F17-F18). The preservation of the useless recording alongside the destruction of the exonerating one is circumstantial evidence of bad faith more compelling than any evidence the State presented in this case. See Cuesta-Rodriguez v. State, 2010 OK CR 23, 27, 241 P.3d 214, 225 (Oklahoma courts infer bad faith from patterns of selective evidence handling in Brady/Youngblood claims).
+
+The State's inevitable argument that a police report summary rendered the destruction harmless is disingenuous and directly contradicted by its own trial strategy. The prosecution’s heavy reliance on the video of the complainant's forensic interview—playing it for the jury (Ex- G2, Tr. III, pp. 121-122), replaying clips during closing arguments (Tr. IV, pp. 19-32+), and urging jurors to watch it again—underscores the profound materiality of the destroyed BWC recording. The State did this because it understands Seeing or Hearing with your own eyes and ears delivers a message with an emotional force a paper document can never replicate. It is a double standard the Court must reject to now ask that a bare-bones summary be accepted as an adequate substitute for the defense’s equivalent best evidence.
+
+2. Suppression of Exculpatory Witnesses: The State’s misconduct continued with a two-fold violation of its constitutional duties: it suppressed exculpatory testimony from its own expert witnesses These actions were calculated to conceal weaknesses in the State's case, violating Brady v. Maryland, 373 U.S. 83 (1963) The State’s witness list included DHS workers Kayla McMahon and David Young, proffering that they "conducted interviews along with law enforcement." Despite this, the State rested without calling them. In a case built entirely upon inconsistent testimony, the only logical conclusion for withholding these specialized expert witnesses is that their testimony would have been unfavorable to the State’s case and, therefore, exculpatory for the defense. This suppression violated the State's obligations under Brady. The State's destruction of exonerating evidence and its suppression of exculpatory testimony left unchallenged by appellate counsel, constitutes a direct assault on the truth-seeking function of the court and a complete disregard for the principle of 'particular caution and deliberation.' See Davis v. State, 1954 OK CR 54, 10, 269 P.2d 1005, 1008.
+
+F. Failure to Raise the Meritorious Claim That the Testimony Required Corroboration Therefore the Evidence Was Legally Insufficient Under Jones v. State.  
+Although a generic claim of insufficient evidence was raised on direct appeal and is now subject to res judicata, the claim presented here is distinct and not barred. The meritorious issue is that appellate counsel was constitutionally ineffective for failing to argue the correct and controlling legal standard under Oklahoma's unique corroboration requirement as established in a century of jurisprudence from Salyer v. State, 1988 OK CR 246, 8, 761 P.2d 890, 893, to Jones v. State, 1988 OK CR 281, 10, 765 P.2d 800, 802. This failure to subject the claim to meaningful adversarial testing under the proper legal framework constitutes deficient performance properly before this Court for the first time.
+
+Appellate counsel was ineffective for raising a constitutionally deficient sufficiency of the evidence claim, thereby failing to subject the issue to meaningful adversarial testing and bypassing Oklahoma's controlling legal framework. While a generic sufficiency claim was raised and is now subject to res judicata, the claim of IAAC for failing to raise the correct and far more powerful sufficiency argument is a distinct issue properly before this Court.
+
+The Complainant’s Testimony Was So Thoroughly Impeached as to Be Unworthy of Belief, Requiring Corroboration. Under Oklahoma law, a critical exception to the general rule on uncorroborated testimony is, where that testimony is not lucid, clear, and unambiguous it requires corroboration to sustain a conviction. The court's issuance of OUJI-CR 9-20 over the state's arguments (Ex- k6 K7) advised the jury of inconsistent statements existing called “Impeachment evidence” while this is a credibility instruction for the jury to determine believability, it still serves to show the testimony was in fact NOT lucid, clear, and unambiguous which a century of Oklahoma jurisprudence has held requires corroboration. This exception, established in cases from Salyer v. State, 1988 OK CR 246, 8, 761 P.2d 890, 893, to Jones v. State, 1988 OK CR 281, 10, 765 P.2d 800, 802, mandates that testimony requires corroboration when it "has been so thoroughly impeached as to be unworthy of belief." See also Camron v. State, 1992 OK CR 17, 12, 829 P.2d 47, 51 (reaffirming corroboration requirement for inherently improbable or impeached testimony in sexual abuse cases). The complainant’s testimony in this case falls squarely within this exception.
+
+The Location and Core Allegations Fundamentally Changed. The initial report to law enforcement placed the incident on the living room couch.(Ex- A3) In every subsequent telling, the location permanently shifted to the master bedroom..(Ex- B13) A core allegation evolved from an unsuccessful attempt where the complainant stated the defendant "tried to get her to touch his penis, but she did not"(Ex- A3) to a completed act of force.(Ex- F10 TrII P252) Most critically, the allegation of digital penetration appeared only in preliminary hearing. (Ex- D7 Phc p18-19) During the forensic interview explicitly denied it, stating, "he didn't actually go inside inside” (Ex- B9) And at Trial she didn't remember this traumatic experience ((Ex- F9 TrII p253) The Allegations Are Inherently Improbable. Beyond being impeached, the testimony is inherently improbable under Morris v. State, 1913 OK CR 104, 131 P. 731 (1913). The single charged incident but was improperly charged twice, allegedly occurred with the bedroom door OPEN while five other children were awake and active in the nearby living room.(Ex- B2,B3) Another alleged attempt occurred on a couch while the complainant's mother was cooking in the kitchen feet away and another child was sitting on the same couch.(F21 Tr II p264) These scenarios are so fraught with the risk of instant exposure as to be unbelievable on their face.
+
+Conclusion on Insufficiency. Because the testimony was thoroughly impeached, inconsistent and inherently improbable, it doesn't meet just one as required, it meets all three prongs and the exception from Morris and Jones now require corroboration. The State provided no corroboration. Therefore the evidence is insufficient to sustain the conviction as a matter of law and the case must be reversed. Appellate counsel’s failure to raise this powerful, multi-pronged insufficiency argument was constitutionally deficient and prejudicial. See Jackson v. Virginia, 443 U.S. 307, 319 (1979) (evidence must be sufficient for any rational trier of fact to find guilt beyond a reasonable doubt).
+
+By failing to invoke the specific legal framework established by Oklahoma courts for precisely these types of cases, appellate counsel abandoned the very mechanism of 'particular caution and deliberation' designed to protect the accused, rendering the sufficiency challenge meaningless. See Davis v. State, 1954 OK CR 54, 10, 269 P.2d 1005, 1008.
+
+G. Failure to challenge the court’s reliance on a fundamentally flawed and unconstitutional Pre-Sentence Investigation (PSI) report: The report was riddled with critical errors that poisoned the sentencing process.
+
+1. Denial of Right to Be Heard: The PSI explicitly notes, “Defendant’s Version: This information was not requested by the court.” This constitutes a direct violation of 22 O.S. § 982(D) and DOC Policy OP-160301, denying Petitioner his fundamental right to be heard by omitting his version of events.
+
+2. Improper Prosecutorial Influence: The “Official Version” was not a neutral summary but was copied verbatim from the Affidavit of Probable Cause at the specific direction of the prosecutor, as documented on the PSI cover sheet. This demonstrates a complete bypass of any objective investigation.
+
+3. Inclusion of Uncharged and False Allegations: The report was prejudiced by the inclusion of unsubstantiated claims that Petitioner sent nude images to a former babysitter. These allegations were never charged and have been proven false, yet were presented to the court as fact.
+
+4. Demonstrably False and Unverified Information: The PSI contains a material error, listing the forensic interview date as July 19, 2019, which was directly contradicted by trial testimony establishing the date as July 22, 2019. This error exemplifies the report's overall lack of independent verification, as required by policy.
+
+A sentence based on such a materially inaccurate, unverified, and procedurally flawed report violates due process under Townsend v. Burke and Gardner v. Florida. This error is not harmless and independently warrants reversal.
+
+H. Failure to Challenge the Court's Abandonment of Its Gatekeeping Duty  
+Appellate counsel was also ineffective for failing to challenge the trial court’s abdication of its constitutional and statutory duty to control the evidence presented to the jury, a structural error that violated due process and the Oklahoma Evidence Code. The error stems from the court's admission of one exhibit and the jury being shown another. At the pretrial hearing under 12 O.S. § 2803.1, the court reviewed a specific disk labeled "State's 1." The forensic interviewer, Christi Cornett, authenticated this disk and testified it was signed and dated. The court made the required statutory findings of reliability for this disk alone and ordered it admitted and physically relabeled as "Court's 1, However, the trial record and physical evidence prove the jury was not shown "Court's 1." Instead, they were shown a different disk labeled "State's 6." There is no record that the judge ever reviewed "State's 6" or made the mandatory reliability findings for its admission. The disks are visually distinct in the record, and neither bears Ms. Cornett's signature or shows evidence of being relabeled, creating a broken chain of custody.
+
+By allowing the State to publish an un-vetted, substitute exhibit to the jury without the court's preliminary scrutiny, the trial court rendered its gatekeeping function under § 2803.1 meaningless. This permitted the State to bypass a critical procedural safeguard and deprived Petitioner of his right to a conviction based solely on properly admitted evidence. This fundamental breakdown in the court's control over its own proceedings is a structural error that undermines the integrity of the verdict.
+
+**PROPOSITION III**  
+**THE CUMULATIVE EFFECT OF APPELLATE COUNSEL'S NUMEROUS DEFICIENCIES DEPRIVED PETITIONER OF A FAIR AND MEANINGFUL DIRECT APPEAL.**
+
+Should this Court find that no single error raised in Proposition II is sufficient on its own to establish prejudice under Strickland, Petitioner asserts that the combined effect of these errors, when viewed together, undermines all confidence in the outcome of the direct appeal. This Court has long held that even when errors viewed separately do not amount to reversible error, their cumulative effect may deprive a defendant of a fair trial. See Thornburg v. State, 1999 OK CR 32, 31, 985 P.2d 1234, 1246 (cumulative error warrants relief when errors collectively render the proceeding unfair). The failure to challenge hundreds of instances of pervasive prosecutorial misconduct, to identify and argue improper vouching for an Impeached Witness to raise the coerced waiving of constitutional rights, to argue actual innocence, to communicate with client, to argue the correct and controlling standard for insufficiency of evidence under Oklahoma law, to raise the State's bad faith destruction of exculpatory evidence; and the failure to challenge trial counsel's open-court ambush of his own client,
+
+This cascade of errors, taken together, cannot be considered harmless and deprived Petitioner of his constitutional right to the effective assistance of counsel and a meaningful appeal.
+
+**PROPOSITION IV: PETITIONER IS FACTUALLY INNOCENT**
+
+**Standard of Review** – To establish actual innocence, a petitioner must demonstrate that “it is More likely than not that no reasonable juror would have found petitioner guilty beyond a reasonable doubt.” Schlup v. Delo, 513 U.S. 298, 327 (1995). This standard requires “evidence of innocence so strong that a court cannot have confidence in the outcome of the trial.” McQuiggin v. Perkins, 569 U.S. 383, 401 (2013). Actual innocence is recognized in Oklahoma as both a gateway to otherwise barred claims and a freestanding ground for post-conviction relief. Osborn v. State, 2011 OK CR 6, 22, 251 P.3d 756, 764; Fowler v. State, 1995 OK CR 29, 12, 896 P.2d 566, 572. The Supreme Court has “consistently reaffirmed the existence and importance of the exception for fundamental miscarriages of justice.” Fontenot v. Crow, 4 F.4th 982, 1030 (10th Cir. 2021). See also Cannon v. Gibson, 259 F.3d 1253, 1261 (10th Cir. 2001) (actual innocence overcomes procedural bars in habeas review).
+
+**Argument:** This proposition demonstrates that the State’s case collapses under its own weight, A physical impossibility is documented by the testimony of its own witnesses in the trial record alone— When combined with Newly Presented Evidence,It becomes overwhelming and proves the alleged acts could not have occurred in the only timeframe ever alleged, Representing a Fundamental Miscarriage of Justice. Where no reasonable juror, aware of the full truth, could find guilt beyond a reasonable doubt. The newly presented evidence is a direct result of Ineffective Assistance of Counsel, as addressed in Propositions I and II.
+
+A. The Systematic Evolution of Allegations Demonstrates Fabrication, Not Memory  
+The allegations against Petitioner did not emerge as a stable account of trauma, but evolved dramatically and systematically, escalating in severity precisely when needed to advance the prosecution’s case. This pattern is inconsistent with genuine memory and strongly indicative of coaching or manipulation. See United States v. Cline, 349 F.3d 1276, 1287 (10th Cir. 2003) (changes in child's testimony after repeated interviews raise reliability concerns):
+
+July 14, 2019 (Police Report, Officer Pierce): occurred in living room on couch, no mention of mom gone and stated she “Did NOT touch Dallas penis” and alleged event occurred Nov–Dec 2018. Report shows after 08:00 11/29/18 before 23:00 12/25/2018 (Ex- A1-A2)
+
+July 22, 2019 (Forensic Interview): Touched “wrong place”, occurred in mom’s bedroom. Mom was at the casino (Ex- B14) “tried to make”(Ex- B1) touch penis indicating a failed attempt as stated in the police report – evolves to – grabbed my hand and made me touch – (Ex- B2) “after” continued questioning. Asked about penetration, she says “between the skin,”(Ex- B11) specifically denies penetration, stating “not inside inside,”(Ex- B9) and confirms again when asked. She also stated occurred before they got married.(Ex- B3)
+
+July 29, 2019 (VPO Hearing): No mention of penetration. Doesn’t initially mention Attempted Penis touch when exiting the allegations,(Ex- C16 VPO p7) when 3 pages later, after talking about several other things, She's asked if there's anything else? And says “He TRIED to make me touch his penis”(Ex- C2 VPO p10) again indicating no contact. Multiple times she confirms the original Nov–Dec 2018 through questioning on pages 13, 16, and 22: “It was before last Christmas,” “I told them it happened like a month, like months ago,” “…Happened before last Christmas…” (Ex- C3,C5,C6) Admits to conversations with Dad and stepmom about court that day. “Yeah, only a little bit though.” (Ex- C8 Vpo p26) Denies ever saying it happened on a couch (Ex- C13 VPO p14) Every other detail changes except the description of when it allegedly occurred stays consistent through questioning.
+
+January 15, 2020 (Preliminary Hearing): Penetration introduced for the first time (Ex- D7) PHC p18-19) –Made to touch Penis returns (Ex- D8 PHC p23) Mom was at a Concert now (Ex- D18 PHC p15)-- States “in the middle of fifth grade,”(Ex- D4 PHC p12) completely rules out 4th grade, and again confirms 5th grade (Ex- D11 PHC P45) describes as “a long time” after they moved in,(Ex- D10 PHC p44) and “About medium time before” Christmas trip to dads (Ex- D14 PHC p53) Before they got married, But doesn’t know if they were married in December 2018, (Ex- D9 PHC p43) Again, all statements align to December 2018 except “before they got married” which she admittedly isn't sure when that occurred, she attributes the wedding to 1.5yrs after move in (Ex- D13 PHC p50) which would again associate with the original Timeframe. Then Tiffaney testifies Petitioner moved out in summer of 18’ (Ex- D6 PHC p65) Didn't return until after Christmas and before new years (Ex- D16 PHC p68) Brionna went to her dad's for Christmas on December 22nd 2018 (Ex- J7) and she didn't return until January 5th 2019 (Ex- J8) Proving the crime could not have occurred, as alleged.
+
+June 22–24, 2022 (Trial): The complainant’s trial testimony was fundamentally unreliable, marked by new memory failures and direct contradictions of previous testimony. She testified she couldn’t remember if penetration occurred (Ex- F9 TrII p253) and claimed at least 3 separate times she was on her back (Ex- F8,F15,F16 TrII p291,251,248) directly repudiating her forensic interview statement that she was “on [her] stomach, nothing happened on back.” (Ex- B10,B11,B4)
+
+The State built its case around her assertion that the event occurred “before they got married” Interpreting that to mean the actual June 2018 marriage day, However, cross-examination revealed a devastating piece of information for the state's case, Brionna's memory also refers to late 2018 as before they got married as evidenced by her answer to when Petition was in a relationship with Shyanne Pike: A. Yeah. It was like before they got married and -- because they got together after that again Q I’m sorry?” “A They got --so they had gotten married. But before that -— like they broke up before they got married, and then they got together again. And then they got divorced” (Ex- F4 Tr Vol II p292293) Brionna just clarified– She never stated any other timeframe, she interprets that same December 2018 Time as being “Before they got married”--The last piece to the Puzzle.
+
+The error was the State’s assumption that her personal memory aligned with the legal marriage date—and a date she admitted she did not know. Looking back at every instance that Brionna testified as a whole, It's clear. The prosecution ignored this context and clung to the ambiguous phrase to manipulate the timeline. In closing arguments, the ADA falsely claimed, “Nobody ever said 2018,” and then attempted to shift the timeline to Christmas 2017. This theory is directly refuted by the Petitioner’s message logs, which prove the children were home in Oklahoma and did not travel to Arizona that year, establishing the false testimony given by Jeff Jackson, Tiffaney Norton, and Brionna Jackson regarding her “Annual trips” and how she goes every year- 2017 was the first year Jeff Jackson lived in AZ, the fact is 2018 is the ONLY Christmas Brionna spent in Arizona. (Ex- J9,J10) This false testimony is clearly indicative of outside influence, driven by multiple documented conversations with family and law enforcement. A child’s statement that changes to include more serious acts only after repeated interviews, raises significant concerns about its reliability ” United States v. Cline, 349 F.3d 1276, 1287 (10th Cir. 2003). (Ex- F9,F8,F16,F15,B10,B4,F4,J9,J10,C8,C9,C10,C14, C15,B15,B6)
+
+B. Petitioner’s Evidence Establishes Physical and Temporal Impossibility of Alleged Offense: The Petitioner’s absence from the Fawn Run home during the alleged timeframe of November–December 2018 is substantiated by irrefutable documentary and testimonial evidence, rendering the complainants timeline physically and temporally impossible. On September 4, 2018, the Petitioner signed a lease for a new residence (Ex-J1). A photograph dated September 8, 2018, depicts a truck and trailer in front of the new residence, confirming the move (Ex- J2). The county assessor’s website verifies that the house in the move-in photo matches the address on the lease (Ex- J3). Additionally, text messages from September 8, 2018, show the Petitioner discussing the move and appliances, including a message to Christi Lynn stating, “I’m in the middle of moving” (Ex- J4, J5). This documentary evidence—comprising contracts, digital records, and visual proof—confirms the Petitioner did not reside at the Fawn Run home from September 8, 2018, to December 30, 2018.
+
+Complainant’s Testimony Anchors Allegation to Late 2018  
+The complainant’s consistent testimony further corroborates the Petitioner’s absence during the alleged timeframe. In every instance of sworn testimony, the complainant anchored the alleged events to late 2018, specifically “before Christmas” when she was in fifth grade and “before they got married” (Ex- B3, C3, C5, C6, D11, D13, F4). Key statements include:   
+- “It was before Christmas” (VPO p. 13).  
+- “All of these events happened before Christmas last year… The one I told you first happened before Christmas” (VPO p. 22).  
+- “Certainly not when you were in 4th grade? A. No. Q. It was when you were in fifth grade? A. Yes” (PHC p. 49).  
+
+Then concerning the “Before they got married” statements, Brionna was questioned Regarding Shyanne Pike which was a woman Petitioner became involved with during the 2018 separation, Brionna identified her as the Petitioner’s ex-girlfriend, When asked when this was she stated: “It was like before they got married and…” (Tr. Vol. II p. 292-293). Proving The complainant’s reference to “before they got married” first stated in the forensic interview, aligns with the window of late 2018, a period when the Petitioner was involved with Shyanne Pike and indisputably no longer resided at the Fawn Run home, The State’s own witnesses, including the prosecutor, acknowledged the Petitioner did not live at the home during this period and never spent the night there (Ex- F13, H1,H2).
+
+Conclusion: Physical and Temporal Impossibility  
+Despite the complainant’s timeline and the Petitioner’s documented absence, the prosecutor knowingly presented a false narrative, violating constitutional duties under Brady v. Maryland, 373 U.S. 83 (1963), and Napue v. Illinois, 360 U.S. 264 (1959). The State’s case rests solely on the November–December 2018 window, as consistently affirmed by the complainant’s unwavering testimony. However, the Petitioner’s documented move on September 8, 2018, supported by a lease, photographs, digital records, and text messages, combined with the complainant’s timeline and testimony from the State’s own witnesses, establishes that the Petitioner did not reside at the Fawn Run home during the alleged period. This creates a factual and physical impossibility, as the Petitioner could not have been present to commit the alleged acts. The prosecutor failed to disclose the exculpatory nature of her witnesses’ statements, which confirmed the Petitioner’s absence during the alleged timeframe. Instead she argued “Nobody ever said 2018” Which was unequivocally false. This conduct violated the Petitioner’s Due Process rights under Brady, Youngblood, Napue, Spuehler v. State, 1985 OK CR 132, 709 P.2d 202, and Jackson v. Virginia, 443 U.S. 307 (1979).
+
+C. Behavioral Evidence Demonstrates a Profile Inconsistent with Abuse  
+The State’s theory of the case fails when confronted with objective behavioral evidence that is medically and clinically inconsistent with the profile of a child victim of abuse. The complainant’s own actions and communications, as documented in real-time, directly contradict the expected behavioral sequelae of trauma and instead demonstrate a pattern of continued affection, trust, and initiative-seeking with the Petitioner.
+
+1. Authoritative Medical Literature Establishes the Expected Behavioral Profile of an Abused Child: Prominent medical and governmental authorities uniformly recognize that children who have been abused, particularly in the context of a known caregiver, exhibit clear and identifiable behavioral symptoms. These are not minor personality shifts, but significant changes in affect and interaction:  
+· The American Academy of Child & Adolescent Psychiatry notes that abused children characteristically exhibit avoidance, fear, regression, or withdrawal. Practice Parameter on Child Sexual Abuse, 36 J. Am. Acad. Child Adolescent Psychiatry 120 (2017).  
+· The Los Angeles County Department of Children and Family Services, in its official policy manual, lists behavioral indicators including "withdrawn behavior," "poor peer relationships," and being "overly compliant" or "fearful." DCFS Policy: Child Abuse and Neglect.  
+· The National Center for Biotechnology Information (NCBI), a resource of the U.S. National Library of Medicine, details common presentations including "behavioral concerns," "developmentally inappropriate sexual behavior," and "sleep problems." StatPearls, Child Abuse and Neglect (2023) This collective clinical understanding establishes that a legitimate victim would demonstrate a marked negative shift in their demeanor and interactions with the alleged abuser.
+
+2. The Complainant's Documented Behavior is Medically Incompatible with this Established Profile. The newly presented evidence—time-stamped photos and messages—reveals a behavioral pattern that is the antithesis of the avoidance, fear, and withdrawal described above. This evidence covers the entire period of the alleged abuse, from September 2017 through the fall of 2018.  
+· Evidence of Initiative and Affection, Not Avoidance: Contrary to her testimony that she never asked to see the Petitioner, messages show the complainant’s mother reporting that "she says she misses u all the time and ask to go over there all the time.." (Ex-J12, Nov. 21, 2018) and "she wanted to go cause she missed you" (Ex-J13, Oct. 20, 2018).  
+· Evidence of Trust and Normalcy, Not Fear or Withdrawal: The complainant continued to engage in normal, positive one-on-one activities with the Petitioner, including a fishing trip where she was reported to be "having fun" (Ex-J13, Ex-J19), and a visit with Santa (Ex-J15). A child suffering the fear and regression associated with abuse would be highly unlikely to willingly seek out or enjoy such isolated contact.  
+· Direct Expressions of Affection: Messages sent directly from the complainant to the Petitioner, such as "I miss you daddy" and "Love you" (Ex-J19, J20, J37, J38), further demonstrate a sustained emotional bond that is clinically incompatible with the trauma of ongoing abuse.  
+
+Conclusion: The complainant’s sworn testimony, viewed in isolation, presented a behavioral narrative that a jury might find consistent with abuse. However, when measured against the unimpeachable, real-time documentary evidence, that narrative collapses. Her actual behavior—persistently seeking contact, expressing affection, and enjoying unsupervised outings—forms a profile that is, according to established medical authority, incompatible with the hypothesis that she was being abused during this same period. The failure of trial counsel to present this powerful exculpatory evidence, which eliminates all possible timeframes for the alleged abuse, prejudiced the outcome and warrants a new trial.
+
+D. Travel and Room-Sharing Timelines Further Confirm Impossibility  
+Brionna Left for Arizona on December 22, 2018: Message logs confirm departure on December 22, 2018, returning January 5–6, 2019 Petitioner moved back December 30, 2018 They were never in the home together during the alleged window (Ex- J7,J6,J8)  
+
+Brionna had her own room after Aug. 1, 2018: B.J. testified she had own bedroom during VPO hearing Petitioner's children lived with her until August 1, 2018, when they moved to their Mother’s Thus, no private room existed before August 1, 2018.(Ex- C4,B8,J16,J17,J18)  
+
+The “Christmas Trip” Can Only Be 2018: B.J.’s Consistent references to a Christmas trip to Arizona cannot be 2017 as photos show her at home on December 25, 2017—This potential argument of 2017 was introduced by Jennifer Austin in closing arguments after her false “Nobody ever said 2018” statement, Thus this evidence acknowledges that position and proves it also fails (Ex- D14,J9,J10)
+
+E. Post-2018 Conduct Confirms Innocence Even after the Time-Frame for the alleged abuse B.J engaged in affectionate bonding with Petitioner: School projects together – Daddy-daughter dance – Skating trips – Painting nails with other siblings – May 3, 2019 photo: B.J. in Petitioner’s coveralls, captioned “Look I’m Dad” (Ex--J14,J15,J21,J22,J23,J24J25,J26) This continued, joyful relationship is incompatible with claims of abuse. And further shows, according to Brionna’s previous testimony, after the alleged event, she never participated in things like this with Petitioner.
+
+F. The State’s Case Relies on False and Impeached Testimony  
+The State presented no corroborating evidence —Instead, it relied on witnesses whose testimony was thoroughly impeached, severely contradicted, inherently improbable, or categorically false:  
+· Brionna Jackson: Inconsistent, Improbable and Impeached OUJI-CR 9-20 given, as outlined in Proposition II (Ex- K6)  
+· Jeff Jackson: Inconsistent, Improbable and Impeached OUJI-CR 9-20 given as outlined in Proposition II (Ex- K7).  
+· Bailey Ferguson: Entire testimony concerning work history proven false outlined in Proposition II  
+· Detective Sean Judy: Lied under oath, Proven by official documents and previous testimony as outlined in Proposition II  
+· Tiffany Norton: Contradicted her own sworn testimony as well as Brionna's and gave knowingly false testimony as outlined previously in Proposition II  
+· Christy Cornett: Admitted the appearance of coaching during the hearsay hearing then denied it at trial as outlined previously in Proposition II  
+· Officer Troy Pierce: The only unimpeached State witness,
+
+G. Brionna's Story: "She just knows it was before they were married”  
+Ms. Austin spent a considerable amount of time in closing arguments emphasizing the Importance of Listening to only what Brionna says, and explaining how easily detail can be Overlooked or interpreted incorrectly. Jennifer Austin made this point in her closing Arguments in a more persuasive way than I can convey when she Vouched for how credible And believable Brionna was and That nothing else was important but— “listening to Brionna Jackson's story” “It's her story to tell no one else’s” “You get it from the child, not from a second person, not from a third person, not from a fourth person. You get it from the child. And that’s the testimony That we’re presenting to you ""her story’s what’s important” “It’s Like if someone’s calling 911 and saying, here’s what’s happened. And then people get out. They just saw something happen, but they may be totally misunderstanding what something was that happened. That’s why you talk to the person, the person itself that something happened to, and you get the details from them. And that’s what they did in this particular case ""She just knows it was before they were married” So let's in fact take Ms Austin's Advice and Listen to Brionna's story– “It was before they got married” “Before last Christmas” “In the Middle of 5th grade, “A long time after moving into the home” “It was Certainly not in 4th grade, but in 5th grade” “Like medium time before” The Christmas trip to her dad’s” also “It was Nighttime” and “Before last Christmas”–  
+
+And one last thing Ms. Austin argued "So it’s all how The question is Asked” and apparently she was correct because when Brionna was asked– "Do you know who Shyanne Pike is? A Yes” “Would you tell them who —- the jurors who Shyanne Pike is? A It’s his ex—girifriend” “Q And when you say ex-girlfriend of Mr. Norton’s, but did you hang out with her some and spend time with her? A Yes” “Q And when was that? Was that when -- obviously when he had moved out of your house and he and your mom were separated? Brionna says “A. Yeah. It was like before they got married and -- because they got together after that again Q I’m sorry?” “A They got --so they had gotten married. But before that - like they broke up before they got married, and then they got together again. And then they got divorced” We see that asking the question in a different way, did in fact clarify the answer.- The Testimony of the Complainant herself at different stages over 3 years remains with absolute unwavering certainty tha the crime she's alleging occurred a window of time- that by her own testimony and the sworn testimony of her own mother– Was Physically and Factually Impossible for DALLAS NORTON to have committed.
+
+Petitioner asserts this Newly Presented Evidence in Combination with Sworn Testimony from the Prosecution's Witnesses is “Evidence of innocence so strong that a court cannot have confidence in the outcome of the trial.” And that when viewed as a whole, being privy to the full record and evidence, “it is more likely than not that no reasonable juror would have found petitioner guilty beyond a reasonable doubt.” This is the definition of a “ fundamental miscarriage of justice” McQuiggin v. Perkins, 569 U.S. 383 (2013); Schlup v. Delo, 513 U.S. 298, 327 (1995); Fontenot v. Crow, 4 F.4th 982, 1030 (10th Cir. 2021).
+
+**CONCLUSION**  
+The principle of "particular caution and deliberation" articulated in Davis v. State, 1954 OK CR 54, 10, 269 P.2d 1005, 1008, is not a relic of a bygone era; it is a vital constitutional safeguard forged from this Court's recognition of a difficult truth: that the reprehensible nature of an accusation can obscure the presumption of innocence and lead to wrongful convictions. This case serves as a tragic testament to the consequences of its abandonment. At every critical stage, the system failed to exercise that caution. Appellate counsel was not merely deficient but functionally absent. Trial counsel did not just fail to object but actively sabotaged his own client in open court. The State did not just present a weak case but built its conviction upon selectively preserved evidence, known falsehoods, and a narrative that systematically evolved to overcome every emerging exculpatory fact. The documented alibi, the complainant’s own timeline, and her continued affectionate behavior—all were ignored in a rush to judgment fueled by confirmation bias. The Davis court’s warning was prescient. This case is precisely what happens when the system fails to guard against the inherent dangers of such a prosecution. It is the very reason the demand for "particular caution and deliberation" was established—to prevent the conviction of the innocent. The result here is a conviction that is not only legally unsound but factually and physically impossible, the very definition of a fundamental miscarriage of justice.
+
+To restore confidence in the outcome, to uphold the principles that protect the innocent from wrongful conviction, and to give substantive meaning to the demand for "particular caution and deliberation," this Court must grant relief.
+
+________________________________  
+Dallas C. Norton - Petitioner Pro-Se  
+DOC-2005998 E/F 01  
+Great Plains Correctional Center  
+P.O. Box 700 Hinton, Ok 73047  
+
+---
+
+**CERTIFICATE OF SERVICE**  
+I hereby certify under penalty of perjury under the laws of the State of Oklahoma that the foregoing is true and correct.
+
+Executed this ___ day of __________, 2025  
+
+_________________________________  
+Dallas Christopher Norton, Pro Se  
+Great Plains Correctional Center  
+Doc-2005998 EF-01  
+P. O. Box 700  
+Hinton, OK 73047  
