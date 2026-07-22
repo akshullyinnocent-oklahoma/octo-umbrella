@@ -1,0 +1,161 @@
+Here is the cleaned-up and formatted version of the District Court case docket from the Oklahoma State Courts Network (OSCN). All overlapping characters, text duplication, and OCR stutters have been removed to present a clear, chronological legal record.
+### **THE DISTRICT COURT IN AND FOR CLEVELAND COUNTY, OKLAHOMA**
+#### **STATE OKLAHOMA COURTS NETWORK (OSCN)**
+> **Notice:** The information on this page is NOT an official record. Verify all information with the official record keeper. Provided in compliance with the Oklahoma Open Records Act, 51 O.S. § 24A.1.
+> 
+### **CASE DETAILS**
+ * **Case No.:** CF-2019-1273 (Criminal Felony)
+ * **Style:** State of Oklahoma v. Norton, Dallas Christopher
+ * **Filed:** 10/22/2019
+ * **Closed:** 09/01/2022
+ * **Presiding Judge:** Thad Balkman
+### **PARTIES**
+ * **Dallas Christopher Norton:** Defendant
+ * **State of Oklahoma:** Plaintiff
+### **DEFENSE ATTORNEYS**
+ * **Charles Douglas** (Bar #24455)
+   130 East Eufaula, Norman, OK 73069
+ * **Keith Nedwick** (Bar #18431)
+   3750 W. Main Street, Norman, OK 73072
+ * **Heather Strohmeyer** (Bar #30745)
+   The Law Offices of Keith J. Nedwick
+   130 E. Eufaula, Norman, OK 73069
+### **COUNTS & DISPOSITION**
+ * **Count 1:** Lewd, Lewd or Indecent Acts to a Child Under 16 (21 O.S. § 1123)
+   * **Offense Date:** 06/01/2018
+   * **Disposition:** Conviction via Jury Trial (09/01/2022)
+   * **Sentence:** 18 Years Incarceration (Department of Corrections), followed by 7 Years Out on Probation/Supervision.
+ * **Count 2:** Lewd, Lewd or Indecent Acts to a Child Under 16 (21 O.S. § 1123)
+   * **Offense Date:** 06/01/2019
+   * **Disposition:** Conviction via Jury Trial (09/01/2022)
+   * **Sentence:** 25 Years Suspended Sentence (to run consecutively to Count 1).
+### **CHRONOLOGICAL CASE DOCKET**
+#### **2019**
+ * **10-22-2019 [TEXT]** — Criminal Felony Initial Filing.
+ * **10-22-2019 [INFORMATION]** — Defendant charged with Count 1 (21 O.S. § 1123).
+ * **10-22-2019 [INFORMATION]** — Defendant charged with Count 2 (21 O.S. § 1123).
+ * **10-22-2019 [TEXT]** — OCIS automatically assigned Judge Thad Balkman to this case.
+ * **10-24-2019 [CNOTE]** — Defendant arraigned.
+ * **10-24-2019 [CTFREE]** — Defendant appeared in person with counsel; ordered released upon posting a $10,000 bond. Hearing set for 11/05/2019 before Judge Lori Puckett. Conditions: No contact with State's witnesses, no contact with minors, no unsupervised contact with other minors.
+ * **10-24-2019 [BO]** — $10,000 Professional Bond posted for Count 1 by Liggons, Kim (Agent: Connie Allbritton).
+ * **10-24-2019 [EA]** — Entry of Appearance by the Law Offices of Keith Nedwick.
+ * **10-30-2019 [WAIS$]** — Arrest warrant issued by Judge Scott Brockman ($60,000 bond amount). *Note: Docket states error "NEVER ISSUED".*
+ * **10-30-2019 [RETWA]** — Warrant returned executed.
+ * **11-15-2019 [CTFREE]** — Preliminary Hearing Conference (PHC) set for 12-10-2019.
+ * **12-10-2019 [CTFREE]** — PHC reset to 01-21-2020 before Judge Puckett.
+ * **12-26-2019 [TEXT]** — Petition filed for Order of Disclosure of Records.
+#### **2020**
+ * **01-21-2020 [CTFREE]** — PHC reset to 03-03-2020 before Judge Puckett.
+ * **01-23-2020 [TEXT]** — Limited Entry of Appearance filed objecting to disclosure of records and moving for a Protective Order.
+ * **01-29-2020 [CTFREE]** — Hearing on Defendant's motion for Department of Human Services (DHS) records continued to 03-11-2020. Jessica Ward present for DHS.
+ * **03-03-2020 [CTFREE]** — PHC reset to 04-07-2020 before Judge Puckett.
+ * **03-11-2020 [O]** — Order signed by Judge Balkman directing disclosure of records to the court.
+ * **04-13-2020 [CTFREE]** — PHC reset to 06-16-2020 before Judge Puckett.
+ * **04-30-2020 [O]** — Order authorizing inspection of records and Protection Order signed by Judge Balkman.
+ * **06-16-2020 [CTFREE]** — PHC reset to 08-25-2020 before Judge Puckett.
+ * **08-25-2020 [CTFREE]** — Preliminary Hearing set for 11-13-2020 before Judge Puckett.
+ * **11-02-2020 [CTFREE]** — By agreement, the 11-13-2020 setting is stricken and reset to 01-15-2021.
+#### **2021**
+ * **01-15-2021 [CTFREE]** — Matter bound over and set for Formal Arraignment on 02-24-2021 before Judge Balkman (30 days waived).
+ * **01-26-2021 [AMIN]** — Amended Information filed officially introducing Count 2.
+ * **02-24-2021 [TEXT]** — Formal Arraignment held. Status conference set for August 11, 2021.
+ * **02-24-2021 [TEXT]** — Defendant's Motion for Discovery and Request for Law Enforcement Reports filed.
+ * **02-26-2021 [T]** — Original Transcript of Preliminary Hearing (held 01-15-2021) filed by reporter Tanya Burcham.
+ * **08-12-2021 [TEXT]** — Status conference held; next setting scheduled for 11-17-2021.
+ * **11-18-2021 [CTFREE]** — Status conference held. Jury Trial set for February 2022. Motion docket scheduled for 01-21-2022.
+ * **11-24-2021 [NO]** — State files Notice of Intent to introduce evidence as *Res Gestae* or under *Burks v. State*.
+ * **11-24-2021 [NO]** — State files Notice of Open File and Request for Discovery.
+ * **11-24-2021 [NO]** — State files Notice of intent to use statements of children 13 or younger under 12 O.S. § 2803.1.
+ * **11-24-2021 [TEXT]** — State files Witness List.
+ * **12-22-2021 [TEXT]** — Defendant objects to State's *Burks* / *Res Gestae* evidence notice.
+ * **12-22-2021 [TEXT]** — Defendant objects to State's intent to use child hearsay statements.
+#### **2022 (Trial and Sentencing)**
+ * **01-21-2022 [CTFREE]** — Pre-trial motions heard. Witness testimony taken. Court reviews State's Exhibit 1. Child hearsay admissibility deferred until target witness testifies at trial. Admissibility of *Burks* evidence continued to 01-31-2022. Jury trial confirmed for 02-01-2022.
+ * **01-21-2022 [TEXT]** — Defendant files Witness and Exhibit List.
+ * **01-31-2022 [CTFREE]** — Motion hearing continued. Court rules State is permitted to elicit testimony from witness B.F. regarding actions/comments of Defendant; ruled admissible as *Res Gestae*.
+ * **01-31-2022 [CTFREE]** — Case temporarily removed from public OSCN portal during the pendency of the jury trial.
+ * **02-01-2022 [CTFREE]** — Scheduled Jury Trial is stricken and delayed; Status Conference set for 03-09-2022. Case placed back on public OSCN.
+ * **02-18-2022 [TEXT]** — Defendant files Motion for New Trial.
+ * **03-10-2022 [CTFREE]** — Status Conference held; reset to 04-13-2022.
+ * **04-01-2022 [CTFREE]** — April trial settings stricken by agreement. Status Conference set for 05-04-2022 with a Jury Trial target date of 06-20-2022.
+ * **05-05-2022 [CTFREE]** — Status Conference held. Jury Trial locked for 06-21-2022 through 07-01-2022.
+ * **06-03-2022 [TEXT]** — Defendant files Amended Witness and Exhibit List.
+ * **06-21-2022 [CTFREE]** — Case taken down from public OSCN during trial pendency.
+ * **06-23-2022 [CTFREE]** — **Jury Trial Begins.** Jury selected and empaneled.
+ * **06-23-2022 [CTFREE]** — Opening statements made. State calls Tiffany Norton, B.J., Troy Pierce, and Baylee Ferguson. Following an *in-camera* review of witness Jeffrey Jackson's anticipated testimony, the court rules the child hearsay statements are admissible; Mr. Jackson testifies.
+ * **06-24-2022 [CTFREE]** — **Trial Day 2.** State calls Sean Judy and Christy Cornett. Court reviews Court Exhibit 1 and rules the forensic interview of the minor child is admissible. State rests. Defendant's Demurrer is overruled. Defendant rests. Jury instructions settled.
+ * **06-24-2022 [CTFREE]** — **Verdict.** Jury is instructed, closing arguments made, and the jury deliberates.
+   * **Count 1:** GUILTY — Punishment set at 25 years.
+   * **Count 2:** GUILTY — Punishment set at 25 years.
+     Defendant remanded into custody. Formal sentencing scheduled for 08-31-2022.
+ * **06-24-2022 [CTFREE]** — Trial concluded. Case restored to public OSCN.
+ * **06-24-2022 [BDXON]** — Initial $10,000 appearance bond officially exonerated following conviction.
+ * **06-29-2022 [VERD]** — Signed verdicts for Counts 1 and 2 filed under seal.
+ * **07-06-2022 [O]** — Order to conduct Pre-Sentence Investigation (PSI).
+ * **08-12-2022 [PSIR]** — Pre-Sentence Investigation Report submitted.
+ * **08-30-2022 [TEXT]** — Defendant files Sentencing Memorandum requesting a suspended sentence. State files objection to mitigation evidence.
+ * **09-01-2022 [CTFREE/J&S]** — **Formal Sentencing (Judge Balkman):**
+   * **Count 1:** 18 Years in prison (DOC custody), 7 Years out on supervised probation. Assessed $50 VCAA fee, DNA fee, court costs.
+   * **Count 2:** 25 Years Suspended Sentence, to run consecutively (*C/S*) to Count 1.
+     Special conditions for sex offenders applied. Rules and Conditions of Probation executed. Case officially closed.
+ * **09-06-2022 [CAPP]** — Certificate of Appeal issued (Appellate Case No. F-2022-746).
+ * **10-03-2022 [LT]** — Oklahoma Indigent Defense System (OIDS) appointed to represent Defendant on direct appeal.
+ * **12-19-2022 [NO]** — Notice of Completion of Record on Appeal filed. Court Reporter Angela Thagard files trial transcripts across multiple volumes.
+#### **2023 – 2024 (Direct Appeal)**
+ * **01-03-2023 [REQ]** — Two boxes of the official trial record shipped to the Court of Criminal Appeals.
+ * **07-08-2024 [MAN]** — **Mandate Received.** The Court of Criminal Appeals issues an order **affirming** the conviction and sentence via Summary Opinion.
+ * **07-17-2024 [CTFREE]** — Defendant's subsequent Motion for Suspended Sentence is denied by Judge Balkman.
+ * **11-27-2024 [CNOTE]** — Trial records returned from the Court of Criminal Appeals.
+#### **2025 (Post-Conviction Relief Begins)**
+ * **05-09-2025 [O]** — Court of Criminal Appeals issues order declining jurisdiction on an interlocutory matter (Case No. MA-2025-272).
+06-30-2025 	
+APPLICATION FOR POST CONVICTION RELIEF
+07-09-2025 	
+ORDER; STATE ORDERED TO RESOND TO DEF'S REQUEST FOR POST CONVICTION RELIEF W/IN 60DAYS RULING TO ISSUE ON OR BEFORE 9-9-25 (TB)
+07-24-2025 	
+ORDER FOR MOTION TO CONFROM W/ DISTRICT RULES (TB)
+08-11-2025 	
+MOTION TO DISQUALIFY DISTRICT ATTORNEY JENNIFER AUSTIN
+08-11-2025 	
+MOTION TO DISQUALIFY JUDGE LORI PUCKETT
+08-11-2025 	
+MOTION TO DISQUALIFY JUDGE THAD BALKMAN
+08-11-2025 	
+MOTION FOR DISCOVERY OF ALL CASE RELATED MATERIALS
+08-18-2025 	
+MOTION TO DISQUALIFY ASSISTANT DISTRICT ATTORNEY JACOBI WHATLEY
+10-07-2025 	
+APPLICATION FOR POST CONVICTION / DALLAS CHRISTOPHER NORTON / COPY TO JUDGE BALKMAN & DISTRICT ATTY OFFICE
+01-09-2026 	
+STATE'S RESPONSE TO PETITIONAERS'S APPLICATION FOR POST CONVICTION RELIEF
+Norton, Dallas Christopher
+01-12-2026 	
+ORDER DECLINING JURISDICTION AND DISMISSING MATTER / COURT OF CRIMINAL APPEALS MA-2025-1010
+01-20-2026 	
+ORDER: GENERAL LETTER FROM DEFENDANT; LETTER DIRECTED TO COUNSEL OF RECORD, STATE, AND COPY TO COURT FILE;NEXT SETTING IN CASE NA**PETITION FOR WRIT OF MANDAMUS ATTACHED*** (TB)
+01-20-2026 	
+PETITIONER'S RESPONSE TO CORRECT THE RECORD ON FALSE INFORMATION CONTAINED IN STATE'S REPLY & NOTICE OF ADMISSIONS PURSUANT TO RULE 13(E), RULES FOR DISTRICT COURTS OF OKLAHOMA, 12 OS CH2, APP
+01-21-2026 	
+PETITION FOR WRIT OF MANDAMUS / COPY TO DA, JUDGE AND DEFENDANT THIS DATE
+02-03-2026 	
+ORDER FROM THE COURT OF CRIMINAL APPEALS / ORDER DIRECTING A RESPONSE
+02-13-2026 	
+WRITTEN REQUEST FOR RE-HEARING TO THE CHIEF JUDGE OF THE DISTRICT COURT OF CLEVELAND COUNTY / COPY TO JUDGE & DISTRICT ATTY THIS DATE
+02-13-2026 	
+ORDER DENYING PETITIONERS APPLICATION FOR POST CONVICTION RELIEF (TB) / COPY TO SUPREME COURT AND DISTRICT ATTY THIS DATE
+02-19-2026 	
+NOTICE OF INTENT TO APPEAL PETITIONERS APPLICATION FOR POST CONVICTION RELIEF
+02-27-2026 	
+ORDER FROM COURT OF CRIMINAL APPEALS / ORDER DISMISSING REQUEST AS MOOT
+03-11-2026 	
+ORDER DENYING DEF'S REQUEST TO DISQUALIFY JUDGE THAD BALKMAN , JUDGE LORI PUCKETT, DISTRICT ATTORNEY JENNIFER AUSTIN AND ASSISTANT DISTRICT ATTORNEY JACOBI WHATLEY(LM)
+04-09-2026 	
+PETITION IN ERROR AND BRIEF IN SUPPORT OF APPEAL FROM FINAL JUDGMENT DENYING APPLICATION FOR POST-CONVICTION RELIEF / COPY TO JUDGE, DA OFFICE AND DEFENDANT THIS DATE
+04-14-2026 	
+CERTIFICATE OF APPEAL - # PC-2026-245
+04-15-2026 	
+NOTICE OF COMPLETION OF PC CASE ON APPEAL CASE NO. PC-2026-245
+04-22-2026 	
+REQUEST TO TRANSMIT RECORD ON APPEAL / COURT OF CRIMINAL APPEALS CASE NO. PC-2026-245 / FED EX SHIPPING RECEIPT ATTACHED
+05-26-2026 	
+MANDATE AFFIRMED / COURT OF CRIMINAL APPEALS ORDER AFFIRMING DENIAL OF APPLICATION FOR POST CONVICTION RELIEF ATTACHED
