@@ -1,0 +1,138 @@
+GROUND 28: FALSE STATEMENT "NO ONE EVER SAID 2018"
+
+Issue: Whether the prosecutor's knowing false statement during closing---that "no one ever said 2018"---violated due process by concealing the timeline impossibility from the jury.
+
+Rule: A conviction obtained through the government's knowing use of false evidence, or its allowance of false evidence to go uncorrected, violates the Constitution's Due Process Clause. Napue v. Illinois, 360 U.S. 264, 269 (1959). The prosecutor has an affirmative duty to correct false statements about the record; this duty exists regardless of whether the defense knows the truth. Woodall v. United States, 842 A.2d 690, 692 (D.C. 2004). The integrity of the evidence before the jury, not the defense's knowledge, governs the State's obligation. Paysun Long v. Pfister, 874 F.3d 544, 557 (7th Cir. 2017) (Hamilton, J., dissenting). Where the State misrepresents the record to conceal exculpatory evidence, reversal is required. Miller v. Pate, 386 U.S. 1, 7 (1967).
+
+Facts: The prosecutor told the jury "No one ever said 2018" (Tr. IV 95; Ex. H2). The record established the opposite: the police report listed the occurrence after 0800 Nov. 29, 2018 through 2300 Dec. 25, 2018 (Ex. A1-A2); the VPO testimony anchored events to "before last Christmas" and "before Christmas" (Ex. C3, C5-C6); the preliminary hearing testimony anchored to "middle of fifth grade" and "medium time before Christmas" (Ex. D4, D14). The complainant never placed the events outside late 2018. The prosecutor knew these records existed.
+
+Analysis: The false statement was not argument; it was a lie about the record that concealed from the jury the consistent December 2018 placement rendering the alleged crime physically impossible. Under Napue, the State may not knowingly use false evidence or allow it to go uncorrected. Under Woodall, "the responsibility and duty to correct [a known falsehood] and elicit the truth lies with the prosecutor." Under Paysun Long (Hamilton, J., dissenting), "Napue addresses not what the defense knows but the integrity of the evidence before the jury." The jury was entitled to know the truth from the government, not to be actively misled. Under Miller, this is a due process violation requiring reversal. The statement directly affected the jury's ability to evaluate the timeline evidence and undermined the defense theory of physical impossibility.
+
+Conclusion: The prosecutor's knowing false statement to the jury violated due process. The conviction must be vacated.
+
+---
+
+GROUND 29: IMPROPER VOUCHING FOR IMPEACHED COMPLAINANT
+
+Issue: Whether the prosecutor's repeated statements vouching for the complainant's credibility---after the court issued an impeachment instruction---violated due process by placing the government's prestige behind a judicially impeached witness.
+
+Rule: A prosecutor may not express personal belief in a witness's credibility. United States v. Young, 470 U.S. 1, 18 (1985). The test for improper vouching is whether the jury could reasonably believe the prosecutor was indicating a personal belief in the witness's credibility. United States v. Causey, 834 F.2d 1277, 1285 (6th Cir. 1988). By standing before the jury as the government's representative, the prosecutor embodies the office, and expressing personal belief places the prestige of the government behind the witness. United States v. Garcia, 758 F.3d 714, 717 (6th Cir. 2014) (concurrence). Such comments convey the impression that the prosecutor is aware of evidence unknown to the jury and induce the jury to trust the government's judgment rather than its own view of the evidence. State v. Quint, 97 Conn. App. 72, 904 A.2d 216 (2006) (dissent). Vouching is not cured simply because defense counsel attacked the witness's credibility; defense counsel does not open the door for prosecutorial vouching. People v. Rodriguez, 9 Cal. 5th 474 (2020).
+
+Facts: The court issued an impeachment instruction for the complainant (Ex. K6). The prosecutor nonetheless stated: "We know she's telling the truth" (Tr. IV 78, 81), "She has absolutely no motive to make this up" (Tr. IV 61), "She benefits from it in no way" (Tr. IV 72), "Brianna Jackson has absolutely no motive to make this story up and no motive to lie" (Tr. IV 72), "We know Brionna is telling the truth" (Tr. IV 81), and "She experienced it. That's not a detail you can make up... It happened to her" (Tr. IV 85). The prosecutor vouched for the complainant's truthfulness at least twenty-one separate times during closing.
+
+Analysis: The vouching directly contradicted the court's instruction that the complainant's testimony could be "not believable or truthful." Under Young, the prosecutor may not express personal belief in a witness's truthfulness. Under Causey, the test is whether the jury could reasonably believe the prosecutor was indicating personal belief---"We know she's telling the truth" satisfies this test. Under Garcia, the prosecutor "embodies the office," and placing the government's prestige behind an impeached witness is improper. Under Quint (dissent), such comments "convey the impression that the prosecutor is aware of evidence supporting charges against the defendant of which the jury has no knowledge" and "induce the jury to trust the Government's judgment rather than its own view of the evidence." The prosecutor usurped the jury's credibility function and undermined the impeachment instruction. Under Rodriguez, the defense's prior attacks on credibility do not open the door to vouching.
+
+Conclusion: The prosecutor's improper vouching for a judicially impeached witness violated due process. The conviction must be vacated.
+
+---
+
+GROUND 30: IMPROPER VOUCHING FOR IMPEACHED JEFFREY JACKSON
+
+Issue: Whether the prosecutor's vouching for Jeffrey Jackson's credibility---after the court issued an impeachment instruction---violated due process by placing the government's prestige behind a judicially impeached witness.
+
+Rule: Same authorities as above: United States v. Young, 470 U.S. 1, 18 (1985); United States v. Causey, 834 F.2d 1277, 1285 (6th Cir. 1988); United States v. Garcia, 758 F.3d 714, 717 (6th Cir. 2014) (concurrence); State v. Quint, 97 Conn. App. 72, 904 A.2d 216 (2006) (dissent); People v. Rodriguez, 9 Cal. 5th 474 (2020).
+
+Facts: The court issued an impeachment instruction for Jackson (Ex. K7). The prosecutor stated "we know he's not lying" (Tr. IV 65), "He knows those things for sure because we know he's not lying" (Tr. IV 65), and vouched for his truthfulness multiple times during closing. Jackson's testimony was the only evidence of the initial disclosure to law enforcement.
+
+Analysis: Jackson's testimony was critical to the State's timeline. The court had instructed the jury to view him with caution; the prosecutor's vouching directly contradicted that instruction. Under Young, the prosecutor may not express personal belief in a witness's credibility. Under Causey, "we know he's not lying" is an unmistakable expression of personal belief. Under Garcia, the prosecutor's position as government representative means such statements place the prestige of the State behind the witness. Under Quint (dissent), this usurps the jury's function and conveys the false impression that the prosecutor possesses extrajudicial knowledge of the witness's veracity. Under Rodriguez, the defense's attacks on Jackson's credibility did not open the door to vouching. Because Jackson was the sole witness to the initial disclosure, vouching for him was particularly prejudicial: the jury was told to trust the government's judgment on the very foundation of the investigation.
+
+Conclusion: The prosecutor's improper vouching for a judicially impeached witness violated due process. The conviction must be vacated.
+
+---
+
+GROUND 31: BURDEN-SHIFTING ARGUMENT
+
+Issue: Whether the prosecutor's argument that jurors unhappy with the investigation should "complain to the chief" rather than acquit shifted the burden of proof.
+
+Rule: "The Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged." Sandstrom v. Montana, 442 U.S. 510, 520 (1979). The State may not use arguments that have the effect of relieving it of its burden of persuasion beyond a reasonable doubt. Francis v. Franklin, 471 U.S. 307, 313 (1985). A prosecutor shifts the burden when suggesting "that the defendant has an affirmative duty to bring forth evidence of his innocence." Commonwealth v. Trinh, 940 N.E.2d 871, 881 (Mass. 2011).
+
+Facts: In closing, the prosecutor told the jury: "If you were unhappy with that investigation, the remedy to that is to not say, okay, we're just going to find him not guilty… Complain to the chief, Chief Foster. We'll give you his phone number" (Tr. IV 67-68). The defense's central argument was that the investigation created reasonable doubt.
+
+Analysis: The argument told jurors that acquittal was not the proper response to investigative failure---a direct shift of the burden. Under Sandstrom, the State must prove guilt beyond a reasonable doubt; the jury may not be told to seek administrative remedies when the State's case is weak. Under Francis, any burden-shifting violates due process. Under Trinh, the prosecutor shifted the burden by suggesting the defendant had a duty to prove innocence rather than the State having a duty to prove guilt. The prejudice is clear: the defense's entire case rested on reasonable doubt created by investigative failures; the prosecutor's response was to redirect the jury toward an administrative complaint rather than acquittal.
+
+Conclusion: The prosecutor's burden-shifting argument violated due process. The conviction must be vacated.
+
+---
+
+GROUND 32: INFLAMMATORY EPITHETS
+
+Issue: Whether the prosecutor's use of the terms "child molester," "abuser," "sex offender," and "monster" before verdict violated due process by stripping the presumption of innocence and inciting the jury's passions.
+
+Rule: A prosecutor may not use inflammatory epithets that compel the jury to focus on the grossness of alleged conduct rather than whether the defendant engaged in it. People v. Fletcher, 509 N.E.2d 625, 631 (Ill. App. Ct. 1987). Comments like "monster" and "sexual deviant" create inflammatory prejudice and "have no place in a courtroom." Kellogg v. Skon, No. 97-3237, 1999 WL 342332, at *3 (8th Cir. May 25, 1999). A prosecutor's duty is "not that it shall win a case, but that justice shall be done." Berger v. United States, 295 U.S. 78, 88 (1935).
+
+Facts: The prosecutor called Petitioner "abuser," "child molester" (Tr. IV 73, 93), and "sex offender" (Tr. IV 88) during closing argument, before any verdict was reached. She stated: "These crimes were a choice... He made a choice to be stepdad or child molester, and he crossed that line" (Tr. IV 93), and "that's what a sex offender says when they're trying to comfort a child while they molest them" (Tr. IV 88).
+
+Analysis: These terms stripped the presumption of innocence and inflamed the jury. Under Fletcher, a prosecutor may not use violent language or inflammatory remarks. Under Kellogg, epithets like "child molester" compel the jury to focus on the grossness of the alleged conduct rather than whether Petitioner engaged in it. The language was not evidence-based; it was character assassination designed to substitute moral outrage for proof. Under Berger, such "foul blows" render a trial fundamentally unfair. The use of these terms before verdict, particularly in a case with no physical evidence and impeached witnesses, was devastating.
+
+Conclusion: The prosecutor's inflammatory language violated due process. The conviction must be vacated.
+
+---
+
+GROUND 33: GOLDEN RULE ARGUMENTS
+
+Issue: Whether the prosecutor's arguments asking jurors to imagine themselves in the complainant's position violated due process by substituting sympathy for evidence.
+
+Rule: A so-called "golden rule" argument, which asks the jurors to place themselves in the position of a party, "is universally condemned because it encourages the jury to 'depart from neutrality and to decide the case on the basis of personal interest and bias rather than on the evidence.'" United States v. Palma, 473 F.3d 899, 902 (8th Cir. 2007). Such arguments are "generally improper because [they] encourage the jury to decide the case based on personal interest or bias rather than neutrality." State v. Lowery, 427 P.3d 865, 881 (Kan. 2018). Golden rule arguments are those asking jurors to "place themselves in the victim's position, imagine the victim's pain and terror." Braddy v. State, 111 So. 3d 810, 843 (Fla. 2012).
+
+Facts: The prosecutor asked a female juror to describe her "last consensual sexual encounter" to evoke discomfort (Tr. I 138-140). She commented, "I was uncomfortable for you" (Tr. I 139) and asked jurors to imagine testifying about such details "with 12 people in the box staring at you" (Tr. I 139). In closing, she urged jurors to "imagine" the complainant's experience: "in her little mind, when someone is touching her vagina... something bad has happened" (Tr. IV 23). The defense theory was timeline impossibility, not that the complainant was lying about her state of mind.
+
+Analysis: These arguments were designed to replace rational deliberation with emotional reaction. Under Palma, golden rule arguments are universally condemned. Under Lowery, they encourage juries to decide based on bias rather than neutrality. Under Braddy, asking jurors to imagine the victim's experience is the precise definition of a golden rule violation. The "consensual sexual encounter" question had no evidentiary basis and was calculated to inflame. The prejudice is manifest: in a case with no physical evidence, the appeal to sympathy became the State's primary tool.
+
+Conclusion: The prosecutor's golden rule arguments violated due process. The conviction must be vacated.
+
+---
+
+GROUND 34: MISSTATING LAW ON CREDIBILITY
+
+Issue: Whether the prosecutor's argument that only a "seasoned liar" would give consistent testimony misstated the law on witness credibility and inverted the jury's credibility function.
+
+Rule: The government cannot argue the credibility of a witness based on its reputation or allude to evidence not formally before the jury. United States v. Eyster, 948 F.2d 1196, 1201 (11th Cir. 1991). Prosecutor remarks that "did violence to the evidence itself" and "exceeded the bounds of propriety" constitute reversible error. People v. Goldstein, 763 N.Y.S.2d 390, 395 (N.Y. App. Term 2003). "It is unprofessional conduct for the prosecutor to express his personal belief or opinion as to the truth or falsity of any testimony or evidence." Commonwealth v. Caesar, 302 A.2d 846, 848 (Pa. Super. 1973).
+
+Facts: The prosecutor argued: "We wouldn't expect every single word to be the same… except from a seasoned liar" (Tr. IV 32). She further argued that the complainant's ability to provide sensory details was proof she "experienced it" and "that's not a detail you can make up" (Tr. IV 85). This equated inconsistency with truthfulness and consistency with fabrication.
+
+Analysis: The argument inverted the jury's credibility function. Under Eyster, the government cannot misstate credibility standards. Under Goldstein, remarks that "do violence to the evidence" exceed permissible bounds. Under Caesar, expressing personal opinion on truth or falsity is unprofessional. The prosecutor's argument was not based on evidence; it was a fabricated legal standard that consistency equals lying and that the presence of sensory details proves truth. In a case turning entirely on credibility, this error was devastating. The jury was instructed to distrust consistency and embrace inconsistency---the opposite of rational credibility assessment.
+
+Conclusion: The prosecutor's misstatement of credibility law violated due process. The conviction must be vacated.
+
+---
+
+GROUND 35: MISSTATING REASONABLE DOUBT AND CONDITIONING JURORS DURING VOIR DIRE
+
+Issue: Whether the prosecutor's "granny's potato soup" analogy, her false claim that jurors would receive no instruction on reasonable doubt, and her systematic conditioning of jurors during voir dire to accept a lowered burden of proof violated due process.
+
+Rule: A prosecutor engages in misconduct by trivializing the reasonable doubt standard through analogies to everyday experiences. United States v. Velazquez, No. 19-50158, 2021 WL 2494909, at *5 (9th Cir. June 23, 2021). The Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime. Sandstrom v. Montana, 442 U.S. 510, 520 (1979). The prosecutor may not attempt to define reasonable doubt for the jury; that is the exclusive province of the court. OUJI-CR 1-5. Voir dire may not be used to precondition jurors to accept a lower standard or to excuse the lack of corroborating evidence.
+
+Facts: During voir dire, the prosecutor used the "potato soup" recipe analogy to explain elements of a crime, equating the legal requirement of proof beyond a reasonable doubt to having all ingredients for a recipe (Tr. I 119-122). She told the venire "you're not going to get an instruction about what beyond a reasonable doubt means" and then defined it by what it "isn't"---"not beyond all doubt," "not beyond a shadow of a doubt" (Tr. I 186-187). She asked over 185 leading questions designed to condition jurors to excuse the lack of corroborating evidence: "Do you think that whenever a child is sexually abused that there are usually witnesses?" (Tr. I 130-131); "Do you think there is likely a lot of DNA evidence in crimes like this?" (Tr. I 131); "Do you believe that the State of Oklahoma could prove their case through the word of a child alone?" (Tr. I 160). She asked jurors if they would require the defendant to prove his innocence (Tr. I 179-181). She used personal anecdotes about her son and Oreos to illustrate circumstantial evidence and asked jurors to conclude he was guilty of eating cookies (Tr. I 117-118).
+
+Analysis: The "potato soup" analogy trivialized the most important protection in criminal law by comparing it to making a recipe. Under Velazquez, such comments "diverged significantly from what is required at trial" and were "highly inappropriate and misleading." The false statement about jury instructions misled jurors about their role and the law. The systematic leading questions were designed to precondition jurors to accept the complainant's testimony as sufficient without corroboration, to excuse the lack of physical evidence, and to normalize delayed disclosure---all before a single piece of evidence had been introduced. Under Sandstrom, the State must prove guilt beyond a reasonable doubt; the jury may not be conditioned to accept a lower standard. The prejudice is structural: the jury was primed to convict based on a diluted understanding of the Constitution's central protection and a pretrial commitment to the State's theory of the case.
+
+Conclusion: The prosecutor's misstatements on reasonable doubt and systematic conditioning of the venire violated due process. The conviction must be vacated.
+
+---
+
+GROUND 36: IMPROPER BURDEN-MET DECLARATIONS
+
+Issue: Whether the prosecutor violated due process by repeatedly declaring during closing argument that the State had "met its burden" or "proved" each element of the charged crimes, thereby usurping the jury's exclusive role as the arbiter of whether the State had carried its burden of proof.
+
+Rule: The prosecutor may not express a personal opinion as to whether the State has met its burden of proof; that determination is the exclusive province of the jury. United States v. Young, 470 U.S. 1, 18 (1985). A prosecutor's statement that the government has "proved" or "met" its burden invades the province of the jury and constitutes reversible misconduct when it is pervasive and not isolated. See United States v. Modica, 663 F.2d 1173, 1178-79 (2d Cir. 1981) (prosecutor's repeated declarations that the government had "proved" its case usurped the jury's function). The test is whether the prosecutor's comments "so infected the trial with unfairness as to make the resulting conviction a denial of due process." Donnelly v. DeChristoforo, 416 U.S. 637, 643 (1974). Where the prosecutor repeatedly tells the jury that the State has already met its burden on each element, the cumulative effect is to strip the jury of its independent judgment. Berger v. United States, 295 U.S. 78, 88 (1935).
+
+Facts: During closing argument, the prosecutor systematically walked through each element of the two charged counts and, after playing short clips from the forensic interview, declared the State's burden met on each one. For Count I, she declared: "The State of Oklahoma has met their burden of proof as it relates to that first element" (Tr. IV 19); "Right there. Right there we've met that element" (Tr. IV 20); "the State of Oklahoma has met their burden for that second element of touching and felt" (Tr. IV 21); "the State of Oklahoma has met their burden of proof as it relates to the third element, the body or private parts" (Tr. IV 21-22); "we have proved our burden of proof as it relates to that fourth element" (Tr. IV 22); "The State of Oklahoma has met their fifth element" (Tr. IV 24); "the State of Oklahoma has met their burden as it relates to the sixth element" (Tr. IV 25). For Count II, she continued: "the State of Oklahoma has demonstrated all three of these elements" (Tr. IV 27). She told the jury: "And because of that, the State of Oklahoma is going to ask that you find the defendant guilty on both counts" (Tr. IV 37). In total, the prosecutor declared the State's burden satisfied on each element at least eight separate times during closing.
+
+Analysis: These were not arguments about what the evidence showed; they were direct assertions that the State had already proven its case. Under Young and Modica, a prosecutor may not tell the jury that the government has met its burden—that determination belongs exclusively to the jury. By walking through each element and declaring it satisfied, the prosecutor effectively instructed the jury that its task was complete before deliberations began. The repetition was not isolated but systematic and deliberate, covering every element of both counts. Under Berger and Donnelly, this pervasive usurpation of the jury's function rendered the trial fundamentally unfair. The prejudice is manifest: the jury was told, repeatedly and emphatically, that the State had already done its job, leaving the jury with the impression that its role was merely to ratify the prosecutor's conclusions rather than to independently determine whether the evidence satisfied the constitutional standard of proof beyond a reasonable doubt.
+
+Conclusion: The prosecutor's repeated declarations that the State had met its burden on each element violated due process by usurping the jury's exclusive role. The conviction must be vacated.
+
+---
+
+GROUND 37: CUMULATIVE EFFECT
+
+Issue: Whether the cumulative effect of the prosecutor's pervasive misconduct---spanning voir dire through closing argument---rendered Petitioner's trial fundamentally unfair in violation of due process.
+
+Rule: "The cumulative effect of the prosecutor's misconduct must be considered to determine if the defendant was afforded a fair trial." Donnelly v. DeChristoforo, 416 U.S. 637, 643 (1974). If the cumulative effect of the prosecutor's remarks was to undermine the fairness of the trial, reversal is required. Berger v. United States, 295 U.S. 78, 88 (1935). Each instance of misconduct is assessed for its cumulative effect on the trial as a whole. Cargle v. Mullin, 317 F.3d 1196, 1206 (10th Cir. 2003). When misconduct is "pronounced and persistent," the probable cumulative effect mandates a new trial. United States v. Darden, 688 F.3d 382, 391 (8th Cir. 2012) (Bright, J., dissenting).
+
+Facts: The trial record contains overwhelming evidence of GROUND, documented in the 107-page appendix: over 185 improper statements during voir dire and over 85 instances during closing argument. The voir dire misconduct included: trivializing the burden of proof through the "potato soup" analogy; falsely telling jurors they would receive no reasonable doubt instruction; asking leading questions designed to precondition jurors to excuse lack of corroborating evidence and to accept the word of a child alone; using highly personal hypotheticals (asking a juror to describe her "last consensual sexual encounter") to evoke discomfort and equate it with the complainant's experience; defining legal terms; and pre-committing jurors to find guilt based on circumstantial evidence. The closing argument misconduct included: making a knowing false statement ("No one ever said 2018"); vouching repeatedly for two judicially impeached witnesses ("We know she's telling the truth," "we know he's not lying"); using inflammatory epithets ("child molester," "sex offender"); making golden rule arguments; shifting the burden of proof ("Complain to the chief"); misstating the law on credibility ("only a seasoned liar" is consistent); and selectively editing the forensic interview to present a misleading picture to the jury. The prosecutor also made multiple improper declarations that the State had "met its burden" on each element, directly usurping the jury's role.
+
+Analysis: When a prosecutor engages in misconduct from voir dire through closing---conditioning jurors, misstating law, vouching for impeached witnesses, making false claims, using inflammatory language, and selectively presenting evidence---the trial cannot be fundamentally fair. Under Berger and Donnelly, cumulative misconduct violates due process. Under Cargle, the Tenth Circuit requires consideration of the cumulative effect to determine if the trial was fair. Here, the misconduct was not isolated but pervasive, meeting the standard described in Darden as "pronounced and persistent." The combination of a pretrial conditioning of the jury to accept a lowered burden, followed by a closing argument that misrepresented the record, vouched for witnesses the court had instructed the jury to view with caution, and appealed repeatedly to emotion and prejudice, rendered the trial fundamentally unfair. No single curative instruction could have dispelled the cumulative prejudice.
+
+Conclusion: The cumulative effect of pervasive GROUND rendered Petitioner's trial fundamentally unfair. The conviction must be vacated.
+
